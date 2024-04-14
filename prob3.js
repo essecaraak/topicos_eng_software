@@ -1,25 +1,58 @@
-//https://leetcode.com/problems/maximum-depth-of-binary-tree/
-// Definition for a binary tree node.
-function TreeNode(val, left, right) {
-    this.val = (val === undefined ? 0 : val);
-    this.left = (left === undefined ? null : left);
-    this.right = (right === undefined ? null : right);
+//https://leetcode.com/problems/3sum/description/
+ // Função auxiliar para evitar duplicatas
+function skipDuplicates(nums, index, direction) {
+    if (direction === 'left') {
+        while (index < nums.length - 1 && nums[index] === nums[index + 1]) {
+            index++;
+        }
+    } else {
+        while (index > 0 && nums[index] === nums[index - 1]) {
+            index--;
+        }
+    }
+    return index;
 }
 
-function maxDepth(root) {
-    if (!root) return 0;
+function threeSum(nums) {
+    const result = [];
     
-    // Recursively calculate the depth of the left and right subtrees
-    const leftDepth = maxDepth(root.left);
-    const rightDepth = maxDepth(root.right);
+    // Ordena o array para facilitar a busca de duplas
+    nums.sort((a, b) => a - b);
     
-    // Return the maximum depth among the left and right subtrees, plus 1 for the current node
-    return Math.max(leftDepth, rightDepth) + 1;
+    for (let i = 0; i < nums.length - 2; i++) {
+        // Evita duplicatas para o primeiro número
+        if (i > 0 && nums[i] === nums[i - 1]) continue;
+        
+        let left = i + 1;
+        let right = nums.length - 1;
+        
+        while (left < right) {
+            const sum = nums[i] + nums[left] + nums[right];
+            
+            if (sum === 0) {
+                result.push([nums[i], nums[left], nums[right]]);
+                
+                // Evita duplicatas para o segundo número
+                left = skipDuplicates(nums, left, 'left');
+                
+                // Evita duplicatas para o terceiro número
+                right = skipDuplicates(nums, right, 'right');
+                
+                left++;
+                right--;
+            } else if (sum < 0) {
+                left++;
+            } else {
+                right--;
+            }
+        }
+    }
+    
+    return result;
 }
 
-// Test cases
-const tree1 = new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)));
-console.log(maxDepth(tree1)); // Output: 3
+// Testes
+console.log(threeSum([-1, 0, 1, 2, -1, -4])); // Output: [[-1, -1, 2], [-1, 0, 1]]
+console.log(threeSum([0, 1, 1])); // Output: []
+console.log(threeSum([0, 0, 0])); // Output: [[0, 0, 0]]
 
-const tree2 = new TreeNode(1, null, new TreeNode(2));
-console.log(maxDepth(tree2)); // Output: 2

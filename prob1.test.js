@@ -24,7 +24,7 @@ function checkPalindrome(str) {
 test("testando...", () =>{
     expect(isPalindrome(121)).toBeTruthy()
     expect(isPalindrome(-121)).toBeFalsy()
-    expect(isPalindrome(10)).toBeTruthy()
+    expect(isPalindrome(10)).toBeFalsy()
 })
 
 console.log(isPalindrome(121)); // Output: true
