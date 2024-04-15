@@ -8,21 +8,23 @@ function getValue(char) {
         case 'C': return 100;
         case 'D': return 500;
         case 'M': return 1000;
-        default: return 0;
+        default: return -1; // Retorna -1 se o caractere não for reconhecido como numeral romano válido
     }
 }
-function romanToInt(s) {
-    // Função auxiliar para mapear os valores dos caracteres romanos para números inteiros
-    
 
+function romanToInt(s) {
     let result = 0;
     let prevValue = 0;
 
-    for (let i = s.length - 1; i >= 0; i--) {
+    for (let i = 0; i < s.length; i++) {
         const value = getValue(s[i]);
+        if (value == -1 ) {
+            return "não é um numero romano válido"; // Retorna uma mensagem indicando que o numeral romano é inválido
+        }
+        
         if (value < prevValue) {
             result -= value;
-        } else {
+        } else if(value > prevValue ) {    
             result += value;
         }
         prevValue = value;
@@ -31,7 +33,8 @@ function romanToInt(s) {
     return result;
 }
 
-// Test cases
+// Testando com "IM"
+console.log(romanToInt("IMA")); // Output: "não é um numero romano válido"
 console.log(romanToInt("III")); // Output: 3
 console.log(romanToInt("LVIII")); // Output: 58
 console.log(romanToInt("MCMXCIV")); // Output: 1994
