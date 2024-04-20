@@ -17,7 +17,4 @@ function checkPalindrome(str) {
     return true;
 }
 
-// Test cases
-console.log(isPalindrome(121)); // Output: true
-console.log(isPalindrome(-121)); // Output: false
-console.log(isPalindrome(10)); // Output: false
+module.exports = { isPalindrome, checkPalindrome };

@@ -1,49 +1,37 @@
-//https://leetcode.com/problems/basic-calculator/?envType=study-plan-v2&envId=top-interview-150
-const convertToInt = (char) => {
-    switch (char) {
-        case '0': return 0;
-        case '1': return 1;
-        case '2': return 2;
-        case '3': return 3;
-        case '4': return 4;
-        case '5': return 5;
-        case '6': return 6;
-        case '7': return 7;
-        case '8': return 8;
-        case '9': return 9;
-        default: return NaN;
-    }
-};
 var calculate = function (s) {
-    let ans = 0;
-    let num = 0;
-    let sign = 1;
-    let stack = [sign];
-
+    s = "(" + s + ")"
+    let stack = [];
+    let temp = [];
     for (let i = 0; i < s.length; i++) {
-        const c = s[i];
-        if (!isNaN(convertToInt(c))) {
-            num = num * 10 + (convertToInt(c));
-        } else if (c === '(') {
-            stack.push(sign);
-        } else if (c === ')') {
+        if (s[i] === " ") continue;
+        if (s[i] === ")") {
+            while (stack[stack.length - 1] !== "(") temp.push(stack.pop());
             stack.pop();
-        } else if (c === '+' || c === '-') {
-            ans += sign * num;
-            sign = (c === '+' ? 1 : -1) * stack[stack.length - 1];
-            num = 0;
+            stack.push(count(temp));
+            continue;
         }
+        if (isNum(stack[stack.length - 1]) && isNum(s[i])) {
+            stack[stack.length - 1] += s[i];
+            continue;
+        }
+        if (s[i] === "-" || s[i] === "+") {
+            if (stack.length === 0 || stack[stack.length - 1] === "(") stack.push("0");
+        }
+        stack.push(s[i]);
     }
+    return stack[0];
+};
 
-    return ans + sign * num;
+function count(temp) {
+    temp = temp.reverse();
+    while (temp.length !== 1) {
+        if (temp[1] === "+") temp[0] = (+temp[0]) + (+temp[2]);
+        if (temp[1] === "-") temp[0] = (+temp[0]) - (+temp[2]);
+        temp.splice(1, 2);
+    }
+    return temp.pop();
 }
 
-console.log(calculate('+1'))
-console.log(calculate('2+1'))
-console.log(calculate('+1+3'))
-console.log(calculate('-(3+4)'))
-console.log(calculate('9007199254740991+10000000000000000000000'))
-console.log()
-
-
-
+function isNum(str) {
+    return /[0-9]+/.test(str);
+}
