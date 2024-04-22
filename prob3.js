@@ -35,3 +35,5 @@ function count(temp) {
 function isNum(str) {
     return /[0-9]+/.test(str);
 }
+
+console.log(calculate("-(27+23)+3"))
