@@ -32,6 +32,6 @@ function generateTestCase() {
 const testCases = Array.from({ length: 980 }, generateTestCase);
 
 // Escreve o array de casos de teste em um arquivo JSON
-fs.writeFileSync(path.resolve('testCasesRomanos.json'), JSON.stringify(testCases, null, 2));
+fs.writeFileSync(path.resolve('testProb2.json'), JSON.stringify(testCases, null, 2));
 
 

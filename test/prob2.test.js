@@ -4,17 +4,17 @@ const { default: expect } = require("expect");
 
 const fs = require('fs');
 const path = require('path');
-const { isPalindrome, checkPalindrome } = require('../prob1'); // Importe suas funções aqui
+const { roman_to_Int, char_to_int } = require('../prob2'); // Importe suas funções aqui
 
 // Lendo o arquivo JSON com os casos de teste
-const testCases = JSON.parse(fs.readFileSync(path.resolve('testProb1.json'), 'utf-8'));
+const testCases = JSON.parse(fs.readFileSync(path.resolve('testProb2.json'), 'utf-8'));
 
-describe('Testando as funções isPalindrome e checkPalindrome', () => {
+describe('Testando as funções roman_to_int e Char_to_int', () => {
     testCases.forEach((testCase, index) => {
         const { input, expectedOutput } = testCase;
 
-        test(`Teste ${index + 1}: isPalindrome(${input}) deve retornar ${expectedOutput}`, () => {
-            expect(isPalindrome(input)).toBe(expectedOutput);
+        test(`Teste ${index + 1}: roman_to_Int(${input}) deve retornar ${expectedOutput}`, () => {
+            expect(roman_to_Int(input)).toBe(expectedOutput);
         });
 
         // test(`Teste ${index + 1}: checkPalindrome(${input}) deve retornar ${expectedOutput}`, () => {

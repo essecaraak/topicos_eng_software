@@ -1,4 +1,4 @@
-var calculate = function (s) {
+function calculate(s) {
     s = "(" + s + ")"
     let stack = [];
     let temp = [];
@@ -19,7 +19,8 @@ var calculate = function (s) {
         }
         stack.push(s[i]);
     }
-    return stack[0];
+    return parseInt(stack[0])
+    
 };
 
 function count(temp) {
@@ -36,4 +37,5 @@ function isNum(str) {
     return /[0-9]+/.test(str);
 }
 
-console.log(calculate("-(27+23)+3"))
+console.log(calculate("3"))
+module.exports = { calculate, count };

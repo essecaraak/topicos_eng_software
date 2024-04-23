@@ -1,0 +1,3922 @@
+[
+  {
+    "input": "DCCXLV",
+    "expectedOutput": 745
+  },
+  {
+    "input": "MCDXCIII",
+    "expectedOutput": 1493
+  },
+  {
+    "input": "MMCXXVI",
+    "expectedOutput": 2126
+  },
+  {
+    "input": "MMCDXXIII",
+    "expectedOutput": 2423
+  },
+  {
+    "input": "CDXXXII",
+    "expectedOutput": 432
+  },
+  {
+    "input": "MMDCCLXXVI",
+    "expectedOutput": 2776
+  },
+  {
+    "input": "DCXXXIV",
+    "expectedOutput": 634
+  },
+  {
+    "input": "CCLIII",
+    "expectedOutput": 253
+  },
+  {
+    "input": "DCCC",
+    "expectedOutput": 800
+  },
+  {
+    "input": "MMMCCCLXVI",
+    "expectedOutput": 3366
+  },
+  {
+    "input": "MMMCLXXII",
+    "expectedOutput": 3172
+  },
+  {
+    "input": "MMDCXCVII",
+    "expectedOutput": 2697
+  },
+  {
+    "input": "MMDXCI",
+    "expectedOutput": 2591
+  },
+  {
+    "input": "CCLXXII",
+    "expectedOutput": 272
+  },
+  {
+    "input": "MCMXXIV",
+    "expectedOutput": 1924
+  },
+  {
+    "input": "MMDXVI",
+    "expectedOutput": 2516
+  },
+  {
+    "input": "MMMCCXCIV",
+    "expectedOutput": 3294
+  },
+  {
+    "input": "MCDXXII",
+    "expectedOutput": 1422
+  },
+  {
+    "input": "CMXC",
+    "expectedOutput": 990
+  },
+  {
+    "input": "MMCMXLII",
+    "expectedOutput": 2942
+  },
+  {
+    "input": "MMCLXI",
+    "expectedOutput": 2161
+  },
+  {
+    "input": "MCDLX",
+    "expectedOutput": 1460
+  },
+  {
+    "input": "MMDCCXCVI",
+    "expectedOutput": 2796
+  },
+  {
+    "input": "DCCXCIV",
+    "expectedOutput": 794
+  },
+  {
+    "input": "MMMCCLXXXVII",
+    "expectedOutput": 3287
+  },
+  {
+    "input": "MDCLXV",
+    "expectedOutput": 1665
+  },
+  {
+    "input": "MMMDCLIII",
+    "expectedOutput": 3653
+  },
+  {
+    "input": "MCDXIV",
+    "expectedOutput": 1414
+  },
+  {
+    "input": "CX",
+    "expectedOutput": 110
+  },
+  {
+    "input": "LIX",
+    "expectedOutput": 59
+  },
+  {
+    "input": "MMMCCLXXX",
+    "expectedOutput": 3280
+  },
+  {
+    "input": "MCDXIX",
+    "expectedOutput": 1419
+  },
+  {
+    "input": "MCCL",
+    "expectedOutput": 1250
+  },
+  {
+    "input": "MMLXVI",
+    "expectedOutput": 2066
+  },
+  {
+    "input": "MDCCCXLVI",
+    "expectedOutput": 1846
+  },
+  {
+    "input": "MMCDLXVIII",
+    "expectedOutput": 2468
+  },
+  {
+    "input": "MMCCXLVI",
+    "expectedOutput": 2246
+  },
+  {
+    "input": "DCCLVI",
+    "expectedOutput": 756
+  },
+  {
+    "input": "MMDCCCXXXVII",
+    "expectedOutput": 2837
+  },
+  {
+    "input": "MMMDCVI",
+    "expectedOutput": 3606
+  },
+  {
+    "input": "MMMDCCXL",
+    "expectedOutput": 3740
+  },
+  {
+    "input": "MMMCMXCV",
+    "expectedOutput": 3995
+  },
+  {
+    "input": "DCCXXIX",
+    "expectedOutput": 729
+  },
+  {
+    "input": "DCCLI",
+    "expectedOutput": 751
+  },
+  {
+    "input": "MMCC",
+    "expectedOutput": 2200
+  },
+  {
+    "input": "MMCX",
+    "expectedOutput": 2110
+  },
+  {
+    "input": "MMLVII",
+    "expectedOutput": 2057
+  },
+  {
+    "input": "DCCXXIII",
+    "expectedOutput": 723
+  },
+  {
+    "input": "MMMDLXX",
+    "expectedOutput": 3570
+  },
+  {
+    "input": "MDCCXVII",
+    "expectedOutput": 1717
+  },
+  {
+    "input": "MCXXXVIII",
+    "expectedOutput": 1138
+  },
+  {
+    "input": "CCCLXXXII",
+    "expectedOutput": 382
+  },
+  {
+    "input": "MMCDXXXVII",
+    "expectedOutput": 2437
+  },
+  {
+    "input": "CDLXIX",
+    "expectedOutput": 469
+  },
+  {
+    "input": "MMMLVIII",
+    "expectedOutput": 3058
+  },
+  {
+    "input": "MMMCMLXXIII",
+    "expectedOutput": 3973
+  },
+  {
+    "input": "MDCVIII",
+    "expectedOutput": 1608
+  },
+  {
+    "input": "MMMLXXX",
+    "expectedOutput": 3080
+  },
+  {
+    "input": "CDXCVIII",
+    "expectedOutput": 498
+  },
+  {
+    "input": "MMMDCCXXXV",
+    "expectedOutput": 3735
+  },
+  {
+    "input": "LXVII",
+    "expectedOutput": 67
+  },
+  {
+    "input": "DCCLXIV",
+    "expectedOutput": 764
+  },
+  {
+    "input": "DCCXLI",
+    "expectedOutput": 741
+  },
+  {
+    "input": "MMCCXXI",
+    "expectedOutput": 2221
+  },
+  {
+    "input": "MCDXCIV",
+    "expectedOutput": 1494
+  },
+  {
+    "input": "MCCCVI",
+    "expectedOutput": 1306
+  },
+  {
+    "input": "MMMCCCII",
+    "expectedOutput": 3302
+  },
+  {
+    "input": "MMDLXVIII",
+    "expectedOutput": 2568
+  },
+  {
+    "input": "MCMXXVII",
+    "expectedOutput": 1927
+  },
+  {
+    "input": "MDCLXXX",
+    "expectedOutput": 1680
+  },
+  {
+    "input": "MMMCCLXXV",
+    "expectedOutput": 3275
+  },
+  {
+    "input": "MMMCXX",
+    "expectedOutput": 3120
+  },
+  {
+    "input": "MMCDXLIII",
+    "expectedOutput": 2443
+  },
+  {
+    "input": "MCCCIV",
+    "expectedOutput": 1304
+  },
+  {
+    "input": "MDCIII",
+    "expectedOutput": 1603
+  },
+  {
+    "input": "MDCCXXXIII",
+    "expectedOutput": 1733
+  },
+  {
+    "input": "LII",
+    "expectedOutput": 52
+  },
+  {
+    "input": "DCCCXXXVI",
+    "expectedOutput": 836
+  },
+  {
+    "input": "MMMCXXXVIII",
+    "expectedOutput": 3138
+  },
+  {
+    "input": "DCLXVII",
+    "expectedOutput": 667
+  },
+  {
+    "input": "MDXCVIII",
+    "expectedOutput": 1598
+  },
+  {
+    "input": "MCDXIX",
+    "expectedOutput": 1419
+  },
+  {
+    "input": "CMXCVII",
+    "expectedOutput": 997
+  },
+  {
+    "input": "MMMCCLXI",
+    "expectedOutput": 3261
+  },
+  {
+    "input": "MXXVI",
+    "expectedOutput": 1026
+  },
+  {
+    "input": "MDCVI",
+    "expectedOutput": 1606
+  },
+  {
+    "input": "MMCDXXXII",
+    "expectedOutput": 2432
+  },
+  {
+    "input": "MMDLXXIX",
+    "expectedOutput": 2579
+  },
+  {
+    "input": "MMDCCLII",
+    "expectedOutput": 2752
+  },
+  {
+    "input": "MCMXXIV",
+    "expectedOutput": 1924
+  },
+  {
+    "input": "CIII",
+    "expectedOutput": 103
+  },
+  {
+    "input": "MCXCIX",
+    "expectedOutput": 1199
+  },
+  {
+    "input": "MCCCXXI",
+    "expectedOutput": 1321
+  },
+  {
+    "input": "MCCCLXIX",
+    "expectedOutput": 1369
+  },
+  {
+    "input": "DCCLXXI",
+    "expectedOutput": 771
+  },
+  {
+    "input": "MMCCCXVIII",
+    "expectedOutput": 2318
+  },
+  {
+    "input": "XLIV",
+    "expectedOutput": 44
+  },
+  {
+    "input": "MMCDXI",
+    "expectedOutput": 2411
+  },
+  {
+    "input": "MMMDCCXVI",
+    "expectedOutput": 3716
+  },
+  {
+    "input": "MMDCCCLXXXII",
+    "expectedOutput": 2882
+  },
+  {
+    "input": "CXXX",
+    "expectedOutput": 130
+  },
+  {
+    "input": "CCCLVII",
+    "expectedOutput": 357
+  },
+  {
+    "input": "CDXCVI",
+    "expectedOutput": 496
+  },
+  {
+    "input": "MDCCLXXVIII",
+    "expectedOutput": 1778
+  },
+  {
+    "input": "MMDCCCXXVI",
+    "expectedOutput": 2826
+  },
+  {
+    "input": "MMMCCXXXIX",
+    "expectedOutput": 3239
+  },
+  {
+    "input": "CDLXI",
+    "expectedOutput": 461
+  },
+  {
+    "input": "DCCLXXXIII",
+    "expectedOutput": 783
+  },
+  {
+    "input": "MMMDCCCXIII",
+    "expectedOutput": 3813
+  },
+  {
+    "input": "DCCXXXVIII",
+    "expectedOutput": 738
+  },
+  {
+    "input": "MMCXCIX",
+    "expectedOutput": 2199
+  },
+  {
+    "input": "MCDXCVII",
+    "expectedOutput": 1497
+  },
+  {
+    "input": "MCDXXIX",
+    "expectedOutput": 1429
+  },
+  {
+    "input": "MMMDCXCIII",
+    "expectedOutput": 3693
+  },
+  {
+    "input": "CXXXIX",
+    "expectedOutput": 139
+  },
+  {
+    "input": "CDLXII",
+    "expectedOutput": 462
+  },
+  {
+    "input": "MMDC",
+    "expectedOutput": 2600
+  },
+  {
+    "input": "MMCXXXII",
+    "expectedOutput": 2132
+  },
+  {
+    "input": "MCCLXXVI",
+    "expectedOutput": 1276
+  },
+  {
+    "input": "MMXXV",
+    "expectedOutput": 2025
+  },
+  {
+    "input": "MMCMXXIX",
+    "expectedOutput": 2929
+  },
+  {
+    "input": "MMMCMXL",
+    "expectedOutput": 3940
+  },
+  {
+    "input": "MDLXIII",
+    "expectedOutput": 1563
+  },
+  {
+    "input": "MMDCCCXXIX",
+    "expectedOutput": 2829
+  },
+  {
+    "input": "MMMCCLXXIV",
+    "expectedOutput": 3274
+  },
+  {
+    "input": "DCCLXIX",
+    "expectedOutput": 769
+  },
+  {
+    "input": "MMDCCCXLV",
+    "expectedOutput": 2845
+  },
+  {
+    "input": "DCCLXXXVIII",
+    "expectedOutput": 788
+  },
+  {
+    "input": "CM",
+    "expectedOutput": 900
+  },
+  {
+    "input": "MMMCCLXXXVIII",
+    "expectedOutput": 3288
+  },
+  {
+    "input": "MDCLXXX",
+    "expectedOutput": 1680
+  },
+  {
+    "input": "MMMDCCLXVIII",
+    "expectedOutput": 3768
+  },
+  {
+    "input": "MMDCCLXXIV",
+    "expectedOutput": 2774
+  },
+  {
+    "input": "MCMLXXXII",
+    "expectedOutput": 1982
+  },
+  {
+    "input": "MCMXXIV",
+    "expectedOutput": 1924
+  },
+  {
+    "input": "MMCDXLVII",
+    "expectedOutput": 2447
+  },
+  {
+    "input": "DCXCVI",
+    "expectedOutput": 696
+  },
+  {
+    "input": "MMLXIV",
+    "expectedOutput": 2064
+  },
+  {
+    "input": "MXCIV",
+    "expectedOutput": 1094
+  },
+  {
+    "input": "MMDCCCXLIV",
+    "expectedOutput": 2844
+  },
+  {
+    "input": "MMMDCCCXIII",
+    "expectedOutput": 3813
+  },
+  {
+    "input": "MMCDLXXXVI",
+    "expectedOutput": 2486
+  },
+  {
+    "input": "MMCDLXXII",
+    "expectedOutput": 2472
+  },
+  {
+    "input": "MMMCDXXXII",
+    "expectedOutput": 3432
+  },
+  {
+    "input": "MMMCMLXVII",
+    "expectedOutput": 3967
+  },
+  {
+    "input": "MMMCDIV",
+    "expectedOutput": 3404
+  },
+  {
+    "input": "MCCCXIV",
+    "expectedOutput": 1314
+  },
+  {
+    "input": "MMMDCLXIV",
+    "expectedOutput": 3664
+  },
+  {
+    "input": "CDLXIX",
+    "expectedOutput": 469
+  },
+  {
+    "input": "MMXCV",
+    "expectedOutput": 2095
+  },
+  {
+    "input": "MMDCCXXV",
+    "expectedOutput": 2725
+  },
+  {
+    "input": "MMMCXCIX",
+    "expectedOutput": 3199
+  },
+  {
+    "input": "MMMDCCXIV",
+    "expectedOutput": 3714
+  },
+  {
+    "input": "MMMDLIX",
+    "expectedOutput": 3559
+  },
+  {
+    "input": "MMCXVIII",
+    "expectedOutput": 2118
+  },
+  {
+    "input": "CMLXI",
+    "expectedOutput": 961
+  },
+  {
+    "input": "LXIII",
+    "expectedOutput": 63
+  },
+  {
+    "input": "MMDCCXLV",
+    "expectedOutput": 2745
+  },
+  {
+    "input": "MCCIX",
+    "expectedOutput": 1209
+  },
+  {
+    "input": "MMMCDXLII",
+    "expectedOutput": 3442
+  },
+  {
+    "input": "DLXXXIV",
+    "expectedOutput": 584
+  },
+  {
+    "input": "MMDCCCLXXII",
+    "expectedOutput": 2872
+  },
+  {
+    "input": "DCCCXXIV",
+    "expectedOutput": 824
+  },
+  {
+    "input": "MMMCDIX",
+    "expectedOutput": 3409
+  },
+  {
+    "input": "MMDCCCXXVI",
+    "expectedOutput": 2826
+  },
+  {
+    "input": "MMCCCLIX",
+    "expectedOutput": 2359
+  },
+  {
+    "input": "CXLVIII",
+    "expectedOutput": 148
+  },
+  {
+    "input": "MMMCMXIV",
+    "expectedOutput": 3914
+  },
+  {
+    "input": "MMMLXX",
+    "expectedOutput": 3070
+  },
+  {
+    "input": "DCCXXIV",
+    "expectedOutput": 724
+  },
+  {
+    "input": "MMMDIX",
+    "expectedOutput": 3509
+  },
+  {
+    "input": "MMMLXIII",
+    "expectedOutput": 3063
+  },
+  {
+    "input": "MCCCLXXXIX",
+    "expectedOutput": 1389
+  },
+  {
+    "input": "MCMVIII",
+    "expectedOutput": 1908
+  },
+  {
+    "input": "MMCCCXLI",
+    "expectedOutput": 2341
+  },
+  {
+    "input": "MCDLXXXVI",
+    "expectedOutput": 1486
+  },
+  {
+    "input": "MMMDCCCVII",
+    "expectedOutput": 3807
+  },
+  {
+    "input": "MMDCCXCII",
+    "expectedOutput": 2792
+  },
+  {
+    "input": "MMMDCCXXXIII",
+    "expectedOutput": 3733
+  },
+  {
+    "input": "MMDCCXXXVIII",
+    "expectedOutput": 2738
+  },
+  {
+    "input": "MDCCCXCVIII",
+    "expectedOutput": 1898
+  },
+  {
+    "input": "CDXC",
+    "expectedOutput": 490
+  },
+  {
+    "input": "MMDLXXVIII",
+    "expectedOutput": 2578
+  },
+  {
+    "input": "MMMDXCIII",
+    "expectedOutput": 3593
+  },
+  {
+    "input": "DCCCLXXIV",
+    "expectedOutput": 874
+  },
+  {
+    "input": "MCMI",
+    "expectedOutput": 1901
+  },
+  {
+    "input": "MMMVI",
+    "expectedOutput": 3006
+  },
+  {
+    "input": "MMMCMLVII",
+    "expectedOutput": 3957
+  },
+  {
+    "input": "MMMDCCCLI",
+    "expectedOutput": 3851
+  },
+  {
+    "input": "MDCCLI",
+    "expectedOutput": 1751
+  },
+  {
+    "input": "MMDCIV",
+    "expectedOutput": 2604
+  },
+  {
+    "input": "MMCDLXXII",
+    "expectedOutput": 2472
+  },
+  {
+    "input": "MMDXLV",
+    "expectedOutput": 2545
+  },
+  {
+    "input": "CCCLIV",
+    "expectedOutput": 354
+  },
+  {
+    "input": "MMCDLXVIII",
+    "expectedOutput": 2468
+  },
+  {
+    "input": "MMMCMLIII",
+    "expectedOutput": 3953
+  },
+  {
+    "input": "MMDXLIX",
+    "expectedOutput": 2549
+  },
+  {
+    "input": "MCMXLVII",
+    "expectedOutput": 1947
+  },
+  {
+    "input": "MMMDCCLIX",
+    "expectedOutput": 3759
+  },
+  {
+    "input": "MMCXLIV",
+    "expectedOutput": 2144
+  },
+  {
+    "input": "MMMDCCCXCVII",
+    "expectedOutput": 3897
+  },
+  {
+    "input": "DCCXCII",
+    "expectedOutput": 792
+  },
+  {
+    "input": "MMMDI",
+    "expectedOutput": 3501
+  },
+  {
+    "input": "MMMCCLXXXVIII",
+    "expectedOutput": 3288
+  },
+  {
+    "input": "CCCLXXXI",
+    "expectedOutput": 381
+  },
+  {
+    "input": "DXLIX",
+    "expectedOutput": 549
+  },
+  {
+    "input": "MCDX",
+    "expectedOutput": 1410
+  },
+  {
+    "input": "CCLXXVIII",
+    "expectedOutput": 278
+  },
+  {
+    "input": "DCXII",
+    "expectedOutput": 612
+  },
+  {
+    "input": "CCXLI",
+    "expectedOutput": 241
+  },
+  {
+    "input": "DCCLIII",
+    "expectedOutput": 753
+  },
+  {
+    "input": "MDCCCXCIII",
+    "expectedOutput": 1893
+  },
+  {
+    "input": "MCDLXVIII",
+    "expectedOutput": 1468
+  },
+  {
+    "input": "MMCCCIII",
+    "expectedOutput": 2303
+  },
+  {
+    "input": "MMCCLXV",
+    "expectedOutput": 2265
+  },
+  {
+    "input": "MMDXX",
+    "expectedOutput": 2520
+  },
+  {
+    "input": "DCCLXIV",
+    "expectedOutput": 764
+  },
+  {
+    "input": "MMMLXXXII",
+    "expectedOutput": 3082
+  },
+  {
+    "input": "MMMDCCCLXXVII",
+    "expectedOutput": 3877
+  },
+  {
+    "input": "MMCDLXXV",
+    "expectedOutput": 2475
+  },
+  {
+    "input": "MMMCDXVI",
+    "expectedOutput": 3416
+  },
+  {
+    "input": "MCMI",
+    "expectedOutput": 1901
+  },
+  {
+    "input": "MMMDCCXLIII",
+    "expectedOutput": 3743
+  },
+  {
+    "input": "MMMCCXI",
+    "expectedOutput": 3211
+  },
+  {
+    "input": "MMMDCLXXXVI",
+    "expectedOutput": 3686
+  },
+  {
+    "input": "MCCLX",
+    "expectedOutput": 1260
+  },
+  {
+    "input": "CMXV",
+    "expectedOutput": 915
+  },
+  {
+    "input": "MCCCXLII",
+    "expectedOutput": 1342
+  },
+  {
+    "input": "MMCMLXIII",
+    "expectedOutput": 2963
+  },
+  {
+    "input": "MLXXXI",
+    "expectedOutput": 1081
+  },
+  {
+    "input": "MMMCDLIII",
+    "expectedOutput": 3453
+  },
+  {
+    "input": "MCCCLXXXVI",
+    "expectedOutput": 1386
+  },
+  {
+    "input": "MMMDCCLVI",
+    "expectedOutput": 3756
+  },
+  {
+    "input": "MMMCMLXXI",
+    "expectedOutput": 3971
+  },
+  {
+    "input": "DLXIII",
+    "expectedOutput": 563
+  },
+  {
+    "input": "DCXXIV",
+    "expectedOutput": 624
+  },
+  {
+    "input": "MDCXXV",
+    "expectedOutput": 1625
+  },
+  {
+    "input": "MMMDCCXLVI",
+    "expectedOutput": 3746
+  },
+  {
+    "input": "MCCLIII",
+    "expectedOutput": 1253
+  },
+  {
+    "input": "MMXLVII",
+    "expectedOutput": 2047
+  },
+  {
+    "input": "MMMXXXVI",
+    "expectedOutput": 3036
+  },
+  {
+    "input": "MMCMIV",
+    "expectedOutput": 2904
+  },
+  {
+    "input": "DXXX",
+    "expectedOutput": 530
+  },
+  {
+    "input": "MMDCXL",
+    "expectedOutput": 2640
+  },
+  {
+    "input": "CMLXXV",
+    "expectedOutput": 975
+  },
+  {
+    "input": "MMCCXXXVI",
+    "expectedOutput": 2236
+  },
+  {
+    "input": "MDCCCLXXVI",
+    "expectedOutput": 1876
+  },
+  {
+    "input": "MMMCCLIII",
+    "expectedOutput": 3253
+  },
+  {
+    "input": "CCCXXIII",
+    "expectedOutput": 323
+  },
+  {
+    "input": "MCXXVI",
+    "expectedOutput": 1126
+  },
+  {
+    "input": "CDXXVI",
+    "expectedOutput": 426
+  },
+  {
+    "input": "MMMDLXXXVII",
+    "expectedOutput": 3587
+  },
+  {
+    "input": "CLXXXV",
+    "expectedOutput": 185
+  },
+  {
+    "input": "DXXVI",
+    "expectedOutput": 526
+  },
+  {
+    "input": "DXXV",
+    "expectedOutput": 525
+  },
+  {
+    "input": "MMXXIV",
+    "expectedOutput": 2024
+  },
+  {
+    "input": "MMMDXXXIV",
+    "expectedOutput": 3534
+  },
+  {
+    "input": "MMMCCLV",
+    "expectedOutput": 3255
+  },
+  {
+    "input": "DLXXX",
+    "expectedOutput": 580
+  },
+  {
+    "input": "MMCDXXIV",
+    "expectedOutput": 2424
+  },
+  {
+    "input": "MMMDLXXV",
+    "expectedOutput": 3575
+  },
+  {
+    "input": "MCDLVIII",
+    "expectedOutput": 1458
+  },
+  {
+    "input": "MDCCLI",
+    "expectedOutput": 1751
+  },
+  {
+    "input": "MMCDXXXVI",
+    "expectedOutput": 2436
+  },
+  {
+    "input": "MMMDCCLIII",
+    "expectedOutput": 3753
+  },
+  {
+    "input": "CMXXIX",
+    "expectedOutput": 929
+  },
+  {
+    "input": "D",
+    "expectedOutput": 500
+  },
+  {
+    "input": "MMMCMXXXV",
+    "expectedOutput": 3935
+  },
+  {
+    "input": "DCCCLI",
+    "expectedOutput": 851
+  },
+  {
+    "input": "DCCXCVII",
+    "expectedOutput": 797
+  },
+  {
+    "input": "LI",
+    "expectedOutput": 51
+  },
+  {
+    "input": "MDCCCXV",
+    "expectedOutput": 1815
+  },
+  {
+    "input": "XIV",
+    "expectedOutput": 14
+  },
+  {
+    "input": "MMDCXCIV",
+    "expectedOutput": 2694
+  },
+  {
+    "input": "MCCLXXIII",
+    "expectedOutput": 1273
+  },
+  {
+    "input": "MXCIX",
+    "expectedOutput": 1099
+  },
+  {
+    "input": "MMCVI",
+    "expectedOutput": 2106
+  },
+  {
+    "input": "MMDCCXXVIII",
+    "expectedOutput": 2728
+  },
+  {
+    "input": "MMMDCCLXXXVIII",
+    "expectedOutput": 3788
+  },
+  {
+    "input": "MMCDLXXXIV",
+    "expectedOutput": 2484
+  },
+  {
+    "input": "MMMDCLXVII",
+    "expectedOutput": 3667
+  },
+  {
+    "input": "MMMDCCXVI",
+    "expectedOutput": 3716
+  },
+  {
+    "input": "MMCCV",
+    "expectedOutput": 2205
+  },
+  {
+    "input": "MMMCCCIX",
+    "expectedOutput": 3309
+  },
+  {
+    "input": "MCMLXXXIII",
+    "expectedOutput": 1983
+  },
+  {
+    "input": "MMDCCC",
+    "expectedOutput": 2800
+  },
+  {
+    "input": "MMMDCCXLIV",
+    "expectedOutput": 3744
+  },
+  {
+    "input": "MMCDXL",
+    "expectedOutput": 2440
+  },
+  {
+    "input": "MMMCMLV",
+    "expectedOutput": 3955
+  },
+  {
+    "input": "MCDXXIII",
+    "expectedOutput": 1423
+  },
+  {
+    "input": "CLXIII",
+    "expectedOutput": 163
+  },
+  {
+    "input": "CDXXXI",
+    "expectedOutput": 431
+  },
+  {
+    "input": "MMCCXCVI",
+    "expectedOutput": 2296
+  },
+  {
+    "input": "MMMCDXXXVI",
+    "expectedOutput": 3436
+  },
+  {
+    "input": "MDXV",
+    "expectedOutput": 1515
+  },
+  {
+    "input": "CMLXXVII",
+    "expectedOutput": 977
+  },
+  {
+    "input": "MMMCDXLVIII",
+    "expectedOutput": 3448
+  },
+  {
+    "input": "MDCCLXIX",
+    "expectedOutput": 1769
+  },
+  {
+    "input": "MMCDXLV",
+    "expectedOutput": 2445
+  },
+  {
+    "input": "MMMDCCLXXI",
+    "expectedOutput": 3771
+  },
+  {
+    "input": "MMMCDLI",
+    "expectedOutput": 3451
+  },
+  {
+    "input": "XXXIII",
+    "expectedOutput": 33
+  },
+  {
+    "input": "MMMCCLIX",
+    "expectedOutput": 3259
+  },
+  {
+    "input": "MCXLIII",
+    "expectedOutput": 1143
+  },
+  {
+    "input": "MMMDLXVIII",
+    "expectedOutput": 3568
+  },
+  {
+    "input": "CCCXLI",
+    "expectedOutput": 341
+  },
+  {
+    "input": "CMXLIV",
+    "expectedOutput": 944
+  },
+  {
+    "input": "MCLXX",
+    "expectedOutput": 1170
+  },
+  {
+    "input": "CMIX",
+    "expectedOutput": 909
+  },
+  {
+    "input": "CCXLVIII",
+    "expectedOutput": 248
+  },
+  {
+    "input": "MMCMXXI",
+    "expectedOutput": 2921
+  },
+  {
+    "input": "MMMDCCXCIX",
+    "expectedOutput": 3799
+  },
+  {
+    "input": "MCDXXXVIII",
+    "expectedOutput": 1438
+  },
+  {
+    "input": "DCCVII",
+    "expectedOutput": 707
+  },
+  {
+    "input": "MMDCCCIII",
+    "expectedOutput": 2803
+  },
+  {
+    "input": "MMMDCCXIV",
+    "expectedOutput": 3714
+  },
+  {
+    "input": "MMMDCLXXI",
+    "expectedOutput": 3671
+  },
+  {
+    "input": "MMDCLXXXV",
+    "expectedOutput": 2685
+  },
+  {
+    "input": "MMMCDXCIII",
+    "expectedOutput": 3493
+  },
+  {
+    "input": "MMMCCCXXIII",
+    "expectedOutput": 3323
+  },
+  {
+    "input": "MCCCXCIII",
+    "expectedOutput": 1393
+  },
+  {
+    "input": "MCDXXVI",
+    "expectedOutput": 1426
+  },
+  {
+    "input": "MMMDCLXXI",
+    "expectedOutput": 3671
+  },
+  {
+    "input": "MMMCCCXLVII",
+    "expectedOutput": 3347
+  },
+  {
+    "input": "MMMDCCCXXXII",
+    "expectedOutput": 3832
+  },
+  {
+    "input": "MMMLXII",
+    "expectedOutput": 3062
+  },
+  {
+    "input": "MMDCCCXV",
+    "expectedOutput": 2815
+  },
+  {
+    "input": "MMCLXXXII",
+    "expectedOutput": 2182
+  },
+  {
+    "input": "MMMCCLXXXV",
+    "expectedOutput": 3285
+  },
+  {
+    "input": "MDCCVII",
+    "expectedOutput": 1707
+  },
+  {
+    "input": "MMMDCXVII",
+    "expectedOutput": 3617
+  },
+  {
+    "input": "MDCXLIII",
+    "expectedOutput": 1643
+  },
+  {
+    "input": "MDXXV",
+    "expectedOutput": 1525
+  },
+  {
+    "input": "MMCCCXLVIII",
+    "expectedOutput": 2348
+  },
+  {
+    "input": "MMMXCIV",
+    "expectedOutput": 3094
+  },
+  {
+    "input": "MMMCLIV",
+    "expectedOutput": 3154
+  },
+  {
+    "input": "MMCMXCI",
+    "expectedOutput": 2991
+  },
+  {
+    "input": "CCCXXXVIII",
+    "expectedOutput": 338
+  },
+  {
+    "input": "CL",
+    "expectedOutput": 150
+  },
+  {
+    "input": "CCLXXIX",
+    "expectedOutput": 279
+  },
+  {
+    "input": "MXVII",
+    "expectedOutput": 1017
+  },
+  {
+    "input": "CCXCIX",
+    "expectedOutput": 299
+  },
+  {
+    "input": "MDCCCLXXXI",
+    "expectedOutput": 1881
+  },
+  {
+    "input": "MMCCXVII",
+    "expectedOutput": 2217
+  },
+  {
+    "input": "DLX",
+    "expectedOutput": 560
+  },
+  {
+    "input": "MMMDCCCVIII",
+    "expectedOutput": 3808
+  },
+  {
+    "input": "MMCMXXVI",
+    "expectedOutput": 2926
+  },
+  {
+    "input": "MCCLXXVI",
+    "expectedOutput": 1276
+  },
+  {
+    "input": "MMMDXXXI",
+    "expectedOutput": 3531
+  },
+  {
+    "input": "MMMCCLXII",
+    "expectedOutput": 3262
+  },
+  {
+    "input": "CDLV",
+    "expectedOutput": 455
+  },
+  {
+    "input": "MCCCLIII",
+    "expectedOutput": 1353
+  },
+  {
+    "input": "LXXXII",
+    "expectedOutput": 82
+  },
+  {
+    "input": "MMCCXIX",
+    "expectedOutput": 2219
+  },
+  {
+    "input": "MMDCCCLXVI",
+    "expectedOutput": 2866
+  },
+  {
+    "input": "DCCLV",
+    "expectedOutput": 755
+  },
+  {
+    "input": "MMMDCCXLI",
+    "expectedOutput": 3741
+  },
+  {
+    "input": "MMDCLVIII",
+    "expectedOutput": 2658
+  },
+  {
+    "input": "CCLXXVI",
+    "expectedOutput": 276
+  },
+  {
+    "input": "MMMCXLII",
+    "expectedOutput": 3142
+  },
+  {
+    "input": "MMCLI",
+    "expectedOutput": 2151
+  },
+  {
+    "input": "MMCCLXXX",
+    "expectedOutput": 2280
+  },
+  {
+    "input": "MMMDCCLX",
+    "expectedOutput": 3760
+  },
+  {
+    "input": "MMMCCCI",
+    "expectedOutput": 3301
+  },
+  {
+    "input": "MMCDXLVII",
+    "expectedOutput": 2447
+  },
+  {
+    "input": "MDXXXIX",
+    "expectedOutput": 1539
+  },
+  {
+    "input": "MDLXVIII",
+    "expectedOutput": 1568
+  },
+  {
+    "input": "MCCCXXII",
+    "expectedOutput": 1322
+  },
+  {
+    "input": "MDCXV",
+    "expectedOutput": 1615
+  },
+  {
+    "input": "MMCMLXXII",
+    "expectedOutput": 2972
+  },
+  {
+    "input": "MMMCCIX",
+    "expectedOutput": 3209
+  },
+  {
+    "input": "MMMDCCLXXXII",
+    "expectedOutput": 3782
+  },
+  {
+    "input": "CIV",
+    "expectedOutput": 104
+  },
+  {
+    "input": "CDIII",
+    "expectedOutput": 403
+  },
+  {
+    "input": "MMMCDXLI",
+    "expectedOutput": 3441
+  },
+  {
+    "input": "DCCX",
+    "expectedOutput": 710
+  },
+  {
+    "input": "MDCCLXIX",
+    "expectedOutput": 1769
+  },
+  {
+    "input": "II",
+    "expectedOutput": 2
+  },
+  {
+    "input": "MDLIII",
+    "expectedOutput": 1553
+  },
+  {
+    "input": "MMMCDXCII",
+    "expectedOutput": 3492
+  },
+  {
+    "input": "CCXCVII",
+    "expectedOutput": 297
+  },
+  {
+    "input": "DCLII",
+    "expectedOutput": 652
+  },
+  {
+    "input": "MCDLXXIII",
+    "expectedOutput": 1473
+  },
+  {
+    "input": "MMCCLXXXI",
+    "expectedOutput": 2281
+  },
+  {
+    "input": "MMMCMLXXXIX",
+    "expectedOutput": 3989
+  },
+  {
+    "input": "CDXCV",
+    "expectedOutput": 495
+  },
+  {
+    "input": "MDXXXV",
+    "expectedOutput": 1535
+  },
+  {
+    "input": "MMCCLXXXVIII",
+    "expectedOutput": 2288
+  },
+  {
+    "input": "DCCCXXVII",
+    "expectedOutput": 827
+  },
+  {
+    "input": "MMMCCXLIV",
+    "expectedOutput": 3244
+  },
+  {
+    "input": "MDCCLXXV",
+    "expectedOutput": 1775
+  },
+  {
+    "input": "MMDCCXXIII",
+    "expectedOutput": 2723
+  },
+  {
+    "input": "MMMCLXVII",
+    "expectedOutput": 3167
+  },
+  {
+    "input": "CIII",
+    "expectedOutput": 103
+  },
+  {
+    "input": "MMMCMLXXVII",
+    "expectedOutput": 3977
+  },
+  {
+    "input": "MMDCCXVI",
+    "expectedOutput": 2716
+  },
+  {
+    "input": "MMMCII",
+    "expectedOutput": 3102
+  },
+  {
+    "input": "MMCXVI",
+    "expectedOutput": 2116
+  },
+  {
+    "input": "MMMDCXXIV",
+    "expectedOutput": 3624
+  },
+  {
+    "input": "MMCDXXVI",
+    "expectedOutput": 2426
+  },
+  {
+    "input": "MDCCLXXIX",
+    "expectedOutput": 1779
+  },
+  {
+    "input": "MXLIV",
+    "expectedOutput": 1044
+  },
+  {
+    "input": "CCCLIV",
+    "expectedOutput": 354
+  },
+  {
+    "input": "MMDCXXXVII",
+    "expectedOutput": 2637
+  },
+  {
+    "input": "DCCXXXII",
+    "expectedOutput": 732
+  },
+  {
+    "input": "MMMCCCXXX",
+    "expectedOutput": 3330
+  },
+  {
+    "input": "MCCCXVI",
+    "expectedOutput": 1316
+  },
+  {
+    "input": "MMDCX",
+    "expectedOutput": 2610
+  },
+  {
+    "input": "DCCCXXI",
+    "expectedOutput": 821
+  },
+  {
+    "input": "MCCXXXV",
+    "expectedOutput": 1235
+  },
+  {
+    "input": "DLXII",
+    "expectedOutput": 562
+  },
+  {
+    "input": "MMMDXXXII",
+    "expectedOutput": 3532
+  },
+  {
+    "input": "MDCLXXXVII",
+    "expectedOutput": 1687
+  },
+  {
+    "input": "MCDXCIII",
+    "expectedOutput": 1493
+  },
+  {
+    "input": "MMI",
+    "expectedOutput": 2001
+  },
+  {
+    "input": "MCLXIX",
+    "expectedOutput": 1169
+  },
+  {
+    "input": "MXLI",
+    "expectedOutput": 1041
+  },
+  {
+    "input": "MCXCIX",
+    "expectedOutput": 1199
+  },
+  {
+    "input": "MMXXVI",
+    "expectedOutput": 2026
+  },
+  {
+    "input": "CXCIX",
+    "expectedOutput": 199
+  },
+  {
+    "input": "MMDCCXCI",
+    "expectedOutput": 2791
+  },
+  {
+    "input": "MMDVI",
+    "expectedOutput": 2506
+  },
+  {
+    "input": "MMMLXXXVIII",
+    "expectedOutput": 3088
+  },
+  {
+    "input": "MMCLVI",
+    "expectedOutput": 2156
+  },
+  {
+    "input": "MCCLXXIII",
+    "expectedOutput": 1273
+  },
+  {
+    "input": "DCCCXXXVII",
+    "expectedOutput": 837
+  },
+  {
+    "input": "MMMCCXCIV",
+    "expectedOutput": 3294
+  },
+  {
+    "input": "CMXXIII",
+    "expectedOutput": 923
+  },
+  {
+    "input": "MMMLXIX",
+    "expectedOutput": 3069
+  },
+  {
+    "input": "DXCVIII",
+    "expectedOutput": 598
+  },
+  {
+    "input": "DCCCLVIII",
+    "expectedOutput": 858
+  },
+  {
+    "input": "MMCDVIII",
+    "expectedOutput": 2408
+  },
+  {
+    "input": "DXXX",
+    "expectedOutput": 530
+  },
+  {
+    "input": "MMMCDXXVI",
+    "expectedOutput": 3426
+  },
+  {
+    "input": "MMCXXXIX",
+    "expectedOutput": 2139
+  },
+  {
+    "input": "MMDCXCIX",
+    "expectedOutput": 2699
+  },
+  {
+    "input": "MMMCLXXXII",
+    "expectedOutput": 3182
+  },
+  {
+    "input": "MMMCMXI",
+    "expectedOutput": 3911
+  },
+  {
+    "input": "CLXXXVI",
+    "expectedOutput": 186
+  },
+  {
+    "input": "MMDCXLVI",
+    "expectedOutput": 2646
+  },
+  {
+    "input": "DCCCLXXIV",
+    "expectedOutput": 874
+  },
+  {
+    "input": "MV",
+    "expectedOutput": 1005
+  },
+  {
+    "input": "MMMXLI",
+    "expectedOutput": 3041
+  },
+  {
+    "input": "MMMCCCIII",
+    "expectedOutput": 3303
+  },
+  {
+    "input": "MMCLXXXIX",
+    "expectedOutput": 2189
+  },
+  {
+    "input": "MCDXII",
+    "expectedOutput": 1412
+  },
+  {
+    "input": "CLXIX",
+    "expectedOutput": 169
+  },
+  {
+    "input": "MMMDXI",
+    "expectedOutput": 3511
+  },
+  {
+    "input": "MMMDXLVII",
+    "expectedOutput": 3547
+  },
+  {
+    "input": "MMMLIII",
+    "expectedOutput": 3053
+  },
+  {
+    "input": "MMCDLXXXVIII",
+    "expectedOutput": 2488
+  },
+  {
+    "input": "MMMDCCCLXXXIV",
+    "expectedOutput": 3884
+  },
+  {
+    "input": "XCIV",
+    "expectedOutput": 94
+  },
+  {
+    "input": "MCCCLXII",
+    "expectedOutput": 1362
+  },
+  {
+    "input": "CDIX",
+    "expectedOutput": 409
+  },
+  {
+    "input": "MMCMIII",
+    "expectedOutput": 2903
+  },
+  {
+    "input": "MMMDCCXXXVIII",
+    "expectedOutput": 3738
+  },
+  {
+    "input": "MMCXLVI",
+    "expectedOutput": 2146
+  },
+  {
+    "input": "MMCMLXIV",
+    "expectedOutput": 2964
+  },
+  {
+    "input": "MMMCCIII",
+    "expectedOutput": 3203
+  },
+  {
+    "input": "MMMCXXI",
+    "expectedOutput": 3121
+  },
+  {
+    "input": "MMMDLX",
+    "expectedOutput": 3560
+  },
+  {
+    "input": "MMDCCCVII",
+    "expectedOutput": 2807
+  },
+  {
+    "input": "MMCMXCV",
+    "expectedOutput": 2995
+  },
+  {
+    "input": "MMIII",
+    "expectedOutput": 2003
+  },
+  {
+    "input": "MMCMXXXV",
+    "expectedOutput": 2935
+  },
+  {
+    "input": "MDXXII",
+    "expectedOutput": 1522
+  },
+  {
+    "input": "MMCMXXXIX",
+    "expectedOutput": 2939
+  },
+  {
+    "input": "MMMCDI",
+    "expectedOutput": 3401
+  },
+  {
+    "input": "CCL",
+    "expectedOutput": 250
+  },
+  {
+    "input": "DCLXIV",
+    "expectedOutput": 664
+  },
+  {
+    "input": "MMCXLIV",
+    "expectedOutput": 2144
+  },
+  {
+    "input": "MMDCCCXXXVI",
+    "expectedOutput": 2836
+  },
+  {
+    "input": "MMMXXXVI",
+    "expectedOutput": 3036
+  },
+  {
+    "input": "MMMCXXVII",
+    "expectedOutput": 3127
+  },
+  {
+    "input": "DCCLIV",
+    "expectedOutput": 754
+  },
+  {
+    "input": "MMCCCIII",
+    "expectedOutput": 2303
+  },
+  {
+    "input": "MMMDXXVIII",
+    "expectedOutput": 3528
+  },
+  {
+    "input": "CMLXXIV",
+    "expectedOutput": 974
+  },
+  {
+    "input": "CLXXIV",
+    "expectedOutput": 174
+  },
+  {
+    "input": "MMMCMXCIII",
+    "expectedOutput": 3993
+  },
+  {
+    "input": "MMCLXIX",
+    "expectedOutput": 2169
+  },
+  {
+    "input": "MMCMLXXXII",
+    "expectedOutput": 2982
+  },
+  {
+    "input": "XCVIII",
+    "expectedOutput": 98
+  },
+  {
+    "input": "MMMDCLV",
+    "expectedOutput": 3655
+  },
+  {
+    "input": "MMMDXXXIX",
+    "expectedOutput": 3539
+  },
+  {
+    "input": "MMMCCCXCI",
+    "expectedOutput": 3391
+  },
+  {
+    "input": "MMMCCXII",
+    "expectedOutput": 3212
+  },
+  {
+    "input": "MMMCMLIV",
+    "expectedOutput": 3954
+  },
+  {
+    "input": "LXXXVI",
+    "expectedOutput": 86
+  },
+  {
+    "input": "CLXI",
+    "expectedOutput": 161
+  },
+  {
+    "input": "CCCXCV",
+    "expectedOutput": 395
+  },
+  {
+    "input": "MDCCLXIV",
+    "expectedOutput": 1764
+  },
+  {
+    "input": "CCCXXVI",
+    "expectedOutput": 326
+  },
+  {
+    "input": "MMMCCCXLVII",
+    "expectedOutput": 3347
+  },
+  {
+    "input": "XCI",
+    "expectedOutput": 91
+  },
+  {
+    "input": "MMMCMXLII",
+    "expectedOutput": 3942
+  },
+  {
+    "input": "MCDLXXVIII",
+    "expectedOutput": 1478
+  },
+  {
+    "input": "MXXIII",
+    "expectedOutput": 1023
+  },
+  {
+    "input": "MMCCCXXV",
+    "expectedOutput": 2325
+  },
+  {
+    "input": "MMDXLIII",
+    "expectedOutput": 2543
+  },
+  {
+    "input": "DCCCXLVI",
+    "expectedOutput": 846
+  },
+  {
+    "input": "MMCXLVII",
+    "expectedOutput": 2147
+  },
+  {
+    "input": "CCXXXVI",
+    "expectedOutput": 236
+  },
+  {
+    "input": "DCI",
+    "expectedOutput": 601
+  },
+  {
+    "input": "DLXXXVI",
+    "expectedOutput": 586
+  },
+  {
+    "input": "MMMDCCL",
+    "expectedOutput": 3750
+  },
+  {
+    "input": "MMMCXCIII",
+    "expectedOutput": 3193
+  },
+  {
+    "input": "MMMCDLXXXVI",
+    "expectedOutput": 3486
+  },
+  {
+    "input": "MCCCLXXI",
+    "expectedOutput": 1371
+  },
+  {
+    "input": "MDCXXXII",
+    "expectedOutput": 1632
+  },
+  {
+    "input": "MDIX",
+    "expectedOutput": 1509
+  },
+  {
+    "input": "DCCCXXX",
+    "expectedOutput": 830
+  },
+  {
+    "input": "DLXV",
+    "expectedOutput": 565
+  },
+  {
+    "input": "CII",
+    "expectedOutput": 102
+  },
+  {
+    "input": "MDCCCXXIII",
+    "expectedOutput": 1823
+  },
+  {
+    "input": "MMMCDXXII",
+    "expectedOutput": 3422
+  },
+  {
+    "input": "MMDCCXXXVII",
+    "expectedOutput": 2737
+  },
+  {
+    "input": "CCCXXII",
+    "expectedOutput": 322
+  },
+  {
+    "input": "MMMCCCIII",
+    "expectedOutput": 3303
+  },
+  {
+    "input": "MMMCCCXCIX",
+    "expectedOutput": 3399
+  },
+  {
+    "input": "MMMDCCCLXXIX",
+    "expectedOutput": 3879
+  },
+  {
+    "input": "MMMDXXXII",
+    "expectedOutput": 3532
+  },
+  {
+    "input": "MMMXIV",
+    "expectedOutput": 3014
+  },
+  {
+    "input": "CXCIX",
+    "expectedOutput": 199
+  },
+  {
+    "input": "DCCXXIX",
+    "expectedOutput": 729
+  },
+  {
+    "input": "CCCLXXXIX",
+    "expectedOutput": 389
+  },
+  {
+    "input": "MMMCXCVII",
+    "expectedOutput": 3197
+  },
+  {
+    "input": "MMMCCCXL",
+    "expectedOutput": 3340
+  },
+  {
+    "input": "MMMCCVI",
+    "expectedOutput": 3206
+  },
+  {
+    "input": "MXIX",
+    "expectedOutput": 1019
+  },
+  {
+    "input": "MDCCLXXXIV",
+    "expectedOutput": 1784
+  },
+  {
+    "input": "MCXCII",
+    "expectedOutput": 1192
+  },
+  {
+    "input": "MCXCVIII",
+    "expectedOutput": 1198
+  },
+  {
+    "input": "MMMDCCXXVII",
+    "expectedOutput": 3727
+  },
+  {
+    "input": "MMMDXIX",
+    "expectedOutput": 3519
+  },
+  {
+    "input": "MDCCCLXXVI",
+    "expectedOutput": 1876
+  },
+  {
+    "input": "MMCCXLI",
+    "expectedOutput": 2241
+  },
+  {
+    "input": "MMDCLXVIII",
+    "expectedOutput": 2668
+  },
+  {
+    "input": "MCCCXCVI",
+    "expectedOutput": 1396
+  },
+  {
+    "input": "MMMCMXX",
+    "expectedOutput": 3920
+  },
+  {
+    "input": "MMCCCLXVI",
+    "expectedOutput": 2366
+  },
+  {
+    "input": "MMMDCCXXII",
+    "expectedOutput": 3722
+  },
+  {
+    "input": "MMMII",
+    "expectedOutput": 3002
+  },
+  {
+    "input": "CDXLIX",
+    "expectedOutput": 449
+  },
+  {
+    "input": "MMMDVII",
+    "expectedOutput": 3507
+  },
+  {
+    "input": "MMMCCLXXXI",
+    "expectedOutput": 3281
+  },
+  {
+    "input": "MLXXI",
+    "expectedOutput": 1071
+  },
+  {
+    "input": "CDLXXXVI",
+    "expectedOutput": 486
+  },
+  {
+    "input": "MMCCC",
+    "expectedOutput": 2300
+  },
+  {
+    "input": "CMLV",
+    "expectedOutput": 955
+  },
+  {
+    "input": "MMMCM",
+    "expectedOutput": 3900
+  },
+  {
+    "input": "DLIX",
+    "expectedOutput": 559
+  },
+  {
+    "input": "DCCLXVIII",
+    "expectedOutput": 768
+  },
+  {
+    "input": "MMDXXVII",
+    "expectedOutput": 2527
+  },
+  {
+    "input": "MMDCXLI",
+    "expectedOutput": 2641
+  },
+  {
+    "input": "MMCCLXXXIII",
+    "expectedOutput": 2283
+  },
+  {
+    "input": "MDCCXXIX",
+    "expectedOutput": 1729
+  },
+  {
+    "input": "MCCXVI",
+    "expectedOutput": 1216
+  },
+  {
+    "input": "LXXIX",
+    "expectedOutput": 79
+  },
+  {
+    "input": "MCV",
+    "expectedOutput": 1105
+  },
+  {
+    "input": "MMMLIX",
+    "expectedOutput": 3059
+  },
+  {
+    "input": "MMCCCVII",
+    "expectedOutput": 2307
+  },
+  {
+    "input": "MMDCCCVIII",
+    "expectedOutput": 2808
+  },
+  {
+    "input": "MXVIII",
+    "expectedOutput": 1018
+  },
+  {
+    "input": "CDII",
+    "expectedOutput": 402
+  },
+  {
+    "input": "MMMCCCVIII",
+    "expectedOutput": 3308
+  },
+  {
+    "input": "MMMDCCCLXII",
+    "expectedOutput": 3862
+  },
+  {
+    "input": "DCXCIV",
+    "expectedOutput": 694
+  },
+  {
+    "input": "MCMXXIX",
+    "expectedOutput": 1929
+  },
+  {
+    "input": "MMMCMV",
+    "expectedOutput": 3905
+  },
+  {
+    "input": "MMCCLXXXIII",
+    "expectedOutput": 2283
+  },
+  {
+    "input": "MDCCCX",
+    "expectedOutput": 1810
+  },
+  {
+    "input": "DCCCVII",
+    "expectedOutput": 807
+  },
+  {
+    "input": "MDCCCLXXIV",
+    "expectedOutput": 1874
+  },
+  {
+    "input": "MCCXCIV",
+    "expectedOutput": 1294
+  },
+  {
+    "input": "MMMDXCIX",
+    "expectedOutput": 3599
+  },
+  {
+    "input": "MMMCCLI",
+    "expectedOutput": 3251
+  },
+  {
+    "input": "MMCDLXXX",
+    "expectedOutput": 2480
+  },
+  {
+    "input": "MMCCXVI",
+    "expectedOutput": 2216
+  },
+  {
+    "input": "MMMDCLI",
+    "expectedOutput": 3651
+  },
+  {
+    "input": "MCCXXXVI",
+    "expectedOutput": 1236
+  },
+  {
+    "input": "MMDCCLV",
+    "expectedOutput": 2755
+  },
+  {
+    "input": "DI",
+    "expectedOutput": 501
+  },
+  {
+    "input": "MMCXVII",
+    "expectedOutput": 2117
+  },
+  {
+    "input": "MMM",
+    "expectedOutput": 3000
+  },
+  {
+    "input": "MMCCCXVI",
+    "expectedOutput": 2316
+  },
+  {
+    "input": "MCCXXVII",
+    "expectedOutput": 1227
+  },
+  {
+    "input": "MMCMXXXIX",
+    "expectedOutput": 2939
+  },
+  {
+    "input": "CCLXXII",
+    "expectedOutput": 272
+  },
+  {
+    "input": "MMDCCXXXV",
+    "expectedOutput": 2735
+  },
+  {
+    "input": "MMDIV",
+    "expectedOutput": 2504
+  },
+  {
+    "input": "MDCCCLXXXIV",
+    "expectedOutput": 1884
+  },
+  {
+    "input": "DXLII",
+    "expectedOutput": 542
+  },
+  {
+    "input": "MCDLXXXIV",
+    "expectedOutput": 1484
+  },
+  {
+    "input": "MMMDXVIII",
+    "expectedOutput": 3518
+  },
+  {
+    "input": "MLXXXV",
+    "expectedOutput": 1085
+  },
+  {
+    "input": "MCCXC",
+    "expectedOutput": 1290
+  },
+  {
+    "input": "CCXXXIV",
+    "expectedOutput": 234
+  },
+  {
+    "input": "MMMDCXLV",
+    "expectedOutput": 3645
+  },
+  {
+    "input": "DLXXXVIII",
+    "expectedOutput": 588
+  },
+  {
+    "input": "MCMXXV",
+    "expectedOutput": 1925
+  },
+  {
+    "input": "DLXXIII",
+    "expectedOutput": 573
+  },
+  {
+    "input": "DCCCXVII",
+    "expectedOutput": 817
+  },
+  {
+    "input": "MDCCL",
+    "expectedOutput": 1750
+  },
+  {
+    "input": "MDCCCLXXXIV",
+    "expectedOutput": 1884
+  },
+  {
+    "input": "MCDLXXXVII",
+    "expectedOutput": 1487
+  },
+  {
+    "input": "MCDLXXXIX",
+    "expectedOutput": 1489
+  },
+  {
+    "input": "MMCMLXVI",
+    "expectedOutput": 2966
+  },
+  {
+    "input": "MMCDLXXXIX",
+    "expectedOutput": 2489
+  },
+  {
+    "input": "MMDCCCXCII",
+    "expectedOutput": 2892
+  },
+  {
+    "input": "MMXXXVI",
+    "expectedOutput": 2036
+  },
+  {
+    "input": "MMCCCLXIX",
+    "expectedOutput": 2369
+  },
+  {
+    "input": "MCLXI",
+    "expectedOutput": 1161
+  },
+  {
+    "input": "CMXLI",
+    "expectedOutput": 941
+  },
+  {
+    "input": "MDXXIX",
+    "expectedOutput": 1529
+  },
+  {
+    "input": "MMMCMLXIII",
+    "expectedOutput": 3963
+  },
+  {
+    "input": "MMCDXC",
+    "expectedOutput": 2490
+  },
+  {
+    "input": "DCLXIII",
+    "expectedOutput": 663
+  },
+  {
+    "input": "MMCCLXIII",
+    "expectedOutput": 2263
+  },
+  {
+    "input": "MMCCCXII",
+    "expectedOutput": 2312
+  },
+  {
+    "input": "MMDLXXVI",
+    "expectedOutput": 2576
+  },
+  {
+    "input": "MMMC",
+    "expectedOutput": 3100
+  },
+  {
+    "input": "DCCCLXVIII",
+    "expectedOutput": 868
+  },
+  {
+    "input": "MLXXXIX",
+    "expectedOutput": 1089
+  },
+  {
+    "input": "MMCMXXVII",
+    "expectedOutput": 2927
+  },
+  {
+    "input": "MMDCCCXLVI",
+    "expectedOutput": 2846
+  },
+  {
+    "input": "CDLXI",
+    "expectedOutput": 461
+  },
+  {
+    "input": "CDXVII",
+    "expectedOutput": 417
+  },
+  {
+    "input": "DCCCLXXIV",
+    "expectedOutput": 874
+  },
+  {
+    "input": "MMLXII",
+    "expectedOutput": 2062
+  },
+  {
+    "input": "CDXXIV",
+    "expectedOutput": 424
+  },
+  {
+    "input": "DCCCXCVII",
+    "expectedOutput": 897
+  },
+  {
+    "input": "MMMDCLXXI",
+    "expectedOutput": 3671
+  },
+  {
+    "input": "CXXIX",
+    "expectedOutput": 129
+  },
+  {
+    "input": "MMCCCXXXVI",
+    "expectedOutput": 2336
+  },
+  {
+    "input": "MCCCLXXIII",
+    "expectedOutput": 1373
+  },
+  {
+    "input": "CCCVII",
+    "expectedOutput": 307
+  },
+  {
+    "input": "DCCCXCIX",
+    "expectedOutput": 899
+  },
+  {
+    "input": "MCCCXLV",
+    "expectedOutput": 1345
+  },
+  {
+    "input": "MMCI",
+    "expectedOutput": 2101
+  },
+  {
+    "input": "MMMLXXXVI",
+    "expectedOutput": 3086
+  },
+  {
+    "input": "CD",
+    "expectedOutput": 400
+  },
+  {
+    "input": "CCXCI",
+    "expectedOutput": 291
+  },
+  {
+    "input": "MMMCDXLIV",
+    "expectedOutput": 3444
+  },
+  {
+    "input": "CCCXIII",
+    "expectedOutput": 313
+  },
+  {
+    "input": "MMMCLXXIX",
+    "expectedOutput": 3179
+  },
+  {
+    "input": "MMMDCCLXXXII",
+    "expectedOutput": 3782
+  },
+  {
+    "input": "MMDLXXVI",
+    "expectedOutput": 2576
+  },
+  {
+    "input": "MMCXVIII",
+    "expectedOutput": 2118
+  },
+  {
+    "input": "MMDXLVIII",
+    "expectedOutput": 2548
+  },
+  {
+    "input": "MMMCCCXXVII",
+    "expectedOutput": 3327
+  },
+  {
+    "input": "DII",
+    "expectedOutput": 502
+  },
+  {
+    "input": "MDCCXCV",
+    "expectedOutput": 1795
+  },
+  {
+    "input": "DCCXXIV",
+    "expectedOutput": 724
+  },
+  {
+    "input": "MMMDCCCXVIII",
+    "expectedOutput": 3818
+  },
+  {
+    "input": "MCXXXVII",
+    "expectedOutput": 1137
+  },
+  {
+    "input": "CCLXXVI",
+    "expectedOutput": 276
+  },
+  {
+    "input": "XCIX",
+    "expectedOutput": 99
+  },
+  {
+    "input": "MMCMXIX",
+    "expectedOutput": 2919
+  },
+  {
+    "input": "MMMCMLXXVI",
+    "expectedOutput": 3976
+  },
+  {
+    "input": "MMMXXIII",
+    "expectedOutput": 3023
+  },
+  {
+    "input": "MMCDLXXIV",
+    "expectedOutput": 2474
+  },
+  {
+    "input": "MCMIX",
+    "expectedOutput": 1909
+  },
+  {
+    "input": "MCCXXV",
+    "expectedOutput": 1225
+  },
+  {
+    "input": "MMDCXXVII",
+    "expectedOutput": 2627
+  },
+  {
+    "input": "MMMDIV",
+    "expectedOutput": 3504
+  },
+  {
+    "input": "CCCXI",
+    "expectedOutput": 311
+  },
+  {
+    "input": "DCCCLXVI",
+    "expectedOutput": 866
+  },
+  {
+    "input": "MMXII",
+    "expectedOutput": 2012
+  },
+  {
+    "input": "DXIII",
+    "expectedOutput": 513
+  },
+  {
+    "input": "MMMDCLXXXV",
+    "expectedOutput": 3685
+  },
+  {
+    "input": "MXLIX",
+    "expectedOutput": 1049
+  },
+  {
+    "input": "DCCCLXVIII",
+    "expectedOutput": 868
+  },
+  {
+    "input": "CCXLIV",
+    "expectedOutput": 244
+  },
+  {
+    "input": "CMLXIV",
+    "expectedOutput": 964
+  },
+  {
+    "input": "MCCVIII",
+    "expectedOutput": 1208
+  },
+  {
+    "input": "CMXXXIV",
+    "expectedOutput": 934
+  },
+  {
+    "input": "DXXXIX",
+    "expectedOutput": 539
+  },
+  {
+    "input": "LXXXVII",
+    "expectedOutput": 87
+  },
+  {
+    "input": "MMMDCCCXLVI",
+    "expectedOutput": 3846
+  },
+  {
+    "input": "MMDXXV",
+    "expectedOutput": 2525
+  },
+  {
+    "input": "MMCDXLVI",
+    "expectedOutput": 2446
+  },
+  {
+    "input": "MMCMLII",
+    "expectedOutput": 2952
+  },
+  {
+    "input": "MLXI",
+    "expectedOutput": 1061
+  },
+  {
+    "input": "MMMDCXXXVI",
+    "expectedOutput": 3636
+  },
+  {
+    "input": "MMDCCLXXVI",
+    "expectedOutput": 2776
+  },
+  {
+    "input": "MMMDCXCII",
+    "expectedOutput": 3692
+  },
+  {
+    "input": "MMCDLII",
+    "expectedOutput": 2452
+  },
+  {
+    "input": "MDCXXVIII",
+    "expectedOutput": 1628
+  },
+  {
+    "input": "MMCDLXXV",
+    "expectedOutput": 2475
+  },
+  {
+    "input": "MMMLVII",
+    "expectedOutput": 3057
+  },
+  {
+    "input": "MMMDCLIX",
+    "expectedOutput": 3659
+  },
+  {
+    "input": "MMCMLIX",
+    "expectedOutput": 2959
+  },
+  {
+    "input": "CMLXXVIII",
+    "expectedOutput": 978
+  },
+  {
+    "input": "MMDXXIII",
+    "expectedOutput": 2523
+  },
+  {
+    "input": "MCDXCIX",
+    "expectedOutput": 1499
+  },
+  {
+    "input": "MMMDLXX",
+    "expectedOutput": 3570
+  },
+  {
+    "input": "MDXI",
+    "expectedOutput": 1511
+  },
+  {
+    "input": "MMCDXX",
+    "expectedOutput": 2420
+  },
+  {
+    "input": "MMMDCCXCIV",
+    "expectedOutput": 3794
+  },
+  {
+    "input": "MMDCCC",
+    "expectedOutput": 2800
+  },
+  {
+    "input": "MCMXXXIII",
+    "expectedOutput": 1933
+  },
+  {
+    "input": "MMCCCXLVII",
+    "expectedOutput": 2347
+  },
+  {
+    "input": "MMMCXCVII",
+    "expectedOutput": 3197
+  },
+  {
+    "input": "MMMCCX",
+    "expectedOutput": 3210
+  },
+  {
+    "input": "MCDXXII",
+    "expectedOutput": 1422
+  },
+  {
+    "input": "MMCMII",
+    "expectedOutput": 2902
+  },
+  {
+    "input": "MMDCCLXXXI",
+    "expectedOutput": 2781
+  },
+  {
+    "input": "MMMDCCCLXVIII",
+    "expectedOutput": 3868
+  },
+  {
+    "input": "CLXXIX",
+    "expectedOutput": 179
+  },
+  {
+    "input": "MMCLXXIII",
+    "expectedOutput": 2173
+  },
+  {
+    "input": "CCXXVI",
+    "expectedOutput": 226
+  },
+  {
+    "input": "MMMCDXXVII",
+    "expectedOutput": 3427
+  },
+  {
+    "input": "MMDCLV",
+    "expectedOutput": 2655
+  },
+  {
+    "input": "MMCCCXLIII",
+    "expectedOutput": 2343
+  },
+  {
+    "input": "DCLXXXV",
+    "expectedOutput": 685
+  },
+  {
+    "input": "MMMLXIV",
+    "expectedOutput": 3064
+  },
+  {
+    "input": "MDCCCLXVI",
+    "expectedOutput": 1866
+  },
+  {
+    "input": "MMMCCCLXV",
+    "expectedOutput": 3365
+  },
+  {
+    "input": "MMMLX",
+    "expectedOutput": 3060
+  },
+  {
+    "input": "MDXLVIII",
+    "expectedOutput": 1548
+  },
+  {
+    "input": "MCDLXXXVII",
+    "expectedOutput": 1487
+  },
+  {
+    "input": "DIV",
+    "expectedOutput": 504
+  },
+  {
+    "input": "MMCDIV",
+    "expectedOutput": 2404
+  },
+  {
+    "input": "MMDCCLX",
+    "expectedOutput": 2760
+  },
+  {
+    "input": "MMMCCXV",
+    "expectedOutput": 3215
+  },
+  {
+    "input": "DCCVIII",
+    "expectedOutput": 708
+  },
+  {
+    "input": "MMMCDXXXV",
+    "expectedOutput": 3435
+  },
+  {
+    "input": "DCCCLXXI",
+    "expectedOutput": 871
+  },
+  {
+    "input": "MMMCXXVI",
+    "expectedOutput": 3126
+  },
+  {
+    "input": "MMMCCLX",
+    "expectedOutput": 3260
+  },
+  {
+    "input": "MMCMXXVII",
+    "expectedOutput": 2927
+  },
+  {
+    "input": "MMMCXXXIV",
+    "expectedOutput": 3134
+  },
+  {
+    "input": "MMCMLXXXVIII",
+    "expectedOutput": 2988
+  },
+  {
+    "input": "CDV",
+    "expectedOutput": 405
+  },
+  {
+    "input": "DCCVI",
+    "expectedOutput": 706
+  },
+  {
+    "input": "DCLXI",
+    "expectedOutput": 661
+  },
+  {
+    "input": "MMDCLXXXVI",
+    "expectedOutput": 2686
+  },
+  {
+    "input": "MCMLX",
+    "expectedOutput": 1960
+  },
+  {
+    "input": "MCMXLI",
+    "expectedOutput": 1941
+  },
+  {
+    "input": "MMDCXXV",
+    "expectedOutput": 2625
+  },
+  {
+    "input": "MCXVI",
+    "expectedOutput": 1116
+  },
+  {
+    "input": "CXIII",
+    "expectedOutput": 113
+  },
+  {
+    "input": "MCMXXIII",
+    "expectedOutput": 1923
+  },
+  {
+    "input": "MMMDXIII",
+    "expectedOutput": 3513
+  },
+  {
+    "input": "MMCCXLII",
+    "expectedOutput": 2242
+  },
+  {
+    "input": "MMCMXLVII",
+    "expectedOutput": 2947
+  },
+  {
+    "input": "MMDCCCLXXVI",
+    "expectedOutput": 2876
+  },
+  {
+    "input": "MCDVIII",
+    "expectedOutput": 1408
+  },
+  {
+    "input": "DCCLII",
+    "expectedOutput": 752
+  },
+  {
+    "input": "MIII",
+    "expectedOutput": 1003
+  },
+  {
+    "input": "MMMXXXI",
+    "expectedOutput": 3031
+  },
+  {
+    "input": "CDX",
+    "expectedOutput": 410
+  },
+  {
+    "input": "CXXXV",
+    "expectedOutput": 135
+  },
+  {
+    "input": "MMCCLXXXIV",
+    "expectedOutput": 2284
+  },
+  {
+    "input": "MMCDXXXVIII",
+    "expectedOutput": 2438
+  },
+  {
+    "input": "DCXXI",
+    "expectedOutput": 621
+  },
+  {
+    "input": "CMXXXVII",
+    "expectedOutput": 937
+  },
+  {
+    "input": "MMMDCCXXII",
+    "expectedOutput": 3722
+  },
+  {
+    "input": "MMCMXCIII",
+    "expectedOutput": 2993
+  },
+  {
+    "input": "MMCLVII",
+    "expectedOutput": 2157
+  },
+  {
+    "input": "MMMCDXXXV",
+    "expectedOutput": 3435
+  },
+  {
+    "input": "MMMCDLII",
+    "expectedOutput": 3452
+  },
+  {
+    "input": "MCDLXIX",
+    "expectedOutput": 1469
+  },
+  {
+    "input": "MDCCLVI",
+    "expectedOutput": 1756
+  },
+  {
+    "input": "MMCDLXXV",
+    "expectedOutput": 2475
+  },
+  {
+    "input": "MCDXXIII",
+    "expectedOutput": 1423
+  },
+  {
+    "input": "MMMCCCLXIII",
+    "expectedOutput": 3363
+  },
+  {
+    "input": "MDCCLXXII",
+    "expectedOutput": 1772
+  },
+  {
+    "input": "MMDCCXXXIX",
+    "expectedOutput": 2739
+  },
+  {
+    "input": "MMMDCXIV",
+    "expectedOutput": 3614
+  },
+  {
+    "input": "MMCLXXI",
+    "expectedOutput": 2171
+  },
+  {
+    "input": "MMXIII",
+    "expectedOutput": 2013
+  },
+  {
+    "input": "DCXXXII",
+    "expectedOutput": 632
+  },
+  {
+    "input": "MMMXXXVIII",
+    "expectedOutput": 3038
+  },
+  {
+    "input": "MMMCCLXXVII",
+    "expectedOutput": 3277
+  },
+  {
+    "input": "CCIX",
+    "expectedOutput": 209
+  },
+  {
+    "input": "MDCCLXIII",
+    "expectedOutput": 1763
+  },
+  {
+    "input": "MDCCLXXVI",
+    "expectedOutput": 1776
+  },
+  {
+    "input": "MMMDCXXXV",
+    "expectedOutput": 3635
+  },
+  {
+    "input": "MMMDCXCVII",
+    "expectedOutput": 3697
+  },
+  {
+    "input": "MMCCCIII",
+    "expectedOutput": 2303
+  },
+  {
+    "input": "MCCLXXVI",
+    "expectedOutput": 1276
+  },
+  {
+    "input": "MMMCCCXIV",
+    "expectedOutput": 3314
+  },
+  {
+    "input": "MMCDLXII",
+    "expectedOutput": 2462
+  },
+  {
+    "input": "MDCCLXXI",
+    "expectedOutput": 1771
+  },
+  {
+    "input": "DCCCXLII",
+    "expectedOutput": 842
+  },
+  {
+    "input": "MMMXX",
+    "expectedOutput": 3020
+  },
+  {
+    "input": "MDCLII",
+    "expectedOutput": 1652
+  },
+  {
+    "input": "MMCCXXXII",
+    "expectedOutput": 2232
+  },
+  {
+    "input": "MMCMXXXVI",
+    "expectedOutput": 2936
+  },
+  {
+    "input": "MMMDLVII",
+    "expectedOutput": 3557
+  },
+  {
+    "input": "MDCXIX",
+    "expectedOutput": 1619
+  },
+  {
+    "input": "XL",
+    "expectedOutput": 40
+  },
+  {
+    "input": "MMLXXV",
+    "expectedOutput": 2075
+  },
+  {
+    "input": "DCCLXXIX",
+    "expectedOutput": 779
+  },
+  {
+    "input": "MMDCCCXLIX",
+    "expectedOutput": 2849
+  },
+  {
+    "input": "MMCDXXXVI",
+    "expectedOutput": 2436
+  },
+  {
+    "input": "MCCCXV",
+    "expectedOutput": 1315
+  },
+  {
+    "input": "MDCCCXXXVII",
+    "expectedOutput": 1837
+  },
+  {
+    "input": "MMCXIV",
+    "expectedOutput": 2114
+  },
+  {
+    "input": "MMXLIV",
+    "expectedOutput": 2044
+  },
+  {
+    "input": "MMDCCCLXXIV",
+    "expectedOutput": 2874
+  },
+  {
+    "input": "MMMDCCCXXIX",
+    "expectedOutput": 3829
+  },
+  {
+    "input": "MMMXIX",
+    "expectedOutput": 3019
+  },
+  {
+    "input": "MMMCDLXXXIX",
+    "expectedOutput": 3489
+  },
+  {
+    "input": "MMMCMXLIX",
+    "expectedOutput": 3949
+  },
+  {
+    "input": "DCLV",
+    "expectedOutput": 655
+  },
+  {
+    "input": "MMCDXV",
+    "expectedOutput": 2415
+  },
+  {
+    "input": "MMCCCLXI",
+    "expectedOutput": 2361
+  },
+  {
+    "input": "MMMCCCXX",
+    "expectedOutput": 3320
+  },
+  {
+    "input": "MMMDXXXIX",
+    "expectedOutput": 3539
+  },
+  {
+    "input": "MMDXCVII",
+    "expectedOutput": 2597
+  },
+  {
+    "input": "CCLXXVII",
+    "expectedOutput": 277
+  },
+  {
+    "input": "DCCLXXX",
+    "expectedOutput": 780
+  },
+  {
+    "input": "CMII",
+    "expectedOutput": 902
+  },
+  {
+    "input": "MDCXCI",
+    "expectedOutput": 1691
+  },
+  {
+    "input": "MMXC",
+    "expectedOutput": 2090
+  },
+  {
+    "input": "CCLXXXIV",
+    "expectedOutput": 284
+  },
+  {
+    "input": "MDCCX",
+    "expectedOutput": 1710
+  },
+  {
+    "input": "MMDCLXXIX",
+    "expectedOutput": 2679
+  },
+  {
+    "input": "DXVI",
+    "expectedOutput": 516
+  },
+  {
+    "input": "CLXIX",
+    "expectedOutput": 169
+  },
+  {
+    "input": "MDCCXLV",
+    "expectedOutput": 1745
+  },
+  {
+    "input": "CL",
+    "expectedOutput": 150
+  },
+  {
+    "input": "DCCXII",
+    "expectedOutput": 712
+  },
+  {
+    "input": "MMMCCXXVI",
+    "expectedOutput": 3226
+  },
+  {
+    "input": "MMDCCCLXXVII",
+    "expectedOutput": 2877
+  },
+  {
+    "input": "MMDCCLVI",
+    "expectedOutput": 2756
+  },
+  {
+    "input": "MCCXLIX",
+    "expectedOutput": 1249
+  },
+  {
+    "input": "MMMDCCCXVII",
+    "expectedOutput": 3817
+  },
+  {
+    "input": "MMXLVI",
+    "expectedOutput": 2046
+  },
+  {
+    "input": "MMCCLXXXVIII",
+    "expectedOutput": 2288
+  },
+  {
+    "input": "DCCXCIV",
+    "expectedOutput": 794
+  },
+  {
+    "input": "MMDCCCLV",
+    "expectedOutput": 2855
+  },
+  {
+    "input": "MCCL",
+    "expectedOutput": 1250
+  },
+  {
+    "input": "MMDXCII",
+    "expectedOutput": 2592
+  },
+  {
+    "input": "MMCCXXXVIII",
+    "expectedOutput": 2238
+  },
+  {
+    "input": "MMDCLIII",
+    "expectedOutput": 2653
+  },
+  {
+    "input": "MCLXXVI",
+    "expectedOutput": 1176
+  },
+  {
+    "input": "MMCCVII",
+    "expectedOutput": 2207
+  },
+  {
+    "input": "MMMCDXXIV",
+    "expectedOutput": 3424
+  },
+  {
+    "input": "DLVI",
+    "expectedOutput": 556
+  },
+  {
+    "input": "DXLVII",
+    "expectedOutput": 547
+  },
+  {
+    "input": "DCXXIV",
+    "expectedOutput": 624
+  },
+  {
+    "input": "MMMCMXXIV",
+    "expectedOutput": 3924
+  },
+  {
+    "input": "MMCDI",
+    "expectedOutput": 2401
+  },
+  {
+    "input": "MMMCMLIX",
+    "expectedOutput": 3959
+  },
+  {
+    "input": "MMDCLXXXVI",
+    "expectedOutput": 2686
+  },
+  {
+    "input": "CLIV",
+    "expectedOutput": 154
+  },
+  {
+    "input": "DCLXXI",
+    "expectedOutput": 671
+  },
+  {
+    "input": "DCCXLIX",
+    "expectedOutput": 749
+  },
+  {
+    "input": "MMDXXVII",
+    "expectedOutput": 2527
+  },
+  {
+    "input": "MDCCXVI",
+    "expectedOutput": 1716
+  },
+  {
+    "input": "MMMCXXXVII",
+    "expectedOutput": 3137
+  },
+  {
+    "input": "DCCXVI",
+    "expectedOutput": 716
+  },
+  {
+    "input": "MMMCCLXXXII",
+    "expectedOutput": 3282
+  },
+  {
+    "input": "DCLXVI",
+    "expectedOutput": 666
+  },
+  {
+    "input": "MMDCCCLI",
+    "expectedOutput": 2851
+  },
+  {
+    "input": "MMCCI",
+    "expectedOutput": 2201
+  },
+  {
+    "input": "DCLXX",
+    "expectedOutput": 670
+  },
+  {
+    "input": "MMDXXXVIII",
+    "expectedOutput": 2538
+  },
+  {
+    "input": "MDCCCXII",
+    "expectedOutput": 1812
+  },
+  {
+    "input": "MCXIII",
+    "expectedOutput": 1113
+  },
+  {
+    "input": "LVIII",
+    "expectedOutput": 58
+  },
+  {
+    "input": "MMCIV",
+    "expectedOutput": 2104
+  },
+  {
+    "input": "MMMLVI",
+    "expectedOutput": 3056
+  },
+  {
+    "input": "MMMCCXXVIII",
+    "expectedOutput": 3228
+  },
+  {
+    "input": "MDCCCV",
+    "expectedOutput": 1805
+  },
+  {
+    "input": "CCCXXX",
+    "expectedOutput": 330
+  },
+  {
+    "input": "CLXXII",
+    "expectedOutput": 172
+  },
+  {
+    "input": "MMDCCXLIII",
+    "expectedOutput": 2743
+  },
+  {
+    "input": "DI",
+    "expectedOutput": 501
+  },
+  {
+    "input": "MMCXI",
+    "expectedOutput": 2111
+  },
+  {
+    "input": "MMMCDLXVI",
+    "expectedOutput": 3466
+  },
+  {
+    "input": "CCCXLVIII",
+    "expectedOutput": 348
+  },
+  {
+    "input": "CCXXXVIII",
+    "expectedOutput": 238
+  },
+  {
+    "input": "MLVI",
+    "expectedOutput": 1056
+  },
+  {
+    "input": "CMXXXV",
+    "expectedOutput": 935
+  },
+  {
+    "input": "MMDCCXIV",
+    "expectedOutput": 2714
+  },
+  {
+    "input": "MMCDLXIV",
+    "expectedOutput": 2464
+  },
+  {
+    "input": "MDCCCLXXVIII",
+    "expectedOutput": 1878
+  },
+  {
+    "input": "MMCDXLII",
+    "expectedOutput": 2442
+  },
+  {
+    "input": "MDXXXV",
+    "expectedOutput": 1535
+  },
+  {
+    "input": "MMDCCCXXVI",
+    "expectedOutput": 2826
+  },
+  {
+    "input": "MMMDCCLXXV",
+    "expectedOutput": 3775
+  },
+  {
+    "input": "MDII",
+    "expectedOutput": 1502
+  },
+  {
+    "input": "CDXIX",
+    "expectedOutput": 419
+  },
+  {
+    "input": "MMDLII",
+    "expectedOutput": 2552
+  },
+  {
+    "input": "MDCCXCIV",
+    "expectedOutput": 1794
+  },
+  {
+    "input": "MMCMLXXIII",
+    "expectedOutput": 2973
+  },
+  {
+    "input": "MMMCCCL",
+    "expectedOutput": 3350
+  },
+  {
+    "input": "MCCCXXXII",
+    "expectedOutput": 1332
+  },
+  {
+    "input": "MMMCDXLV",
+    "expectedOutput": 3445
+  },
+  {
+    "input": "MMCDXV",
+    "expectedOutput": 2415
+  },
+  {
+    "input": "MMDCCLXXXV",
+    "expectedOutput": 2785
+  },
+  {
+    "input": "CCCXXXIV",
+    "expectedOutput": 334
+  },
+  {
+    "input": "DCIX",
+    "expectedOutput": 609
+  },
+  {
+    "input": "MMMDCXCVIII",
+    "expectedOutput": 3698
+  },
+  {
+    "input": "MMMDLXXXVII",
+    "expectedOutput": 3587
+  },
+  {
+    "input": "MDCCLXXXVII",
+    "expectedOutput": 1787
+  },
+  {
+    "input": "CMXX",
+    "expectedOutput": 920
+  },
+  {
+    "input": "CCIV",
+    "expectedOutput": 204
+  },
+  {
+    "input": "MDLV",
+    "expectedOutput": 1555
+  },
+  {
+    "input": "MMDCCXCVI",
+    "expectedOutput": 2796
+  },
+  {
+    "input": "MDXCIX",
+    "expectedOutput": 1599
+  },
+  {
+    "input": "MDCXLVII",
+    "expectedOutput": 1647
+  },
+  {
+    "input": "MCDX",
+    "expectedOutput": 1410
+  },
+  {
+    "input": "MCMXXXI",
+    "expectedOutput": 1931
+  },
+  {
+    "input": "MMMCDXCIV",
+    "expectedOutput": 3494
+  },
+  {
+    "input": "MMIV",
+    "expectedOutput": 2004
+  },
+  {
+    "input": "MCCXX",
+    "expectedOutput": 1220
+  },
+  {
+    "input": "MMDLXXXII",
+    "expectedOutput": 2582
+  },
+  {
+    "input": "MMDCCCXVII",
+    "expectedOutput": 2817
+  },
+  {
+    "input": "MMLXXIV",
+    "expectedOutput": 2074
+  },
+  {
+    "input": "MCMLXXI",
+    "expectedOutput": 1971
+  },
+  {
+    "input": "MMDCCI",
+    "expectedOutput": 2701
+  },
+  {
+    "input": "MDXVI",
+    "expectedOutput": 1516
+  },
+  {
+    "input": "MMMDCCCLIV",
+    "expectedOutput": 3854
+  },
+  {
+    "input": "MXXXVII",
+    "expectedOutput": 1037
+  },
+  {
+    "input": "MMMDCCCXC",
+    "expectedOutput": 3890
+  },
+  {
+    "input": "MCDXCIV",
+    "expectedOutput": 1494
+  },
+  {
+    "input": "MMMCMLXXXI",
+    "expectedOutput": 3981
+  },
+  {
+    "input": "MDCCCLXXXI",
+    "expectedOutput": 1881
+  },
+  {
+    "input": "CDLI",
+    "expectedOutput": 451
+  },
+  {
+    "input": "MMXLI",
+    "expectedOutput": 2041
+  },
+  {
+    "input": "MMDCCCXIV",
+    "expectedOutput": 2814
+  },
+  {
+    "input": "CCCLXXV",
+    "expectedOutput": 375
+  },
+  {
+    "input": "MDLVIII",
+    "expectedOutput": 1558
+  },
+  {
+    "input": "MMXLVIII",
+    "expectedOutput": 2048
+  },
+  {
+    "input": "MMCCCXXXVII",
+    "expectedOutput": 2337
+  },
+  {
+    "input": "MLXVII",
+    "expectedOutput": 1067
+  },
+  {
+    "input": "CMXXXV",
+    "expectedOutput": 935
+  },
+  {
+    "input": "MMDLXVII",
+    "expectedOutput": 2567
+  },
+  {
+    "input": "MLXXXI",
+    "expectedOutput": 1081
+  },
+  {
+    "input": "CMLXV",
+    "expectedOutput": 965
+  },
+  {
+    "input": "MMMCCXCVIII",
+    "expectedOutput": 3298
+  },
+  {
+    "input": "MCXIV",
+    "expectedOutput": 1114
+  },
+  {
+    "input": "MDCCII",
+    "expectedOutput": 1702
+  },
+  {
+    "input": "MMMCDLXII",
+    "expectedOutput": 3462
+  },
+  {
+    "input": "MDCCXII",
+    "expectedOutput": 1712
+  },
+  {
+    "input": "MMMDLIX",
+    "expectedOutput": 3559
+  },
+  {
+    "input": "MMCLXXV",
+    "expectedOutput": 2175
+  },
+  {
+    "input": "MMMDCCI",
+    "expectedOutput": 3701
+  },
+  {
+    "input": "MMMCCLXXX",
+    "expectedOutput": 3280
+  },
+  {
+    "input": "MDCCLXXIII",
+    "expectedOutput": 1773
+  },
+  {
+    "input": "DCLXX",
+    "expectedOutput": 670
+  },
+  {
+    "input": "CCCXXXIV",
+    "expectedOutput": 334
+  },
+  {
+    "input": "DLXXIV",
+    "expectedOutput": 574
+  },
+  {
+    "input": "MMMDCXXVI",
+    "expectedOutput": 3626
+  },
+  {
+    "input": "MCCXLVII",
+    "expectedOutput": 1247
+  },
+  {
+    "input": "CCCII",
+    "expectedOutput": 302
+  },
+  {
+    "input": "CCXVII",
+    "expectedOutput": 217
+  },
+  {
+    "input": "CMLXXVIII",
+    "expectedOutput": 978
+  },
+  {
+    "input": "MMCXLVIII",
+    "expectedOutput": 2148
+  },
+  {
+    "input": "MDCCXCI",
+    "expectedOutput": 1791
+  },
+  {
+    "input": "MMCXLIV",
+    "expectedOutput": 2144
+  },
+  {
+    "input": "CCCXXXVII",
+    "expectedOutput": 337
+  },
+  {
+    "input": "MMMDCCCLXX",
+    "expectedOutput": 3870
+  },
+  {
+    "input": "DCXIX",
+    "expectedOutput": 619
+  },
+  {
+    "input": "DCCXLIV",
+    "expectedOutput": 744
+  },
+  {
+    "input": "MLXXXIII",
+    "expectedOutput": 1083
+  },
+  {
+    "input": "CMXVI",
+    "expectedOutput": 916
+  },
+  {
+    "input": "MMMCDXLII",
+    "expectedOutput": 3442
+  },
+  {
+    "input": "MMMCMXIV",
+    "expectedOutput": 3914
+  },
+  {
+    "input": "MMDCCII",
+    "expectedOutput": 2702
+  },
+  {
+    "input": "MMCCCLXXI",
+    "expectedOutput": 2371
+  },
+  {
+    "input": "MMDCCCXLIX",
+    "expectedOutput": 2849
+  },
+  {
+    "input": "MMMCCLXIX",
+    "expectedOutput": 3269
+  },
+  {
+    "input": "MMMLXXIX",
+    "expectedOutput": 3079
+  },
+  {
+    "input": "MMMCCXLIII",
+    "expectedOutput": 3243
+  },
+  {
+    "input": "DCCCXV",
+    "expectedOutput": 815
+  },
+  {
+    "input": "MCMXXVIII",
+    "expectedOutput": 1928
+  },
+  {
+    "input": "MMMLXII",
+    "expectedOutput": 3062
+  },
+  {
+    "input": "MMCDXXIX",
+    "expectedOutput": 2429
+  },
+  {
+    "input": "MMCCLIV",
+    "expectedOutput": 2254
+  },
+  {
+    "input": "MMCLXXXIV",
+    "expectedOutput": 2184
+  },
+  {
+    "input": "MCMXLII",
+    "expectedOutput": 1942
+  },
+  {
+    "input": "MCMLXXXVII",
+    "expectedOutput": 1987
+  }
+]

@@ -49,3 +49,4 @@ console.log(roman_to_Int('XXVI'));
 console.log(roman_to_Int('CI'));
 console.log(roman_to_Int('IM'));
 console.log(roman_to_Int('AB'));
+module.exports = { roman_to_Int, char_to_int };
