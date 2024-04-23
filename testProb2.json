@@ -1,5 +1,86 @@
 [
   {
+    "input": "I",
+    "expectedOutput": 1
+  },
+  {
+    "input": ["I", "X"],
+    "expectedOutput": false
+  },
+  {
+    "input": null,
+    "expectedOutput": false
+  },
+  {
+    "input": 1,
+    "expectedOutput": false
+  },
+  {
+    "input": "",
+    "expectedOutput": false
+  },
+  {
+    "input": "MMMMMMMMMMMMMMMM",
+    "expectedOutput": false
+  },
+  {
+    "input": "AB",
+    "expectedOutput": false
+  },
+  {
+    "input": "II",
+    "expectedOutput": 2
+  },
+  {
+    "input": "MMMMMMMMMMMMMM",
+    "expectedOutput": false
+  },
+  {
+    "input": "MMMMMMMMMMMMMMMM",
+    "expectedOutput": false
+  },
+  {
+    "input": "AI",
+    "expectedOutput": false
+  },
+  {
+    "input": "I",
+    "expectedOutput": 1
+  },
+  {
+    "input": "A",
+    "expectedOutput": false
+  },
+  {
+    "input": "XXXXXXXXXXXXXXXXXXXXXX",
+    "expectedOutput": 220
+  },
+  {
+    "input": "-X",
+    "expectedOutput": false
+  },
+  {
+    "input": "MMMCMXCIX",
+    "expectedOutput": 3999
+  },
+  {
+    "input": "MMMM",
+    "expectedOutput": false
+  },
+  {
+    "input": "MMMIM",
+    "expectedOutput": 3999
+  },
+  {
+    "input": "XII",
+    "expectedOutput": 12
+  },
+  {
+    "input": "IIIIX",
+    "expectedOutput": 12
+  },
+
+  {
     "input": "DCCXLV",
     "expectedOutput": 745
   },
