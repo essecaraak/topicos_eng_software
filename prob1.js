@@ -3,6 +3,14 @@
 function isPalindrome(x) {
     // Convert integer to string
     const str = x.toString();
+
+    if( str == "" || 
+        str == null || 
+        str.length < 2 || 
+        str == 0 || 
+        isNaN(str)){  
+        return false
+    }
     // Use the helper function to check if the string is a palindrome
     return checkPalindrome(str);
 }
