@@ -1,13 +1,14 @@
 //https://leetcode.com/problems/palindrome-number/description/
 
 function isPalindrome(x) {
-    // Convert integer to string
+    // Convert integer to 
     const str = x.toString();
 
     if( str == "" || 
         str == null || 
         str.length < 2 || 
-        str == 0 || 
+        str == 0 ||
+        Array.isArray(str) || 
         isNaN(str)){  
         return false
     }

@@ -2,7 +2,7 @@
 // Define a function named roman_to_Int that converts a Roman numeral to an integer.
 function roman_to_Int(str1) {
     // Check if str1 is null, if so, return -1.
-    if(str1 == null) return "Não é um numero romano válido";
+    if(str1 == null || Array.isArray(str1) || str1.length < 1 && str1.length > 15 || !isNaN(str1) ) return false;
     // Initialize the variable num with the integer value of the first character in str1.
     var num = char_to_int(str1.charAt(0));
     var pre, curr;
@@ -12,8 +12,8 @@ function roman_to_Int(str1) {
         curr = char_to_int(str1.charAt(i)); // Get the integer value of the current character.
         pre = char_to_int(str1.charAt(i-1)); // Get the integer value of the previous character.
         // If the current character's value is less than or equal to the previous character's value, add it to num.
-        if(curr==-1){
-            return "Não é um numero romano válido"
+        if(curr == -1 || pre == -1 || num == -1){
+            return false;
         }
         if(curr <= pre){
             num += curr;
@@ -21,10 +21,14 @@ function roman_to_Int(str1) {
             // If the current character's value is greater than the previous character's value, subtract twice the previous character's value and add the current character's value to num.
             num = num - pre*2 + curr;
         }
+        
     }
 
+    if(num > 3999 || num < 1){
+        return false;
+    }
     
-        return num;
+    return num;
     
     
 }
