@@ -4,7 +4,7 @@
     "expectedOutput": false
   },
   {
-    "input":"10 11",
+    "input":[10,11],
     "expectedOutput": false
   },
   {
@@ -64,7 +64,7 @@
     "expectedOutput": false
   },
   {
-    "input": "010",
+    "input": "-010",
     "expectedOutput": false
   },
   {

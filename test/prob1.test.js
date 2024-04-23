@@ -10,6 +10,7 @@ const { isPalindrome, checkPalindrome } = require('../prob1'); // Importe suas f
 const testCases = JSON.parse(fs.readFileSync(path.resolve('testProb1.json'), 'utf-8'));
 
 describe('Testando as funções isPalindrome e checkPalindrome', () => {
+    
     testCases.forEach((testCase, index) => {
         const { input, expectedOutput } = testCase;
 
@@ -21,7 +22,7 @@ describe('Testando as funções isPalindrome e checkPalindrome', () => {
         //     expect(checkPalindrome(input.toString())).toBe(expectedOutput);
         // });
     });
-    
+
 });
 
 

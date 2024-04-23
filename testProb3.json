@@ -1,3922 +1,4002 @@
 [
   {
-    "input": "((666 - 848) - (747 + (228 - 311)))",
+    "input": "1+1",
+    "expectedOutput": 2
+  },
+  {
+    "input": ["1+1","2+1"],
+    "expectedOutput": false
+  },
+  {
+    "input": null,
+    "expectedOutput": false
+  },
+  {
+    "input": 1,
+    "expectedOutput": false
+  },
+  {
+    "input": "",
+    "expectedOutput": false
+  },
+  {
+    "input": "",
+    "expectedOutput": false
+  },
+  {
+    "input": "",
     "expectedOutput": -846
   },
   {
-    "input": "((667 - 876) + (510 + 823))",
-    "expectedOutput": 1124
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "((735 - 948) - (120 - 639))",
-    "expectedOutput": 306
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "(6 + 436)",
-    "expectedOutput": 442
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "((980 - 942) + (512 + 168))",
-    "expectedOutput": 718
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "((536 + 807) + (825 - 922))",
-    "expectedOutput": 1246
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "(674 - 852)",
-    "expectedOutput": -178
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "186",
-    "expectedOutput": 186
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "600",
-    "expectedOutput": 600
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "(919 + (668 + 617))",
-    "expectedOutput": 2204
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "((876 - 576) - (206 + (662 + 651)))",
-    "expectedOutput": -1219
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "((400 - (47 + 553)) - (508 + (570 - 102)))",
-    "expectedOutput": -1176
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "((140 - (578 - 447)) - (41 - (110 + 312)))",
-    "expectedOutput": 390
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "((816 - 396) - (979 + 63))",
-    "expectedOutput": -622
+    "input": "",
+    "expectedOutput": -846
   },
   {
-    "input": "(433 + 844)",
-    "expectedOutput": 1277
+    "input": "862",
+    "expectedOutput": 862
   },
   {
-    "input": "((173 + 655) + (302 - (99 - 135)))",
-    "expectedOutput": 1166
+    "input": "((655 + (293 - 31)) + (231 - (628 - 182)))",
+    "expectedOutput": 702
   },
   {
-    "input": "((50 + (122 + 526)) + (527 - (979 + 291)))",
-    "expectedOutput": -45
+    "input": "((193 + 918) - (287 - (255 + 834)))",
+    "expectedOutput": 1913
   },
   {
-    "input": "((652 + 731) - (658 + 391))",
-    "expectedOutput": 334
+    "input": "639",
+    "expectedOutput": 639
   },
   {
-    "input": "(885 - 344)",
-    "expectedOutput": 541
+    "input": "((577 - (800 + 618)) + (458 - (937 + 640)))",
+    "expectedOutput": -1960
   },
   {
-    "input": "((86 + (416 + 865)) - (540 + (475 - 478)))",
-    "expectedOutput": 830
+    "input": "((648 - 81) + (618 + (198 + 760)))",
+    "expectedOutput": 2143
   },
   {
-    "input": "((639 - (553 + 920)) + (717 + (68 - 154)))",
-    "expectedOutput": -203
+    "input": "((178 + 922) + (949 - (773 - 993)))",
+    "expectedOutput": 2269
   },
   {
-    "input": "((798 - (307 + 566)) + (762 - (468 + 249)))",
-    "expectedOutput": -30
+    "input": "((617 + 153) + (824 + 491))",
+    "expectedOutput": 2085
   },
   {
-    "input": "((721 + 312) - (148 - 724))",
-    "expectedOutput": 1609
+    "input": "((668 - (378 - 385)) + (110 + (795 - 663)))",
+    "expectedOutput": 917
   },
   {
-    "input": "((492 - 973) - (658 - 256))",
-    "expectedOutput": -883
+    "input": "((213 - (903 + 933)) - (912 - (569 - 824)))",
+    "expectedOutput": -2790
   },
   {
-    "input": "((757 - (499 + 791)) - (892 - (155 - 731)))",
-    "expectedOutput": -2001
+    "input": "((263 - 629) - (414 - 920))",
+    "expectedOutput": 140
   },
   {
-    "input": "(726 + (802 + 433))",
-    "expectedOutput": 1961
+    "input": "((280 - 995) + (312 + 735))",
+    "expectedOutput": 332
   },
   {
-    "input": "((482 + (667 + 369)) - (990 - (597 + 875)))",
-    "expectedOutput": 2000
+    "input": "((998 + 55) + (736 + (238 - 154)))",
+    "expectedOutput": 1873
   },
   {
-    "input": "816",
-    "expectedOutput": 816
+    "input": "(328 - 899)",
+    "expectedOutput": -571
   },
   {
-    "input": "((48 - (967 - 518)) + (674 + (299 - 837)))",
-    "expectedOutput": -265
+    "input": "812",
+    "expectedOutput": 812
   },
   {
-    "input": "((249 + 19) + (703 + (866 + 450)))",
-    "expectedOutput": 2287
+    "input": "((60 + (953 - 210)) - (820 + (238 - 308)))",
+    "expectedOutput": 53
   },
   {
-    "input": "202",
-    "expectedOutput": 202
+    "input": "((282 + 921) + (396 + 599))",
+    "expectedOutput": 2198
   },
   {
-    "input": "((33 - 24) + (313 - 866))",
-    "expectedOutput": -544
-  },
-  {
-    "input": "((57 + 835) - (237 + (931 + 26)))",
-    "expectedOutput": -302
-  },
-  {
-    "input": "((72 - 738) + (641 + 850))",
-    "expectedOutput": 825
-  },
-  {
-    "input": "(839 - 212)",
-    "expectedOutput": 627
-  },
-  {
-    "input": "((30 + 416) + (527 + 880))",
-    "expectedOutput": 1853
-  },
-  {
-    "input": "((501 + (855 - 678)) - (430 - (901 + 187)))",
-    "expectedOutput": 1336
-  },
-  {
-    "input": "((346 - 198) - (383 + 495))",
-    "expectedOutput": -730
-  },
-  {
-    "input": "(328 - (172 - 600))",
-    "expectedOutput": 756
-  },
-  {
-    "input": "((571 - (980 - 622)) + (266 - (585 - 442)))",
-    "expectedOutput": 336
-  },
-  {
-    "input": "(655 + 622)",
-    "expectedOutput": 1277
-  },
-  {
-    "input": "(1 + (261 + 26))",
-    "expectedOutput": 288
-  },
-  {
-    "input": "409",
-    "expectedOutput": 409
-  },
-  {
-    "input": "392",
-    "expectedOutput": 392
-  },
-  {
-    "input": "(70 + 199)",
-    "expectedOutput": 269
-  },
-  {
-    "input": "((778 - (442 - 34)) + (475 - (46 - 466)))",
-    "expectedOutput": 1265
-  },
-  {
-    "input": "((304 + 894) + (446 - (56 - 327)))",
-    "expectedOutput": 1915
-  },
-  {
-    "input": "(91 - 722)",
-    "expectedOutput": -631
-  },
-  {
-    "input": "((254 - 357) - (580 + 771))",
-    "expectedOutput": -1454
-  },
-  {
-    "input": "((680 - 525) - (461 - (560 - 649)))",
-    "expectedOutput": -395
-  },
-  {
-    "input": "((915 + (641 + 605)) - (291 - (570 - 941)))",
-    "expectedOutput": 1499
-  },
-  {
-    "input": "((790 + 544) + (438 + 354))",
-    "expectedOutput": 2126
-  },
-  {
-    "input": "(128 - (180 + 465))",
-    "expectedOutput": -517
-  },
-  {
-    "input": "((609 + (371 - 866)) - (930 + (911 - 812)))",
-    "expectedOutput": -915
-  },
-  {
-    "input": "((345 + 826) - (705 + 835))",
-    "expectedOutput": -369
-  },
-  {
-    "input": "((133 + 870) + (408 - 260))",
-    "expectedOutput": 1151
-  },
-  {
-    "input": "((246 - (955 + 544)) - (977 + (598 + 943)))",
-    "expectedOutput": -3771
-  },
-  {
-    "input": "((991 + (331 + 930)) - (219 + (32 + 365)))",
-    "expectedOutput": 1636
-  },
-  {
-    "input": "((655 - 454) + (402 + 476))",
-    "expectedOutput": 1079
-  },
-  {
-    "input": "((825 + (260 + 124)) + (151 + (72 + 768)))",
-    "expectedOutput": 2200
-  },
-  {
-    "input": "((392 - 492) + (62 + (485 - 62)))",
-    "expectedOutput": 385
-  },
-  {
-    "input": "((837 - 623) - (233 - (140 + 548)))",
-    "expectedOutput": 669
-  },
-  {
-    "input": "(91 - 708)",
-    "expectedOutput": -617
-  },
-  {
-    "input": "((13 - 88) - (956 - 402))",
-    "expectedOutput": -629
-  },
-  {
-    "input": "(201 - 441)",
-    "expectedOutput": -240
-  },
-  {
-    "input": "(411 - 360)",
-    "expectedOutput": 51
-  },
-  {
-    "input": "(266 - 394)",
-    "expectedOutput": -128
-  },
-  {
-    "input": "((50 - 290) - (886 - 70))",
-    "expectedOutput": -1056
-  },
-  {
-    "input": "(185 + (697 + 379))",
-    "expectedOutput": 1261
-  },
-  {
-    "input": "94",
-    "expectedOutput": 94
-  },
-  {
-    "input": "((46 + (912 - 402)) - (149 - (186 - 525)))",
-    "expectedOutput": 68
-  },
-  {
-    "input": "((84 + 423) - (813 - (180 + 599)))",
-    "expectedOutput": 473
-  },
-  {
-    "input": "(993 - (236 + 938))",
-    "expectedOutput": -181
-  },
-  {
-    "input": "(136 + 388)",
-    "expectedOutput": 524
-  },
-  {
-    "input": "((95 - 445) + (480 - (42 + 107)))",
-    "expectedOutput": -19
-  },
-  {
-    "input": "((513 + (268 - 856)) + (307 - (413 - 430)))",
-    "expectedOutput": 249
-  },
-  {
-    "input": "(965 - (536 + 355))",
-    "expectedOutput": 74
-  },
-  {
-    "input": "(685 + (603 + 875))",
-    "expectedOutput": 2163
-  },
-  {
-    "input": "((481 + 400) + (386 - 339))",
-    "expectedOutput": 928
-  },
-  {
-    "input": "((52 + (205 + 61)) + (764 - (868 - 12)))",
-    "expectedOutput": 226
-  },
-  {
-    "input": "((694 + (537 - 109)) + (489 + (638 + 180)))",
-    "expectedOutput": 2429
-  },
-  {
-    "input": "((80 - (849 - 71)) - (817 - (376 - 783)))",
-    "expectedOutput": -1922
-  },
-  {
-    "input": "((555 + (338 + 995)) - (249 - (852 - 445)))",
-    "expectedOutput": 2046
-  },
-  {
-    "input": "(382 - (492 + 448))",
-    "expectedOutput": -558
-  },
-  {
-    "input": "((373 - 39) + (242 + (315 - 916)))",
-    "expectedOutput": -25
-  },
-  {
-    "input": "(944 - 250)",
-    "expectedOutput": 694
-  },
-  {
-    "input": "((242 - 506) - (306 + (93 - 370)))",
-    "expectedOutput": -293
-  },
-  {
-    "input": "((695 + (436 - 117)) - (626 + (307 + 296)))",
-    "expectedOutput": -215
-  },
-  {
-    "input": "((754 + 981) - (504 + (538 - 514)))",
-    "expectedOutput": 1207
-  },
-  {
-    "input": "725",
-    "expectedOutput": 725
-  },
-  {
-    "input": "((732 - 937) - (598 + 958))",
-    "expectedOutput": -1761
-  },
-  {
-    "input": "((257 - (600 - 316)) - (81 - (442 + 678)))",
-    "expectedOutput": 1012
-  },
-  {
-    "input": "(666 + 977)",
-    "expectedOutput": 1643
-  },
-  {
-    "input": "816",
-    "expectedOutput": 816
-  },
-  {
-    "input": "((159 - (550 - 132)) + (696 - (455 + 160)))",
-    "expectedOutput": -178
-  },
-  {
-    "input": "((373 - 15) - (411 - (668 + 625)))",
-    "expectedOutput": 1240
-  },
-  {
-    "input": "(219 - (446 - 469))",
-    "expectedOutput": 242
-  },
-  {
-    "input": "((505 - 477) + (540 - (614 + 354)))",
-    "expectedOutput": -400
-  },
-  {
-    "input": "9",
-    "expectedOutput": 9
-  },
-  {
-    "input": "((577 - 200) + (92 - 563))",
-    "expectedOutput": -94
-  },
-  {
-    "input": "((796 + (106 - 404)) + (927 - (581 - 966)))",
-    "expectedOutput": 1810
-  },
-  {
-    "input": "((505 - 424) - (103 - (113 + 336)))",
-    "expectedOutput": 427
-  },
-  {
-    "input": "(633 + 896)",
-    "expectedOutput": 1529
-  },
-  {
-    "input": "((130 - (509 - 94)) + (943 + (922 + 257)))",
-    "expectedOutput": 1837
-  },
-  {
-    "input": "(644 + 658)",
-    "expectedOutput": 1302
-  },
-  {
-    "input": "((656 + 224) + (980 + 453))",
-    "expectedOutput": 2313
-  },
-  {
-    "input": "(22 + 134)",
-    "expectedOutput": 156
-  },
-  {
-    "input": "((514 + 128) - (939 + (278 + 104)))",
-    "expectedOutput": -679
-  },
-  {
-    "input": "(592 + 237)",
-    "expectedOutput": 829
-  },
-  {
-    "input": "682",
-    "expectedOutput": 682
-  },
-  {
-    "input": "((566 - 645) + (74 - 108))",
-    "expectedOutput": -113
-  },
-  {
-    "input": "729",
-    "expectedOutput": 729
-  },
-  {
-    "input": "((821 - 657) - (358 - (375 + 93)))",
-    "expectedOutput": 274
-  },
-  {
-    "input": "553",
-    "expectedOutput": 553
-  },
-  {
-    "input": "((215 + (623 - 448)) - (319 - (518 + 666)))",
-    "expectedOutput": 1255
-  },
-  {
-    "input": "((542 - 871) + (289 - (901 + 917)))",
-    "expectedOutput": -1858
-  },
-  {
-    "input": "((832 + 970) - (930 + 103))",
-    "expectedOutput": 769
-  },
-  {
-    "input": "(677 + (914 - 525))",
-    "expectedOutput": 1066
-  },
-  {
-    "input": "725",
-    "expectedOutput": 725
-  },
-  {
-    "input": "((776 - (144 - 278)) - (622 - (393 - 703)))",
-    "expectedOutput": -22
-  },
-  {
-    "input": "((373 + (515 + 665)) + (970 + (856 - 722)))",
-    "expectedOutput": 2657
-  },
-  {
-    "input": "((151 + (327 - 944)) + (492 - (919 + 713)))",
-    "expectedOutput": -1606
-  },
-  {
-    "input": "((424 + 464) - (93 - (568 - 955)))",
-    "expectedOutput": 408
-  },
-  {
-    "input": "(698 - (755 + 695))",
-    "expectedOutput": -752
-  },
-  {
-    "input": "(831 - 391)",
-    "expectedOutput": 440
-  },
-  {
-    "input": "((321 + 935) + (919 + (875 + 553)))",
-    "expectedOutput": 3603
-  },
-  {
-    "input": "((338 + (726 + 425)) - (50 + (181 + 362)))",
-    "expectedOutput": 896
-  },
-  {
-    "input": "((281 + (488 - 605)) - (772 - (309 + 579)))",
-    "expectedOutput": 280
-  },
-  {
-    "input": "((204 - 959) + (316 + 117))",
-    "expectedOutput": -322
-  },
-  {
-    "input": "(985 - 518)",
-    "expectedOutput": 467
-  },
-  {
-    "input": "(283 + 239)",
-    "expectedOutput": 522
-  },
-  {
-    "input": "354",
-    "expectedOutput": 354
-  },
-  {
-    "input": "781",
-    "expectedOutput": 781
-  },
-  {
-    "input": "((947 - (955 + 890)) - (468 + (517 + 759)))",
-    "expectedOutput": -2642
-  },
-  {
-    "input": "((243 - (925 - 365)) + (178 - (873 + 491)))",
-    "expectedOutput": -1503
-  },
-  {
-    "input": "((993 + 74) + (18 + (689 - 764)))",
-    "expectedOutput": 1010
-  },
-  {
-    "input": "((111 - 200) + (245 + 550))",
-    "expectedOutput": 706
-  },
-  {
-    "input": "((764 + (253 - 436)) + (566 - (451 - 841)))",
-    "expectedOutput": 1537
-  },
-  {
-    "input": "((46 + 66) - (259 + 28))",
-    "expectedOutput": -175
-  },
-  {
-    "input": "((302 + 147) - (615 - 814))",
-    "expectedOutput": 648
-  },
-  {
-    "input": "((872 + 581) - (858 - (188 - 472)))",
-    "expectedOutput": 311
-  },
-  {
-    "input": "(678 - 751)",
-    "expectedOutput": -73
-  },
-  {
-    "input": "((946 - (311 + 247)) - (999 + (394 + 342)))",
-    "expectedOutput": -1347
-  },
-  {
-    "input": "((138 - 439) - (361 + 384))",
-    "expectedOutput": -1046
-  },
-  {
-    "input": "59",
-    "expectedOutput": 59
-  },
-  {
-    "input": "529",
-    "expectedOutput": 529
-  },
-  {
-    "input": "(518 - (379 - 97))",
-    "expectedOutput": 236
-  },
-  {
-    "input": "((372 + 75) - (936 + (806 - 629)))",
-    "expectedOutput": -666
-  },
-  {
-    "input": "((423 - 272) - (531 - 733))",
-    "expectedOutput": 353
-  },
-  {
-    "input": "((476 + 941) - (524 - 187))",
-    "expectedOutput": 1080
-  },
-  {
-    "input": "((609 + 175) - (845 - (908 + 260)))",
-    "expectedOutput": 1107
-  },
-  {
-    "input": "(340 - (503 - 678))",
-    "expectedOutput": 515
-  },
-  {
-    "input": "(399 - (26 - 57))",
-    "expectedOutput": 430
-  },
-  {
-    "input": "((91 + (188 - 949)) + (592 + (131 - 979)))",
-    "expectedOutput": -926
-  },
-  {
-    "input": "(119 + 510)",
-    "expectedOutput": 629
-  },
-  {
-    "input": "((675 - (863 + 692)) + (331 - (33 - 827)))",
-    "expectedOutput": 245
-  },
-  {
-    "input": "((720 + 650) - (83 + 7))",
-    "expectedOutput": 1280
-  },
-  {
-    "input": "(107 + (858 - 923))",
-    "expectedOutput": 42
-  },
-  {
-    "input": "((678 + 80) - (81 + (755 - 455)))",
-    "expectedOutput": 377
-  },
-  {
-    "input": "((636 + 607) + (429 + 562))",
-    "expectedOutput": 2234
-  },
-  {
-    "input": "753",
-    "expectedOutput": 753
-  },
-  {
-    "input": "((356 - 282) - (809 + (783 + 334)))",
-    "expectedOutput": -1852
-  },
-  {
-    "input": "((644 - 972) + (14 - (630 - 165)))",
-    "expectedOutput": -779
-  },
-  {
-    "input": "351",
-    "expectedOutput": 351
-  },
-  {
-    "input": "(111 + 167)",
-    "expectedOutput": 278
-  },
-  {
-    "input": "94",
-    "expectedOutput": 94
-  },
-  {
-    "input": "694",
-    "expectedOutput": 694
-  },
-  {
-    "input": "((74 - 670) - (517 - 580))",
-    "expectedOutput": -533
-  },
-  {
-    "input": "((732 - (835 - 889)) + (541 - (490 - 685)))",
-    "expectedOutput": 1522
-  },
-  {
-    "input": "((88 - 963) + (247 - 311))",
-    "expectedOutput": -939
-  },
-  {
-    "input": "28",
-    "expectedOutput": 28
-  },
-  {
-    "input": "843",
-    "expectedOutput": 843
-  },
-  {
-    "input": "(904 - 860)",
-    "expectedOutput": 44
-  },
-  {
-    "input": "((506 - 919) + (677 + (794 + 362)))",
-    "expectedOutput": 1420
-  },
-  {
-    "input": "(942 - 984)",
-    "expectedOutput": -42
-  },
-  {
-    "input": "(634 - (650 - 565))",
-    "expectedOutput": 549
-  },
-  {
-    "input": "(573 + 475)",
-    "expectedOutput": 1048
-  },
-  {
-    "input": "(755 - (440 - 923))",
-    "expectedOutput": 1238
-  },
-  {
-    "input": "((768 - 183) - (854 + 192))",
-    "expectedOutput": -461
-  },
-  {
-    "input": "((744 - 133) - (718 - (660 + 776)))",
-    "expectedOutput": 1329
-  },
-  {
-    "input": "(449 + (720 - 316))",
-    "expectedOutput": 853
-  },
-  {
-    "input": "((722 - 604) + (456 + (304 - 459)))",
-    "expectedOutput": 419
-  },
-  {
-    "input": "(859 - (825 - 472))",
-    "expectedOutput": 506
-  },
-  {
-    "input": "(648 + 142)",
-    "expectedOutput": 790
-  },
-  {
-    "input": "((49 - (680 - 348)) + (97 + (340 + 887)))",
-    "expectedOutput": 1041
-  },
-  {
-    "input": "612",
-    "expectedOutput": 612
-  },
-  {
-    "input": "(887 - (460 - 621))",
-    "expectedOutput": 1048
-  },
-  {
-    "input": "((323 - (597 - 293)) - (167 + (526 + 786)))",
-    "expectedOutput": -1460
-  },
-  {
-    "input": "((269 + (580 + 758)) + (198 + (68 - 409)))",
-    "expectedOutput": 1464
-  },
-  {
-    "input": "814",
-    "expectedOutput": 814
-  },
-  {
-    "input": "((759 + 183) - (216 - (900 - 854)))",
-    "expectedOutput": 772
-  },
-  {
-    "input": "549",
-    "expectedOutput": 549
-  },
-  {
-    "input": "((102 - (357 - 642)) - (510 - (445 + 88)))",
-    "expectedOutput": 410
-  },
-  {
-    "input": "32",
-    "expectedOutput": 32
-  },
-  {
-    "input": "(221 - (711 + 261))",
-    "expectedOutput": -751
-  },
-  {
-    "input": "((825 - 244) + (849 - 733))",
-    "expectedOutput": 697
-  },
-  {
-    "input": "981",
-    "expectedOutput": 981
-  },
-  {
-    "input": "((655 + (35 + 18)) + (941 - (980 + 946)))",
-    "expectedOutput": -277
-  },
-  {
-    "input": "((312 + 269) + (283 + 288))",
-    "expectedOutput": 1152
-  },
-  {
-    "input": "((878 + 861) + (60 + (145 - 273)))",
-    "expectedOutput": 1671
-  },
-  {
-    "input": "(227 - 709)",
-    "expectedOutput": -482
-  },
-  {
-    "input": "(879 + 400)",
-    "expectedOutput": 1279
-  },
-  {
-    "input": "(29 - (972 - 815))",
-    "expectedOutput": -128
-  },
-  {
-    "input": "((606 + (189 - 818)) - (477 - (615 + 349)))",
-    "expectedOutput": 464
-  },
-  {
-    "input": "((896 + 234) + (118 + 359))",
-    "expectedOutput": 1607
-  },
-  {
-    "input": "((553 + 794) - (519 + 853))",
-    "expectedOutput": -25
-  },
-  {
-    "input": "((579 - 186) - (561 + 946))",
-    "expectedOutput": -1114
-  },
-  {
-    "input": "((262 - 189) - (865 + (205 - 187)))",
-    "expectedOutput": -810
-  },
-  {
-    "input": "((114 - 644) - (792 - (73 + 16)))",
-    "expectedOutput": -1233
-  },
-  {
-    "input": "92",
-    "expectedOutput": 92
-  },
-  {
-    "input": "858",
-    "expectedOutput": 858
-  },
-  {
-    "input": "((931 - 414) + (823 - (576 + 508)))",
-    "expectedOutput": 256
-  },
-  {
-    "input": "576",
-    "expectedOutput": 576
-  },
-  {
-    "input": "((713 + (202 + 868)) + (898 + (454 + 804)))",
-    "expectedOutput": 3939
-  },
-  {
-    "input": "(913 + 977)",
-    "expectedOutput": 1890
-  },
-  {
-    "input": "((6 + (685 + 972)) + (567 + (829 - 274)))",
-    "expectedOutput": 2785
-  },
-  {
-    "input": "((67 + 723) + (343 + (424 - 179)))",
-    "expectedOutput": 1378
-  },
-  {
-    "input": "(434 + (909 + 646))",
-    "expectedOutput": 1989
-  },
-  {
-    "input": "((133 - (526 + 362)) + (588 - (557 - 663)))",
-    "expectedOutput": -61
-  },
-  {
-    "input": "((916 + 977) + (60 + 404))",
-    "expectedOutput": 2357
-  },
-  {
-    "input": "(160 + (852 + 499))",
-    "expectedOutput": 1511
-  },
-  {
-    "input": "(790 - 972)",
-    "expectedOutput": -182
-  },
-  {
-    "input": "((854 - 844) + (238 + (396 - 812)))",
-    "expectedOutput": -168
-  },
-  {
-    "input": "(836 + 98)",
-    "expectedOutput": 934
-  },
-  {
-    "input": "30",
-    "expectedOutput": 30
-  },
-  {
-    "input": "((481 + (457 + 195)) - (271 - (803 - 928)))",
-    "expectedOutput": 737
-  },
-  {
-    "input": "426",
-    "expectedOutput": 426
-  },
-  {
-    "input": "((499 - 882) - (569 + 235))",
-    "expectedOutput": -1187
-  },
-  {
-    "input": "((732 - 941) + (896 + 153))",
-    "expectedOutput": 840
-  },
-  {
-    "input": "((45 + 479) - (324 - 269))",
-    "expectedOutput": 469
-  },
-  {
-    "input": "((928 + (95 + 294)) + (864 + (694 - 639)))",
-    "expectedOutput": 2236
-  },
-  {
-    "input": "785",
-    "expectedOutput": 785
-  },
-  {
-    "input": "(964 + 528)",
-    "expectedOutput": 1492
-  },
-  {
-    "input": "((363 - (399 + 678)) + (657 - (555 + 636)))",
-    "expectedOutput": -1248
-  },
-  {
-    "input": "((952 - 814) + (62 - 620))",
-    "expectedOutput": -420
-  },
-  {
-    "input": "((773 + (409 - 28)) + (825 - (79 - 988)))",
-    "expectedOutput": 2888
-  },
-  {
-    "input": "(33 - 407)",
-    "expectedOutput": -374
-  },
-  {
-    "input": "((879 + (855 - 766)) - (280 + (5 + 266)))",
-    "expectedOutput": 417
-  },
-  {
-    "input": "(584 + 207)",
-    "expectedOutput": 791
-  },
-  {
-    "input": "((903 + (518 + 332)) - (974 + (192 - 6)))",
-    "expectedOutput": 593
-  },
-  {
-    "input": "((409 - 335) + (784 + 660))",
-    "expectedOutput": 1518
-  },
-  {
-    "input": "((815 + 89) - (64 - (427 - 410)))",
-    "expectedOutput": 857
-  },
-  {
-    "input": "(504 + 391)",
-    "expectedOutput": 895
-  },
-  {
-    "input": "573",
-    "expectedOutput": 573
-  },
-  {
-    "input": "617",
-    "expectedOutput": 617
-  },
-  {
-    "input": "230",
-    "expectedOutput": 230
-  },
-  {
-    "input": "((655 + 956) + (954 - 338))",
-    "expectedOutput": 2227
-  },
-  {
-    "input": "((954 - 236) - (800 - (912 + 383)))",
-    "expectedOutput": 1213
-  },
-  {
-    "input": "(563 + 476)",
-    "expectedOutput": 1039
-  },
-  {
-    "input": "((702 - 571) - (598 - (3 + 934)))",
-    "expectedOutput": 470
-  },
-  {
-    "input": "((406 + 67) - (141 - (55 - 452)))",
-    "expectedOutput": -65
-  },
-  {
-    "input": "((823 - (321 - 422)) + (477 + (932 - 316)))",
-    "expectedOutput": 2017
-  },
-  {
-    "input": "((955 + 309) - (877 + 880))",
-    "expectedOutput": -493
-  },
-  {
-    "input": "(940 + 553)",
-    "expectedOutput": 1493
-  },
-  {
-    "input": "((653 - (949 - 536)) + (963 - (186 - 668)))",
-    "expectedOutput": 1685
-  },
-  {
-    "input": "231",
-    "expectedOutput": 231
-  },
-  {
-    "input": "((555 + 329) - (778 + (633 + 426)))",
-    "expectedOutput": -953
-  },
-  {
-    "input": "((163 + (264 + 304)) + (435 + (84 - 258)))",
-    "expectedOutput": 992
-  },
-  {
-    "input": "((224 - (781 + 841)) + (103 - (101 - 851)))",
-    "expectedOutput": -545
-  },
-  {
-    "input": "((426 + (329 - 726)) + (336 - (409 - 693)))",
-    "expectedOutput": 649
-  },
-  {
-    "input": "859",
-    "expectedOutput": 859
-  },
-  {
-    "input": "(783 - 722)",
-    "expectedOutput": 61
-  },
-  {
-    "input": "(327 - (718 - 306))",
-    "expectedOutput": -85
-  },
-  {
-    "input": "786",
-    "expectedOutput": 786
-  },
-  {
-    "input": "((602 + 870) + (4 - (798 + 582)))",
-    "expectedOutput": 96
-  },
-  {
-    "input": "((326 + 975) - (269 - 171))",
-    "expectedOutput": 1203
-  },
-  {
-    "input": "(232 - (377 + 644))",
-    "expectedOutput": -789
-  },
-  {
-    "input": "((546 + 624) + (502 + (334 + 856)))",
-    "expectedOutput": 2862
-  },
-  {
-    "input": "(117 + (251 - 395))",
-    "expectedOutput": -27
-  },
-  {
-    "input": "((921 + (183 - 36)) - (34 - (763 - 679)))",
-    "expectedOutput": 1118
-  },
-  {
-    "input": "(788 - 11)",
-    "expectedOutput": 777
-  },
-  {
-    "input": "((700 + 452) + (837 - 276))",
-    "expectedOutput": 1713
-  },
-  {
-    "input": "((945 - 340) - (607 - (494 + 490)))",
-    "expectedOutput": 982
-  },
-  {
-    "input": "(662 + (357 + 276))",
-    "expectedOutput": 1295
-  },
-  {
-    "input": "((289 + (124 + 194)) - (640 - (802 - 126)))",
-    "expectedOutput": 643
-  },
-  {
-    "input": "(310 + 309)",
-    "expectedOutput": 619
-  },
-  {
-    "input": "((667 + 290) - (996 + 338))",
-    "expectedOutput": -377
-  },
-  {
-    "input": "(43 - 275)",
-    "expectedOutput": -232
-  },
-  {
-    "input": "(253 + 472)",
-    "expectedOutput": 725
-  },
-  {
-    "input": "((555 + 686) + (49 - 698))",
-    "expectedOutput": 592
-  },
-  {
-    "input": "((929 + 572) + (641 - 131))",
-    "expectedOutput": 2011
-  },
-  {
-    "input": "((876 + 640) - (430 - (774 - 684)))",
-    "expectedOutput": 1176
-  },
-  {
-    "input": "(307 - (950 - 361))",
-    "expectedOutput": -282
-  },
-  {
-    "input": "((623 - 971) + (513 + (941 + 483)))",
-    "expectedOutput": 1589
-  },
-  {
-    "input": "723",
-    "expectedOutput": 723
-  },
-  {
-    "input": "(565 - 264)",
-    "expectedOutput": 301
-  },
-  {
-    "input": "(169 - 748)",
-    "expectedOutput": -579
-  },
-  {
-    "input": "((319 - 339) + (251 + (971 - 166)))",
-    "expectedOutput": 1036
-  },
-  {
-    "input": "(918 - (293 + 233))",
-    "expectedOutput": 392
-  },
-  {
-    "input": "((652 + 368) - (847 - (272 - 636)))",
-    "expectedOutput": -191
-  },
-  {
-    "input": "(160 - 493)",
-    "expectedOutput": -333
-  },
-  {
-    "input": "(890 - (474 - 634))",
-    "expectedOutput": 1050
-  },
-  {
-    "input": "((886 + (749 - 454)) - (927 + (238 + 683)))",
-    "expectedOutput": -667
-  },
-  {
-    "input": "(599 + (314 - 908))",
-    "expectedOutput": 5
-  },
-  {
-    "input": "((957 + 358) + (480 - 475))",
-    "expectedOutput": 1320
-  },
-  {
-    "input": "(573 - 616)",
-    "expectedOutput": -43
-  },
-  {
-    "input": "((884 - (501 - 953)) - (87 + (49 + 40)))",
-    "expectedOutput": 1160
-  },
-  {
-    "input": "(136 - 836)",
-    "expectedOutput": -700
-  },
-  {
-    "input": "((785 + 548) - (255 + (35 - 391)))",
-    "expectedOutput": 1434
-  },
-  {
-    "input": "((194 + (790 - 908)) + (66 + (316 - 287)))",
-    "expectedOutput": 171
-  },
-  {
-    "input": "((843 + 511) + (256 - 376))",
-    "expectedOutput": 1234
-  },
-  {
-    "input": "(186 + (589 + 565))",
-    "expectedOutput": 1340
-  },
-  {
-    "input": "((337 - 880) - (227 - 844))",
-    "expectedOutput": 74
-  },
-  {
-    "input": "386",
-    "expectedOutput": 386
-  },
-  {
-    "input": "(996 - (838 + 974))",
-    "expectedOutput": -816
-  },
-  {
-    "input": "((427 - (657 + 145)) + (600 + (384 - 140)))",
-    "expectedOutput": 469
-  },
-  {
-    "input": "(720 - 861)",
-    "expectedOutput": -141
+    "input": "(936 - (630 + 376))",
+    "expectedOutput": -70
   },
   {
     "input": "100",
     "expectedOutput": 100
   },
   {
-    "input": "(673 - 854)",
-    "expectedOutput": -181
+    "input": "171",
+    "expectedOutput": 171
   },
   {
-    "input": "((884 - (981 + 302)) + (214 + (700 + 942)))",
-    "expectedOutput": 1457
+    "input": "(468 - 104)",
+    "expectedOutput": 364
   },
   {
-    "input": "((789 - 410) - (776 - (658 - 661)))",
-    "expectedOutput": -400
+    "input": "84",
+    "expectedOutput": 84
   },
   {
-    "input": "(464 + 120)",
-    "expectedOutput": 584
-  },
-  {
-    "input": "(307 + (94 + 758))",
-    "expectedOutput": 1159
-  },
-  {
-    "input": "(693 + 791)",
-    "expectedOutput": 1484
-  },
-  {
-    "input": "(645 - 290)",
-    "expectedOutput": 355
-  },
-  {
-    "input": "((590 + 861) - (798 + (653 + 648)))",
-    "expectedOutput": -648
-  },
-  {
-    "input": "((750 - (417 + 10)) + (175 + (322 + 183)))",
-    "expectedOutput": 1003
-  },
-  {
-    "input": "(776 + (783 + 623))",
-    "expectedOutput": 2182
-  },
-  {
-    "input": "988",
-    "expectedOutput": 988
-  },
-  {
-    "input": "(248 - 42)",
-    "expectedOutput": 206
-  },
-  {
-    "input": "785",
-    "expectedOutput": 785
-  },
-  {
-    "input": "(710 - 154)",
-    "expectedOutput": 556
-  },
-  {
-    "input": "((247 - (830 - 154)) + (450 - (516 - 732)))",
-    "expectedOutput": 237
-  },
-  {
-    "input": "(192 + 983)",
-    "expectedOutput": 1175
-  },
-  {
-    "input": "((780 + 940) + (655 + (140 + 724)))",
-    "expectedOutput": 3239
-  },
-  {
-    "input": "470",
-    "expectedOutput": 470
-  },
-  {
-    "input": "((964 + (826 + 155)) + (981 - (662 + 610)))",
-    "expectedOutput": 1654
-  },
-  {
-    "input": "447",
-    "expectedOutput": 447
-  },
-  {
-    "input": "((397 + 656) + (127 - (774 - 527)))",
-    "expectedOutput": 933
-  },
-  {
-    "input": "(310 + (310 + 860))",
-    "expectedOutput": 1480
-  },
-  {
-    "input": "((467 - 414) + (273 + 235))",
-    "expectedOutput": 561
-  },
-  {
-    "input": "((500 + 422) - (448 + 860))",
-    "expectedOutput": -386
-  },
-  {
-    "input": "((609 + 731) - (582 + (885 - 689)))",
-    "expectedOutput": 562
-  },
-  {
-    "input": "((477 - 988) - (263 - (50 - 754)))",
-    "expectedOutput": -1478
-  },
-  {
-    "input": "((901 - (207 + 283)) - (652 + (298 - 870)))",
-    "expectedOutput": 331
-  },
-  {
-    "input": "((560 + 275) - (67 + (476 + 24)))",
-    "expectedOutput": 268
-  },
-  {
-    "input": "((659 + (762 + 99)) + (855 - (640 - 90)))",
-    "expectedOutput": 1825
-  },
-  {
-    "input": "876",
-    "expectedOutput": 876
-  },
-  {
-    "input": "(295 - 983)",
-    "expectedOutput": -688
-  },
-  {
-    "input": "((338 + (931 + 729)) + (957 + (24 - 603)))",
-    "expectedOutput": 2376
-  },
-  {
-    "input": "(752 + 74)",
-    "expectedOutput": 826
-  },
-  {
-    "input": "((68 - (350 - 619)) + (84 - (946 - 253)))",
-    "expectedOutput": -272
-  },
-  {
-    "input": "((75 + (119 - 529)) + (108 - (134 - 204)))",
-    "expectedOutput": -157
-  },
-  {
-    "input": "(25 + (466 + 780))",
-    "expectedOutput": 1271
-  },
-  {
-    "input": "949",
-    "expectedOutput": 949
-  },
-  {
-    "input": "((510 + 960) - (339 + (311 - 193)))",
-    "expectedOutput": 1013
-  },
-  {
-    "input": "((111 - (278 - 234)) - (834 + (247 - 317)))",
-    "expectedOutput": -697
-  },
-  {
-    "input": "(899 + 172)",
-    "expectedOutput": 1071
-  },
-  {
-    "input": "((45 + 959) - (435 - (232 + 865)))",
-    "expectedOutput": 1666
-  },
-  {
-    "input": "((95 + (196 + 511)) + (200 - (432 - 131)))",
-    "expectedOutput": 701
-  },
-  {
-    "input": "406",
-    "expectedOutput": 406
-  },
-  {
-    "input": "(160 - 950)",
-    "expectedOutput": -790
-  },
-  {
-    "input": "(976 + 783)",
-    "expectedOutput": 1759
-  },
-  {
-    "input": "((555 + (94 + 456)) - (751 - (263 + 875)))",
-    "expectedOutput": 1492
-  },
-  {
-    "input": "((339 + (178 - 197)) + (457 + (558 - 272)))",
-    "expectedOutput": 1063
-  },
-  {
-    "input": "((241 + 766) - (458 + (27 - 621)))",
-    "expectedOutput": 1143
-  },
-  {
-    "input": "((562 + (106 - 261)) - (482 - (506 + 64)))",
-    "expectedOutput": 495
-  },
-  {
-    "input": "((849 + (904 - 708)) - (603 + (157 - 687)))",
-    "expectedOutput": 972
-  },
-  {
-    "input": "((593 + (115 - 455)) + (722 - (416 + 382)))",
-    "expectedOutput": 177
-  },
-  {
-    "input": "((16 + (106 - 405)) - (180 + (558 + 125)))",
-    "expectedOutput": -1146
-  },
-  {
-    "input": "((127 - 323) - (843 + 261))",
-    "expectedOutput": -1300
-  },
-  {
-    "input": "(829 - (177 + 756))",
-    "expectedOutput": -104
-  },
-  {
-    "input": "790",
-    "expectedOutput": 790
-  },
-  {
-    "input": "((28 + 680) + (822 - (587 - 176)))",
-    "expectedOutput": 1119
-  },
-  {
-    "input": "((415 + 829) + (39 + 584))",
-    "expectedOutput": 1867
-  },
-  {
-    "input": "(262 - (549 + 478))",
-    "expectedOutput": -765
-  },
-  {
-    "input": "((837 - 694) - (880 + 514))",
-    "expectedOutput": -1251
-  },
-  {
-    "input": "(972 - (744 + 537))",
-    "expectedOutput": -309
-  },
-  {
-    "input": "(578 - (303 + 400))",
-    "expectedOutput": -125
-  },
-  {
-    "input": "818",
-    "expectedOutput": 818
-  },
-  {
-    "input": "(204 + 928)",
-    "expectedOutput": 1132
-  },
-  {
-    "input": "((307 + (534 - 237)) - (422 - (257 - 780)))",
-    "expectedOutput": -341
-  },
-  {
-    "input": "(540 + (526 + 764))",
-    "expectedOutput": 1830
-  },
-  {
-    "input": "851",
-    "expectedOutput": 851
-  },
-  {
-    "input": "(112 - 504)",
-    "expectedOutput": -392
-  },
-  {
-    "input": "((501 + 570) + (718 + 448))",
-    "expectedOutput": 2237
-  },
-  {
-    "input": "((754 - (368 - 760)) - (559 - (29 + 960)))",
-    "expectedOutput": 1576
-  },
-  {
-    "input": "(371 - (218 - 295))",
-    "expectedOutput": 448
-  },
-  {
-    "input": "((571 - 770) - (468 + 713))",
-    "expectedOutput": -1380
-  },
-  {
-    "input": "((900 + 779) + (637 + (608 + 818)))",
-    "expectedOutput": 3742
-  },
-  {
-    "input": "((1 + (138 - 298)) + (680 - (942 - 157)))",
-    "expectedOutput": -264
-  },
-  {
-    "input": "((629 + 212) - (519 - (559 + 769)))",
-    "expectedOutput": 1650
-  },
-  {
-    "input": "552",
-    "expectedOutput": 552
-  },
-  {
-    "input": "((462 + (703 - 605)) + (857 + (1 - 561)))",
-    "expectedOutput": 857
-  },
-  {
-    "input": "(76 + (673 + 389))",
-    "expectedOutput": 1138
-  },
-  {
-    "input": "((683 + 916) + (348 - (157 - 368)))",
-    "expectedOutput": 2158
-  },
-  {
-    "input": "((502 + 965) + (875 + (124 + 784)))",
-    "expectedOutput": 3250
-  },
-  {
-    "input": "((836 - 807) - (220 - (875 + 820)))",
-    "expectedOutput": 1504
-  },
-  {
-    "input": "((752 - 864) + (156 + (845 + 449)))",
-    "expectedOutput": 1338
-  },
-  {
-    "input": "(21 + 92)",
-    "expectedOutput": 113
-  },
-  {
-    "input": "((702 - 641) + (341 + (432 + 580)))",
-    "expectedOutput": 1414
-  },
-  {
-    "input": "((303 + 624) - (557 + (901 - 587)))",
-    "expectedOutput": 56
-  },
-  {
-    "input": "((718 + 256) + (700 - 194))",
-    "expectedOutput": 1480
-  },
-  {
-    "input": "(419 + (456 + 319))",
-    "expectedOutput": 1194
-  },
-  {
-    "input": "(557 + 517)",
-    "expectedOutput": 1074
-  },
-  {
-    "input": "((409 - 993) + (482 + 732))",
-    "expectedOutput": 630
-  },
-  {
-    "input": "((603 + (276 - 599)) + (628 + (635 - 545)))",
-    "expectedOutput": 998
-  },
-  {
-    "input": "438",
-    "expectedOutput": 438
-  },
-  {
-    "input": "(875 - (712 - 30))",
-    "expectedOutput": 193
-  },
-  {
-    "input": "((505 + 40) + (426 - 118))",
-    "expectedOutput": 853
-  },
-  {
-    "input": "((174 - 626) + (532 - (751 - 169)))",
-    "expectedOutput": -502
-  },
-  {
-    "input": "((65 + (227 + 574)) - (880 + (500 + 497)))",
-    "expectedOutput": -1011
-  },
-  {
-    "input": "559",
-    "expectedOutput": 559
-  },
-  {
-    "input": "((829 - (677 - 994)) - (54 + (472 - 196)))",
-    "expectedOutput": 816
-  },
-  {
-    "input": "(186 + (646 - 604))",
-    "expectedOutput": 228
-  },
-  {
-    "input": "104",
-    "expectedOutput": 104
-  },
-  {
-    "input": "(348 + (713 + 285))",
-    "expectedOutput": 1346
-  },
-  {
-    "input": "((491 - 926) + (555 + 428))",
-    "expectedOutput": 548
-  },
-  {
-    "input": "(593 + (324 + 647))",
-    "expectedOutput": 1564
-  },
-  {
-    "input": "597",
-    "expectedOutput": 597
-  },
-  {
-    "input": "((304 - 502) - (178 - (593 + 963)))",
-    "expectedOutput": 1180
-  },
-  {
-    "input": "590",
-    "expectedOutput": 590
-  },
-  {
-    "input": "(298 + 628)",
-    "expectedOutput": 926
-  },
-  {
-    "input": "92",
-    "expectedOutput": 92
-  },
-  {
-    "input": "((938 - 515) - (643 + (588 - 316)))",
-    "expectedOutput": -492
-  },
-  {
-    "input": "(605 - 147)",
-    "expectedOutput": 458
-  },
-  {
-    "input": "(884 - (738 - 787))",
-    "expectedOutput": 933
-  },
-  {
-    "input": "((710 + (113 - 790)) + (95 - (427 - 703)))",
-    "expectedOutput": 404
-  },
-  {
-    "input": "((362 + (49 - 651)) + (74 + (82 + 464)))",
-    "expectedOutput": 380
-  },
-  {
-    "input": "(422 - (766 + 423))",
-    "expectedOutput": -767
-  },
-  {
-    "input": "((58 + (289 + 292)) - (852 + (270 + 933)))",
-    "expectedOutput": -1416
-  },
-  {
-    "input": "((466 - (538 - 104)) + (691 + (430 + 591)))",
-    "expectedOutput": 1744
-  },
-  {
-    "input": "((618 + 354) + (209 - (393 - 602)))",
-    "expectedOutput": 1390
-  },
-  {
-    "input": "(769 - 649)",
-    "expectedOutput": 120
-  },
-  {
-    "input": "((729 + (12 + 2)) + (26 - (481 + 441)))",
-    "expectedOutput": -153
-  },
-  {
-    "input": "((834 + 961) - (238 - 217))",
-    "expectedOutput": 1774
-  },
-  {
-    "input": "((191 + 8) + (27 + 188))",
-    "expectedOutput": 414
-  },
-  {
-    "input": "((533 - 324) - (289 - (729 + 722)))",
-    "expectedOutput": 1371
-  },
-  {
-    "input": "((971 + (590 + 342)) + (752 - (91 - 448)))",
-    "expectedOutput": 3012
-  },
-  {
-    "input": "(902 - (76 + 670))",
-    "expectedOutput": 156
-  },
-  {
-    "input": "((974 + 529) + (327 - 512))",
-    "expectedOutput": 1318
-  },
-  {
-    "input": "((466 + 71) - (59 - 63))",
-    "expectedOutput": 541
-  },
-  {
-    "input": "869",
-    "expectedOutput": 869
-  },
-  {
-    "input": "(686 + 1000)",
-    "expectedOutput": 1686
-  },
-  {
-    "input": "320",
-    "expectedOutput": 320
-  },
-  {
-    "input": "((322 - 317) - (545 + (250 + 668)))",
-    "expectedOutput": -1458
-  },
-  {
-    "input": "(176 - (431 - 791))",
-    "expectedOutput": 536
-  },
-  {
-    "input": "(682 + (444 + 582))",
-    "expectedOutput": 1708
-  },
-  {
-    "input": "((908 + (676 + 99)) - (682 - (358 - 952)))",
-    "expectedOutput": 407
-  },
-  {
-    "input": "887",
-    "expectedOutput": 887
-  },
-  {
-    "input": "((803 + (516 - 483)) + (375 - (301 + 169)))",
-    "expectedOutput": 741
-  },
-  {
-    "input": "((866 + (880 - 400)) + (643 - (742 + 119)))",
-    "expectedOutput": 1128
-  },
-  {
-    "input": "(162 - 787)",
-    "expectedOutput": -625
-  },
-  {
-    "input": "((970 - 606) + (817 - 237))",
-    "expectedOutput": 944
-  },
-  {
-    "input": "((126 - (606 - 582)) + (562 - (946 - 686)))",
-    "expectedOutput": 404
-  },
-  {
-    "input": "(10 + (407 + 763))",
-    "expectedOutput": 1180
-  },
-  {
-    "input": "((634 + 971) + (473 + (309 - 756)))",
-    "expectedOutput": 1631
-  },
-  {
-    "input": "((468 - 683) - (807 + 693))",
-    "expectedOutput": -1715
-  },
-  {
-    "input": "585",
-    "expectedOutput": 585
-  },
-  {
-    "input": "(426 - (777 + 189))",
-    "expectedOutput": -540
-  },
-  {
-    "input": "(978 + (538 - 210))",
-    "expectedOutput": 1306
-  },
-  {
-    "input": "((870 - 222) - (438 + (905 - 26)))",
-    "expectedOutput": -669
-  },
-  {
-    "input": "((470 + (502 - 221)) + (402 + (895 + 359)))",
-    "expectedOutput": 2407
-  },
-  {
-    "input": "((28 - 549) + (803 - 247))",
-    "expectedOutput": 35
-  },
-  {
-    "input": "(721 + 159)",
-    "expectedOutput": 880
-  },
-  {
-    "input": "((698 - (419 + 804)) - (657 - (882 + 158)))",
-    "expectedOutput": -142
-  },
-  {
-    "input": "(101 - (470 - 134))",
-    "expectedOutput": -235
-  },
-  {
-    "input": "(764 + 377)",
-    "expectedOutput": 1141
-  },
-  {
-    "input": "(691 + 505)",
-    "expectedOutput": 1196
-  },
-  {
-    "input": "(728 + (924 + 589))",
-    "expectedOutput": 2241
-  },
-  {
-    "input": "(223 + 956)",
-    "expectedOutput": 1179
-  },
-  {
-    "input": "((483 + 531) + (84 + (18 + 47)))",
-    "expectedOutput": 1163
-  },
-  {
-    "input": "((751 + 887) - (897 + 555))",
-    "expectedOutput": 186
-  },
-  {
-    "input": "(767 - (944 - 957))",
-    "expectedOutput": 780
-  },
-  {
-    "input": "464",
-    "expectedOutput": 464
-  },
-  {
-    "input": "((422 - 153) - (761 + (728 + 508)))",
-    "expectedOutput": -1728
-  },
-  {
-    "input": "(602 + (755 - 553))",
-    "expectedOutput": 804
-  },
-  {
-    "input": "(284 + (857 - 197))",
-    "expectedOutput": 944
-  },
-  {
-    "input": "(375 - 326)",
-    "expectedOutput": 49
-  },
-  {
-    "input": "(659 - 991)",
-    "expectedOutput": -332
-  },
-  {
-    "input": "((317 + (593 - 161)) - (273 + (37 - 641)))",
-    "expectedOutput": 1080
-  },
-  {
-    "input": "(54 + 942)",
-    "expectedOutput": 996
-  },
-  {
-    "input": "((679 - (810 + 662)) - (424 + (950 + 83)))",
-    "expectedOutput": -2250
-  },
-  {
-    "input": "((774 - 287) + (468 - (992 + 448)))",
-    "expectedOutput": -485
-  },
-  {
-    "input": "((567 - 255) - (127 + (523 - 605)))",
-    "expectedOutput": 267
-  },
-  {
-    "input": "597",
-    "expectedOutput": 597
-  },
-  {
-    "input": "(670 - (281 - 74))",
-    "expectedOutput": 463
-  },
-  {
-    "input": "((168 + 873) - (459 + (510 + 659)))",
-    "expectedOutput": -587
-  },
-  {
-    "input": "((415 + 50) - (575 - 73))",
-    "expectedOutput": -37
-  },
-  {
-    "input": "(338 - (656 - 600))",
-    "expectedOutput": 282
-  },
-  {
-    "input": "((49 - 793) - (662 + (459 - 834)))",
-    "expectedOutput": -1031
-  },
-  {
-    "input": "(424 - 431)",
-    "expectedOutput": -7
-  },
-  {
-    "input": "(943 - 151)",
-    "expectedOutput": 792
-  },
-  {
-    "input": "((933 + 201) - (458 - 788))",
-    "expectedOutput": 1464
-  },
-  {
-    "input": "(802 - 783)",
-    "expectedOutput": 19
-  },
-  {
-    "input": "(218 - 36)",
-    "expectedOutput": 182
-  },
-  {
-    "input": "(782 - (630 + 701))",
-    "expectedOutput": -549
-  },
-  {
-    "input": "((697 + (194 + 795)) + (885 + (159 - 284)))",
-    "expectedOutput": 2446
-  },
-  {
-    "input": "((444 - 600) + (666 + (605 + 546)))",
-    "expectedOutput": 1661
-  },
-  {
-    "input": "(678 + 180)",
-    "expectedOutput": 858
-  },
-  {
-    "input": "(906 - (262 + 418))",
-    "expectedOutput": 226
-  },
-  {
-    "input": "643",
-    "expectedOutput": 643
-  },
-  {
-    "input": "(582 - 155)",
-    "expectedOutput": 427
-  },
-  {
-    "input": "((456 - 949) - (159 - 160))",
-    "expectedOutput": -492
-  },
-  {
-    "input": "((157 - 112) - (856 - (206 + 899)))",
-    "expectedOutput": 294
-  },
-  {
-    "input": "((272 + (761 + 887)) - (566 - (722 - 458)))",
-    "expectedOutput": 1618
-  },
-  {
-    "input": "((975 + (159 - 299)) - (574 + (710 + 499)))",
-    "expectedOutput": -948
-  },
-  {
-    "input": "(669 - 540)",
-    "expectedOutput": 129
-  },
-  {
-    "input": "(39 - (219 + 423))",
-    "expectedOutput": -603
-  },
-  {
-    "input": "482",
-    "expectedOutput": 482
-  },
-  {
-    "input": "((977 + 791) - (338 - 906))",
-    "expectedOutput": 2336
-  },
-  {
-    "input": "((976 - (34 + 401)) + (283 - (577 + 752)))",
-    "expectedOutput": -505
-  },
-  {
-    "input": "(659 - 164)",
-    "expectedOutput": 495
-  },
-  {
-    "input": "((356 - (322 - 367)) + (130 - (521 - 122)))",
-    "expectedOutput": 132
-  },
-  {
-    "input": "((134 + (140 + 344)) + (68 + (74 + 951)))",
-    "expectedOutput": 1711
-  },
-  {
-    "input": "((642 - 70) - (439 + (434 - 566)))",
-    "expectedOutput": 265
-  },
-  {
-    "input": "((712 - (69 + 856)) + (583 - (266 + 573)))",
-    "expectedOutput": -469
-  },
-  {
-    "input": "((19 + 608) + (92 + 110))",
-    "expectedOutput": 829
-  },
-  {
-    "input": "((930 + 988) - (215 + 468))",
-    "expectedOutput": 1235
-  },
-  {
-    "input": "((655 - 961) + (29 + 3))",
-    "expectedOutput": -274
-  },
-  {
-    "input": "((52 - (683 - 726)) - (628 - (488 + 836)))",
-    "expectedOutput": 791
-  },
-  {
-    "input": "(287 + 554)",
-    "expectedOutput": 841
-  },
-  {
-    "input": "((800 - (266 + 269)) + (709 - (401 + 628)))",
-    "expectedOutput": -55
-  },
-  {
-    "input": "((722 + (380 + 214)) + (918 + (765 + 201)))",
-    "expectedOutput": 3200
-  },
-  {
-    "input": "556",
-    "expectedOutput": 556
-  },
-  {
-    "input": "(981 - (22 + 100))",
-    "expectedOutput": 859
-  },
-  {
-    "input": "((122 + 254) - (98 + (627 + 936)))",
-    "expectedOutput": -1285
-  },
-  {
-    "input": "(686 + 106)",
-    "expectedOutput": 792
-  },
-  {
-    "input": "(841 + (368 - 993))",
-    "expectedOutput": 216
-  },
-  {
-    "input": "(334 + 462)",
-    "expectedOutput": 796
-  },
-  {
-    "input": "489",
-    "expectedOutput": 489
-  },
-  {
-    "input": "((640 - 483) + (537 + 126))",
-    "expectedOutput": 820
-  },
-  {
-    "input": "900",
-    "expectedOutput": 900
-  },
-  {
-    "input": "((610 - (154 + 888)) + (31 - (224 + 317)))",
-    "expectedOutput": -942
-  },
-  {
-    "input": "(102 + 652)",
-    "expectedOutput": 754
-  },
-  {
-    "input": "(801 - 603)",
-    "expectedOutput": 198
-  },
-  {
-    "input": "(770 - 339)",
-    "expectedOutput": 431
-  },
-  {
-    "input": "((612 - 685) + (811 - (285 - 979)))",
-    "expectedOutput": 1432
-  },
-  {
-    "input": "((296 - 970) + (50 + 592))",
-    "expectedOutput": -32
-  },
-  {
-    "input": "((888 - 490) - (859 - (985 - 180)))",
-    "expectedOutput": 344
-  },
-  {
-    "input": "993",
-    "expectedOutput": 993
-  },
-  {
-    "input": "((953 - 360) + (387 + 283))",
-    "expectedOutput": 1263
-  },
-  {
-    "input": "((891 - 162) + (958 + 793))",
-    "expectedOutput": 2480
-  },
-  {
-    "input": "((620 - 59) + (361 - 47))",
-    "expectedOutput": 875
-  },
-  {
-    "input": "((525 + 699) + (651 - 780))",
-    "expectedOutput": 1095
-  },
-  {
-    "input": "((394 - 204) - (54 + (70 - 790)))",
-    "expectedOutput": 856
-  },
-  {
-    "input": "((522 + 892) + (957 + (675 - 812)))",
-    "expectedOutput": 2234
-  },
-  {
-    "input": "((711 - (280 - 754)) - (572 + (891 - 243)))",
-    "expectedOutput": -35
-  },
-  {
-    "input": "((766 + 280) - (706 - (416 + 484)))",
-    "expectedOutput": 1240
-  },
-  {
-    "input": "(171 - (3 - 707))",
-    "expectedOutput": 875
-  },
-  {
-    "input": "414",
-    "expectedOutput": 414
-  },
-  {
-    "input": "((910 + (502 - 419)) + (602 + (2 - 606)))",
-    "expectedOutput": 991
-  },
-  {
-    "input": "((842 + (849 + 822)) - (7 + (667 - 686)))",
-    "expectedOutput": 2525
-  },
-  {
-    "input": "((787 - 405) - (205 + (18 - 283)))",
-    "expectedOutput": 442
-  },
-  {
-    "input": "((337 - (821 + 626)) - (394 - (595 - 695)))",
-    "expectedOutput": -1604
-  },
-  {
-    "input": "((715 - 113) - (699 + 946))",
-    "expectedOutput": -1043
-  },
-  {
-    "input": "((692 + (361 - 718)) + (566 - (387 + 649)))",
-    "expectedOutput": -135
-  },
-  {
-    "input": "(170 + 936)",
-    "expectedOutput": 1106
-  },
-  {
-    "input": "((1000 - 405) + (102 + (606 - 725)))",
-    "expectedOutput": 578
-  },
-  {
-    "input": "(323 + 19)",
-    "expectedOutput": 342
-  },
-  {
-    "input": "574",
-    "expectedOutput": 574
-  },
-  {
-    "input": "(990 - 517)",
-    "expectedOutput": 473
-  },
-  {
-    "input": "519",
-    "expectedOutput": 519
-  },
-  {
-    "input": "(106 - (82 + 313))",
-    "expectedOutput": -289
-  },
-  {
-    "input": "929",
-    "expectedOutput": 929
-  },
-  {
-    "input": "((560 - 350) + (169 - 742))",
-    "expectedOutput": -363
-  },
-  {
-    "input": "((263 + 627) + (550 + (837 - 835)))",
-    "expectedOutput": 1442
-  },
-  {
-    "input": "186",
-    "expectedOutput": 186
-  },
-  {
-    "input": "(768 - 508)",
-    "expectedOutput": 260
-  },
-  {
-    "input": "(4 - (943 + 714))",
-    "expectedOutput": -1653
-  },
-  {
-    "input": "756",
-    "expectedOutput": 756
-  },
-  {
-    "input": "((88 - (407 - 610)) - (368 - (22 - 515)))",
-    "expectedOutput": -570
-  },
-  {
-    "input": "861",
-    "expectedOutput": 861
-  },
-  {
-    "input": "584",
-    "expectedOutput": 584
-  },
-  {
-    "input": "(638 - 570)",
-    "expectedOutput": 68
-  },
-  {
-    "input": "((631 - (101 + 429)) + (124 + (926 + 609)))",
-    "expectedOutput": 1760
-  },
-  {
-    "input": "64",
-    "expectedOutput": 64
-  },
-  {
-    "input": "((903 + (764 + 157)) - (496 + (465 + 115)))",
-    "expectedOutput": 748
-  },
-  {
-    "input": "((871 - (18 - 610)) - (758 - (722 - 873)))",
-    "expectedOutput": 554
-  },
-  {
-    "input": "((441 + 470) - (523 - (205 - 497)))",
-    "expectedOutput": 96
-  },
-  {
-    "input": "((174 + (550 + 131)) + (6 + (695 - 92)))",
-    "expectedOutput": 1464
-  },
-  {
-    "input": "((10 - 446) - (495 + (209 - 884)))",
-    "expectedOutput": -256
-  },
-  {
-    "input": "(125 + (781 + 789))",
-    "expectedOutput": 1695
-  },
-  {
-    "input": "((407 + (459 - 347)) - (517 - (787 + 894)))",
-    "expectedOutput": 1683
-  },
-  {
-    "input": "(19 - (8 - 368))",
-    "expectedOutput": 379
-  },
-  {
-    "input": "((200 - 366) - (125 + 31))",
-    "expectedOutput": -322
-  },
-  {
-    "input": "((745 - 21) - (703 - (466 - 511)))",
-    "expectedOutput": -24
-  },
-  {
-    "input": "(963 + (870 + 948))",
-    "expectedOutput": 2781
-  },
-  {
-    "input": "((321 + 72) - (987 - (526 - 566)))",
-    "expectedOutput": -634
-  },
-  {
-    "input": "((153 - 702) - (585 - 413))",
-    "expectedOutput": -721
-  },
-  {
-    "input": "(833 - 315)",
-    "expectedOutput": 518
-  },
-  {
-    "input": "4",
-    "expectedOutput": 4
-  },
-  {
-    "input": "215",
-    "expectedOutput": 215
-  },
-  {
-    "input": "((496 - 596) - (795 + 130))",
-    "expectedOutput": -1025
-  },
-  {
-    "input": "((144 + (812 + 975)) - (875 - (205 - 165)))",
-    "expectedOutput": 1096
-  },
-  {
-    "input": "(255 - 373)",
-    "expectedOutput": -118
-  },
-  {
-    "input": "((561 + 305) + (243 - (266 + 249)))",
-    "expectedOutput": 594
-  },
-  {
-    "input": "(242 + (43 - 46))",
-    "expectedOutput": 239
-  },
-  {
-    "input": "(156 + (435 + 936))",
-    "expectedOutput": 1527
-  },
-  {
-    "input": "(81 - (435 - 114))",
-    "expectedOutput": -240
-  },
-  {
-    "input": "((570 + (948 - 40)) - (604 - (954 - 234)))",
-    "expectedOutput": 1594
-  },
-  {
-    "input": "(196 + 526)",
-    "expectedOutput": 722
-  },
-  {
-    "input": "(365 - 307)",
-    "expectedOutput": 58
-  },
-  {
-    "input": "834",
-    "expectedOutput": 834
-  },
-  {
-    "input": "(786 - 486)",
-    "expectedOutput": 300
-  },
-  {
-    "input": "((625 - 262) - (71 - (362 + 184)))",
-    "expectedOutput": 838
-  },
-  {
-    "input": "((265 - (522 + 924)) + (687 - (721 - 905)))",
-    "expectedOutput": -310
-  },
-  {
-    "input": "870",
-    "expectedOutput": 870
-  },
-  {
-    "input": "((194 + (221 - 733)) - (858 - (578 + 641)))",
-    "expectedOutput": 43
-  },
-  {
-    "input": "(610 - (327 - 600))",
-    "expectedOutput": 883
-  },
-  {
-    "input": "((12 + 118) - (793 + 171))",
-    "expectedOutput": -834
-  },
-  {
-    "input": "((134 - (242 - 9)) - (900 - (966 + 942)))",
-    "expectedOutput": 909
-  },
-  {
-    "input": "((795 - 631) + (731 + 752))",
-    "expectedOutput": 1647
-  },
-  {
-    "input": "(78 - 657)",
-    "expectedOutput": -579
-  },
-  {
-    "input": "((262 + 486) - (801 - 656))",
-    "expectedOutput": 603
-  },
-  {
-    "input": "((187 - 866) + (489 - (164 + 24)))",
-    "expectedOutput": -378
-  },
-  {
-    "input": "(834 + (955 + 366))",
-    "expectedOutput": 2155
-  },
-  {
-    "input": "((13 - 799) + (397 + 322))",
-    "expectedOutput": -67
-  },
-  {
-    "input": "(232 + 922)",
-    "expectedOutput": 1154
-  },
-  {
-    "input": "((809 + 497) - (982 - (960 + 838)))",
-    "expectedOutput": 2122
-  },
-  {
-    "input": "((96 + 545) - (240 + (343 + 977)))",
-    "expectedOutput": -919
-  },
-  {
-    "input": "402",
-    "expectedOutput": 402
-  },
-  {
-    "input": "((879 + (913 - 645)) + (926 + (543 - 553)))",
-    "expectedOutput": 2063
-  },
-  {
-    "input": "((200 + (476 - 156)) + (705 + (128 + 359)))",
-    "expectedOutput": 1712
-  },
-  {
-    "input": "((590 - 939) + (443 + (224 + 203)))",
-    "expectedOutput": 521
-  },
-  {
-    "input": "(762 - (342 + 288))",
-    "expectedOutput": 132
-  },
-  {
-    "input": "((32 - 947) + (443 - 240))",
-    "expectedOutput": -712
-  },
-  {
-    "input": "((929 + 191) - (227 + (801 - 90)))",
-    "expectedOutput": 182
-  },
-  {
-    "input": "((460 - (317 + 366)) + (12 + (487 + 539)))",
-    "expectedOutput": 815
-  },
-  {
-    "input": "(927 - (884 - 656))",
-    "expectedOutput": 699
-  },
-  {
-    "input": "((15 - (824 + 366)) + (622 - (560 - 941)))",
-    "expectedOutput": -172
-  },
-  {
-    "input": "(201 - (962 - 739))",
-    "expectedOutput": -22
-  },
-  {
-    "input": "489",
-    "expectedOutput": 489
-  },
-  {
-    "input": "202",
-    "expectedOutput": 202
-  },
-  {
-    "input": "((689 - (341 + 153)) + (850 - (155 + 384)))",
-    "expectedOutput": 506
-  },
-  {
-    "input": "(254 - 831)",
-    "expectedOutput": -577
-  },
-  {
-    "input": "220",
-    "expectedOutput": 220
-  },
-  {
-    "input": "501",
-    "expectedOutput": 501
-  },
-  {
-    "input": "(637 - (4 - 946))",
-    "expectedOutput": 1579
-  },
-  {
-    "input": "(791 - 659)",
-    "expectedOutput": 132
-  },
-  {
-    "input": "((58 + 722) + (507 - 320))",
-    "expectedOutput": 967
-  },
-  {
-    "input": "((699 - 355) - (690 + 497))",
-    "expectedOutput": -843
-  },
-  {
-    "input": "((732 - 958) - (507 + 899))",
-    "expectedOutput": -1632
-  },
-  {
-    "input": "((187 - (506 - 173)) + (430 - (276 - 747)))",
-    "expectedOutput": 755
-  },
-  {
-    "input": "((2 + 775) + (178 - 641))",
-    "expectedOutput": 314
-  },
-  {
-    "input": "647",
-    "expectedOutput": 647
-  },
-  {
-    "input": "(460 - (418 + 259))",
-    "expectedOutput": -217
-  },
-  {
-    "input": "((738 + 48) + (888 - (414 - 282)))",
-    "expectedOutput": 1542
-  },
-  {
-    "input": "(62 - (215 - 384))",
-    "expectedOutput": 231
-  },
-  {
-    "input": "(779 + 72)",
-    "expectedOutput": 851
-  },
-  {
-    "input": "((711 + (892 - 442)) - (710 + (388 - 806)))",
-    "expectedOutput": 869
-  },
-  {
-    "input": "((793 + 402) + (48 + 146))",
-    "expectedOutput": 1389
-  },
-  {
-    "input": "(798 - (284 - 827))",
-    "expectedOutput": 1341
-  },
-  {
-    "input": "((401 - (111 - 646)) + (322 - (324 + 145)))",
-    "expectedOutput": 789
-  },
-  {
-    "input": "((863 + 94) + (57 + (856 - 66)))",
-    "expectedOutput": 1804
-  },
-  {
-    "input": "(346 + 450)",
-    "expectedOutput": 796
-  },
-  {
-    "input": "(413 - 580)",
-    "expectedOutput": -167
-  },
-  {
-    "input": "(896 + (952 - 610))",
-    "expectedOutput": 1238
-  },
-  {
-    "input": "(795 - 175)",
-    "expectedOutput": 620
-  },
-  {
-    "input": "((941 + 114) - (426 - 618))",
-    "expectedOutput": 1247
-  },
-  {
-    "input": "(223 - 415)",
-    "expectedOutput": -192
-  },
-  {
-    "input": "638",
-    "expectedOutput": 638
-  },
-  {
-    "input": "(564 + 567)",
-    "expectedOutput": 1131
-  },
-  {
-    "input": "(385 + 5)",
-    "expectedOutput": 390
-  },
-  {
-    "input": "(629 - 815)",
-    "expectedOutput": -186
-  },
-  {
-    "input": "(795 + 115)",
-    "expectedOutput": 910
-  },
-  {
-    "input": "(4 + 648)",
-    "expectedOutput": 652
-  },
-  {
-    "input": "(12 - (874 + 453))",
-    "expectedOutput": -1315
-  },
-  {
-    "input": "((765 + 952) - (682 + 411))",
-    "expectedOutput": 624
-  },
-  {
-    "input": "135",
-    "expectedOutput": 135
-  },
-  {
-    "input": "((445 - 607) + (495 - (827 + 69)))",
-    "expectedOutput": -563
-  },
-  {
-    "input": "(791 + 441)",
-    "expectedOutput": 1232
-  },
-  {
-    "input": "((596 - (156 + 799)) + (606 + (281 + 129)))",
-    "expectedOutput": 657
-  },
-  {
-    "input": "811",
-    "expectedOutput": 811
-  },
-  {
-    "input": "(937 + (715 + 919))",
-    "expectedOutput": 2571
-  },
-  {
-    "input": "((381 + (849 + 178)) + (552 - (575 - 695)))",
-    "expectedOutput": 2080
-  },
-  {
-    "input": "(34 + (662 - 153))",
-    "expectedOutput": 543
-  },
-  {
-    "input": "((211 - 263) + (133 + 48))",
-    "expectedOutput": 129
-  },
-  {
-    "input": "((985 - 163) + (784 + (579 - 12)))",
-    "expectedOutput": 2173
-  },
-  {
-    "input": "((97 - 996) - (971 - (288 + 84)))",
-    "expectedOutput": -1498
-  },
-  {
-    "input": "((220 - 14) + (744 + 205))",
-    "expectedOutput": 1155
-  },
-  {
-    "input": "936",
-    "expectedOutput": 936
-  },
-  {
-    "input": "379",
-    "expectedOutput": 379
-  },
-  {
-    "input": "((519 - 844) + (708 + (817 - 906)))",
-    "expectedOutput": 294
-  },
-  {
-    "input": "(43 + (934 - 707))",
-    "expectedOutput": 270
-  },
-  {
-    "input": "(470 - 369)",
-    "expectedOutput": 101
-  },
-  {
-    "input": "614",
-    "expectedOutput": 614
-  },
-  {
-    "input": "(43 - (475 + 878))",
-    "expectedOutput": -1310
-  },
-  {
-    "input": "((108 - 761) + (97 + 549))",
-    "expectedOutput": -7
-  },
-  {
-    "input": "((33 - (92 - 878)) + (147 - (212 - 353)))",
-    "expectedOutput": 1107
-  },
-  {
-    "input": "976",
-    "expectedOutput": 976
-  },
-  {
-    "input": "((206 - 911) + (561 - 630))",
-    "expectedOutput": -774
-  },
-  {
-    "input": "((586 + 817) - (652 + 43))",
-    "expectedOutput": 708
-  },
-  {
-    "input": "(778 - (125 - 614))",
-    "expectedOutput": 1267
-  },
-  {
-    "input": "831",
-    "expectedOutput": 831
-  },
-  {
-    "input": "(698 + 387)",
-    "expectedOutput": 1085
-  },
-  {
-    "input": "((703 - 425) + (952 + (68 - 669)))",
-    "expectedOutput": 629
-  },
-  {
-    "input": "((646 - (263 + 585)) - (835 + (569 - 134)))",
-    "expectedOutput": -1472
-  },
-  {
-    "input": "((794 - 525) - (693 - 991))",
-    "expectedOutput": 567
-  },
-  {
-    "input": "((54 + (976 - 749)) + (467 - (568 - 712)))",
-    "expectedOutput": 892
-  },
-  {
-    "input": "((816 + 892) - (919 - 20))",
-    "expectedOutput": 809
-  },
-  {
-    "input": "(577 + 263)",
-    "expectedOutput": 840
-  },
-  {
-    "input": "((834 - 725) - (656 - (827 + 66)))",
-    "expectedOutput": 346
-  },
-  {
-    "input": "735",
-    "expectedOutput": 735
-  },
-  {
-    "input": "((775 + 929) - (49 + 594))",
-    "expectedOutput": 1061
-  },
-  {
-    "input": "((845 + 1) + (463 + (264 - 789)))",
-    "expectedOutput": 784
-  },
-  {
-    "input": "((686 + 979) - (77 + 252))",
-    "expectedOutput": 1336
-  },
-  {
-    "input": "((471 + (680 - 446)) + (194 + (638 + 230)))",
-    "expectedOutput": 1767
-  },
-  {
-    "input": "(765 - 858)",
-    "expectedOutput": -93
-  },
-  {
-    "input": "849",
-    "expectedOutput": 849
-  },
-  {
-    "input": "((54 + 129) + (450 - (434 - 650)))",
-    "expectedOutput": 849
-  },
-  {
-    "input": "((558 + 33) + (110 - 286))",
-    "expectedOutput": 415
-  },
-  {
-    "input": "(182 + 338)",
-    "expectedOutput": 520
-  },
-  {
-    "input": "310",
-    "expectedOutput": 310
-  },
-  {
-    "input": "(578 + (503 + 822))",
-    "expectedOutput": 1903
-  },
-  {
-    "input": "(566 - (940 + 255))",
-    "expectedOutput": -629
-  },
-  {
-    "input": "((561 + (432 - 999)) - (972 - (428 - 678)))",
-    "expectedOutput": -1228
-  },
-  {
-    "input": "954",
-    "expectedOutput": 954
-  },
-  {
-    "input": "((946 - 944) + (741 + (983 - 334)))",
-    "expectedOutput": 1392
-  },
-  {
-    "input": "(606 + (288 + 192))",
-    "expectedOutput": 1086
-  },
-  {
-    "input": "(56 + (299 + 810))",
-    "expectedOutput": 1165
-  },
-  {
-    "input": "(833 + 493)",
-    "expectedOutput": 1326
-  },
-  {
-    "input": "((623 + 539) - (632 - 482))",
-    "expectedOutput": 1012
-  },
-  {
-    "input": "((732 - 925) - (94 - (389 + 781)))",
-    "expectedOutput": 883
-  },
-  {
-    "input": "((343 - (552 + 347)) + (703 - (861 - 955)))",
-    "expectedOutput": 241
-  },
-  {
-    "input": "(226 + 564)",
-    "expectedOutput": 790
-  },
-  {
-    "input": "387",
-    "expectedOutput": 387
-  },
-  {
-    "input": "538",
-    "expectedOutput": 538
-  },
-  {
-    "input": "(96 + (884 - 552))",
-    "expectedOutput": 428
-  },
-  {
-    "input": "620",
-    "expectedOutput": 620
-  },
-  {
-    "input": "(352 - (990 - 226))",
+    "input": "((921 + 291) - (953 - (221 - 892)))",
     "expectedOutput": -412
   },
   {
-    "input": "((425 - (375 + 167)) - (760 - (343 + 982)))",
-    "expectedOutput": 448
+    "input": "(158 + (785 - 94))",
+    "expectedOutput": 849
   },
   {
-    "input": "((622 + 119) - (329 + (479 - 497)))",
-    "expectedOutput": 430
+    "input": "((49 + 849) - (821 - 400))",
+    "expectedOutput": 477
   },
   {
-    "input": "(973 + (679 + 422))",
-    "expectedOutput": 2074
+    "input": "((706 + (204 - 370)) + (929 - (981 - 824)))",
+    "expectedOutput": 1312
   },
   {
-    "input": "(298 + 575)",
-    "expectedOutput": 873
+    "input": "((1000 + 70) + (466 - (823 - 259)))",
+    "expectedOutput": 972
   },
   {
-    "input": "((221 + (885 - 149)) - (706 + (557 - 74)))",
-    "expectedOutput": -232
+    "input": "((760 - (336 + 741)) - (512 + (837 + 455)))",
+    "expectedOutput": -2121
   },
   {
-    "input": "((907 + 104) + (897 + 79))",
-    "expectedOutput": 1987
+    "input": "((595 + 418) - (935 + (13 + 844)))",
+    "expectedOutput": -779
   },
   {
-    "input": "((21 + 579) - (325 - (185 + 446)))",
-    "expectedOutput": 906
+    "input": "(725 - 170)",
+    "expectedOutput": 555
   },
   {
-    "input": "((254 + 783) - (652 - 599))",
-    "expectedOutput": 984
+    "input": "(804 + (23 + 844))",
+    "expectedOutput": 1671
   },
   {
-    "input": "(968 + (18 + 634))",
-    "expectedOutput": 1620
+    "input": "(113 + 253)",
+    "expectedOutput": 366
   },
   {
-    "input": "(336 + 679)",
-    "expectedOutput": 1015
+    "input": "(350 - 796)",
+    "expectedOutput": -446
   },
   {
-    "input": "((51 - (780 - 971)) + (86 + (209 - 84)))",
-    "expectedOutput": 453
+    "input": "(691 + 747)",
+    "expectedOutput": 1438
   },
   {
-    "input": "((145 - 523) - (276 - (579 + 697)))",
-    "expectedOutput": 622
+    "input": "((811 + 23) + (326 - 199))",
+    "expectedOutput": 961
   },
   {
-    "input": "((346 + 967) - (221 - 587))",
-    "expectedOutput": 1679
+    "input": "(469 - (423 + 120))",
+    "expectedOutput": -74
   },
   {
-    "input": "(308 + (161 + 203))",
-    "expectedOutput": 672
+    "input": "((371 - (891 - 458)) + (224 - (879 + 397)))",
+    "expectedOutput": -1114
   },
   {
-    "input": "((379 - 966) - (160 - (744 - 229)))",
-    "expectedOutput": -232
+    "input": "(566 + (232 - 242))",
+    "expectedOutput": 556
   },
   {
-    "input": "((129 - 980) - (41 + 361))",
-    "expectedOutput": -1253
-  },
-  {
-    "input": "((219 + 189) - (191 + (187 - 409)))",
-    "expectedOutput": 439
-  },
-  {
-    "input": "((765 - 815) - (827 - (625 - 594)))",
-    "expectedOutput": -846
-  },
-  {
-    "input": "372",
-    "expectedOutput": 372
-  },
-  {
-    "input": "((903 - 420) + (941 + 281))",
-    "expectedOutput": 1705
-  },
-  {
-    "input": "(961 - 285)",
-    "expectedOutput": 676
-  },
-  {
-    "input": "((272 - 864) - (279 + 646))",
-    "expectedOutput": -1517
-  },
-  {
-    "input": "((262 + 237) + (98 + (288 + 983)))",
-    "expectedOutput": 1868
-  },
-  {
-    "input": "((88 + 678) + (376 + 168))",
-    "expectedOutput": 1310
-  },
-  {
-    "input": "((353 - 664) - (454 - (780 + 72)))",
-    "expectedOutput": 87
-  },
-  {
-    "input": "(205 - 766)",
-    "expectedOutput": -561
-  },
-  {
-    "input": "((178 - 411) + (569 - (535 + 762)))",
-    "expectedOutput": -961
-  },
-  {
-    "input": "(839 - 462)",
-    "expectedOutput": 377
-  },
-  {
-    "input": "((337 - (371 - 753)) - (862 - (332 + 722)))",
-    "expectedOutput": 911
-  },
-  {
-    "input": "(337 - 659)",
-    "expectedOutput": -322
-  },
-  {
-    "input": "51",
-    "expectedOutput": 51
-  },
-  {
-    "input": "561",
-    "expectedOutput": 561
-  },
-  {
-    "input": "((731 + 179) - (573 + 32))",
-    "expectedOutput": 305
-  },
-  {
-    "input": "((421 + (798 - 5)) - (995 - (301 + 538)))",
-    "expectedOutput": 1058
-  },
-  {
-    "input": "((430 + 199) - (375 + (865 + 766)))",
-    "expectedOutput": -1377
-  },
-  {
-    "input": "((515 - 674) + (496 + (860 + 722)))",
-    "expectedOutput": 1919
-  },
-  {
-    "input": "(752 - 885)",
-    "expectedOutput": -133
-  },
-  {
-    "input": "(550 + 147)",
-    "expectedOutput": 697
-  },
-  {
-    "input": "((342 - (451 + 137)) - (165 + (688 + 406)))",
-    "expectedOutput": -1505
-  },
-  {
-    "input": "((709 + 914) - (807 + 19))",
-    "expectedOutput": 797
-  },
-  {
-    "input": "464",
-    "expectedOutput": 464
-  },
-  {
-    "input": "269",
-    "expectedOutput": 269
-  },
-  {
-    "input": "((640 - 564) - (418 - (317 + 472)))",
-    "expectedOutput": 447
-  },
-  {
-    "input": "((334 - 463) + (740 - (757 - 734)))",
-    "expectedOutput": 588
-  },
-  {
-    "input": "(255 + 802)",
-    "expectedOutput": 1057
-  },
-  {
-    "input": "(264 - (751 + 574))",
-    "expectedOutput": -1061
-  },
-  {
-    "input": "(396 - 630)",
-    "expectedOutput": -234
-  },
-  {
-    "input": "(457 - (385 + 694))",
-    "expectedOutput": -622
-  },
-  {
-    "input": "((956 - 513) + (668 + (364 - 792)))",
-    "expectedOutput": 683
-  },
-  {
-    "input": "((18 + (884 + 450)) + (30 + (155 + 808)))",
-    "expectedOutput": 2345
-  },
-  {
-    "input": "((896 + (572 + 488)) - (962 - (507 + 758)))",
-    "expectedOutput": 2259
-  },
-  {
-    "input": "(809 - (567 - 15))",
-    "expectedOutput": 257
-  },
-  {
-    "input": "((192 + (613 - 688)) + (505 + (891 + 853)))",
-    "expectedOutput": 2366
-  },
-  {
-    "input": "(429 - (109 - 442))",
-    "expectedOutput": 762
-  },
-  {
-    "input": "(287 + 383)",
-    "expectedOutput": 670
-  },
-  {
-    "input": "(39 + (542 - 717))",
-    "expectedOutput": -136
-  },
-  {
-    "input": "526",
-    "expectedOutput": 526
-  },
-  {
-    "input": "(872 - 31)",
-    "expectedOutput": 841
-  },
-  {
-    "input": "535",
+    "input": "((413 - (610 + 187)) - (4 - (950 - 27)))",
     "expectedOutput": 535
-  },
-  {
-    "input": "((834 + (967 + 368)) + (620 - (427 + 218)))",
-    "expectedOutput": 2144
-  },
-  {
-    "input": "125",
-    "expectedOutput": 125
-  },
-  {
-    "input": "((496 + 868) - (222 + (396 + 199)))",
-    "expectedOutput": 547
-  },
-  {
-    "input": "((409 + 780) + (769 - (881 + 777)))",
-    "expectedOutput": 300
-  },
-  {
-    "input": "((801 + 333) - (420 - (578 - 215)))",
-    "expectedOutput": 1077
-  },
-  {
-    "input": "((236 + (369 - 88)) + (31 - (833 + 809)))",
-    "expectedOutput": -1094
-  },
-  {
-    "input": "((259 - (422 - 751)) - (251 + (817 - 986)))",
-    "expectedOutput": 506
-  },
-  {
-    "input": "((856 + 806) + (184 - (789 - 141)))",
-    "expectedOutput": 1198
-  },
-  {
-    "input": "((50 + 114) + (428 - (229 - 686)))",
-    "expectedOutput": 1049
-  },
-  {
-    "input": "(538 - 882)",
-    "expectedOutput": -344
-  },
-  {
-    "input": "((710 + 856) + (353 - (955 - 901)))",
-    "expectedOutput": 1865
-  },
-  {
-    "input": "((951 - (635 + 360)) - (235 - (740 + 26)))",
-    "expectedOutput": 487
-  },
-  {
-    "input": "((649 - 686) + (613 - 625))",
-    "expectedOutput": -49
-  },
-  {
-    "input": "((878 + 990) + (153 + (576 - 947)))",
-    "expectedOutput": 1650
-  },
-  {
-    "input": "((443 - 879) - (264 - (810 - 465)))",
-    "expectedOutput": -355
-  },
-  {
-    "input": "((217 + 707) + (509 + 112))",
-    "expectedOutput": 1545
-  },
-  {
-    "input": "((184 - 923) - (163 + 654))",
-    "expectedOutput": -1556
-  },
-  {
-    "input": "((324 + 297) - (704 + (810 + 537)))",
-    "expectedOutput": -1430
-  },
-  {
-    "input": "((681 - 407) + (433 + (750 - 91)))",
-    "expectedOutput": 1366
-  },
-  {
-    "input": "((760 - (427 - 332)) - (21 - (638 + 93)))",
-    "expectedOutput": 1375
-  },
-  {
-    "input": "((731 + (919 + 956)) - (367 + (548 - 826)))",
-    "expectedOutput": 2517
-  },
-  {
-    "input": "(398 + 521)",
-    "expectedOutput": 919
-  },
-  {
-    "input": "(730 + 766)",
-    "expectedOutput": 1496
-  },
-  {
-    "input": "((944 - 70) + (774 + 851))",
-    "expectedOutput": 2499
-  },
-  {
-    "input": "(636 - 407)",
-    "expectedOutput": 229
-  },
-  {
-    "input": "(554 - (494 + 956))",
-    "expectedOutput": -896
-  },
-  {
-    "input": "((699 + 227) - (71 - 12))",
-    "expectedOutput": 867
-  },
-  {
-    "input": "((260 + (517 + 119)) - (945 + (383 + 676)))",
-    "expectedOutput": -1108
-  },
-  {
-    "input": "(212 + (23 - 776))",
-    "expectedOutput": -541
-  },
-  {
-    "input": "((763 + 339) - (38 + (473 + 816)))",
-    "expectedOutput": -225
-  },
-  {
-    "input": "((613 - (952 - 53)) - (152 - (99 - 139)))",
-    "expectedOutput": -478
-  },
-  {
-    "input": "(270 + 544)",
-    "expectedOutput": 814
-  },
-  {
-    "input": "(771 - 680)",
-    "expectedOutput": 91
-  },
-  {
-    "input": "832",
-    "expectedOutput": 832
-  },
-  {
-    "input": "((595 - (846 - 520)) - (473 - (534 - 434)))",
-    "expectedOutput": -104
-  },
-  {
-    "input": "(409 + (716 - 101))",
-    "expectedOutput": 1024
-  },
-  {
-    "input": "((923 + 313) + (572 - (848 - 762)))",
-    "expectedOutput": 1722
-  },
-  {
-    "input": "885",
-    "expectedOutput": 885
-  },
-  {
-    "input": "(414 + (239 + 876))",
-    "expectedOutput": 1529
-  },
-  {
-    "input": "((487 + (152 - 724)) + (158 - (787 + 420)))",
-    "expectedOutput": -1134
-  },
-  {
-    "input": "((601 + (406 - 376)) - (904 + (352 - 379)))",
-    "expectedOutput": -246
-  },
-  {
-    "input": "((62 + 878) - (443 + 470))",
-    "expectedOutput": 27
-  },
-  {
-    "input": "((194 + 265) + (146 - 10))",
-    "expectedOutput": 595
-  },
-  {
-    "input": "(923 + (563 + 404))",
-    "expectedOutput": 1890
-  },
-  {
-    "input": "((325 + (175 + 844)) + (936 - (587 + 614)))",
-    "expectedOutput": 1079
-  },
-  {
-    "input": "(829 + 311)",
-    "expectedOutput": 1140
-  },
-  {
-    "input": "((280 + (556 - 556)) + (860 + (434 - 464)))",
-    "expectedOutput": 1110
-  },
-  {
-    "input": "(908 + 307)",
-    "expectedOutput": 1215
-  },
-  {
-    "input": "((422 - 300) + (977 - 539))",
-    "expectedOutput": 560
-  },
-  {
-    "input": "((666 + 589) + (345 - (20 + 713)))",
-    "expectedOutput": 867
-  },
-  {
-    "input": "((542 + 277) + (299 + 32))",
-    "expectedOutput": 1150
-  },
-  {
-    "input": "((349 + 826) - (427 - (224 - 803)))",
-    "expectedOutput": 169
   },
   {
     "input": "934",
     "expectedOutput": 934
   },
   {
-    "input": "(613 - 364)",
-    "expectedOutput": 249
+    "input": "(603 + (325 + 842))",
+    "expectedOutput": 1770
   },
   {
-    "input": "96",
-    "expectedOutput": 96
+    "input": "((714 + 145) - (943 - (382 - 50)))",
+    "expectedOutput": 248
   },
   {
-    "input": "((780 - 515) - (401 - 415))",
-    "expectedOutput": 279
+    "input": "861",
+    "expectedOutput": 861
   },
   {
-    "input": "((639 - (436 + 890)) + (502 - (531 + 929)))",
-    "expectedOutput": -1645
+    "input": "((764 - 127) - (319 - 149))",
+    "expectedOutput": 467
   },
   {
-    "input": "(172 + 242)",
-    "expectedOutput": 414
+    "input": "(757 - (510 + 841))",
+    "expectedOutput": -594
   },
   {
-    "input": "215",
-    "expectedOutput": 215
+    "input": "(824 + 249)",
+    "expectedOutput": 1073
   },
   {
-    "input": "((201 + 113) + (35 - 604))",
-    "expectedOutput": -255
+    "input": "394",
+    "expectedOutput": 394
   },
   {
-    "input": "(356 - (962 + 860))",
-    "expectedOutput": -1466
+    "input": "((678 - 402) - (152 + (546 - 246)))",
+    "expectedOutput": -176
   },
   {
-    "input": "((962 + 438) - (535 - (16 + 181)))",
-    "expectedOutput": 1062
+    "input": "(359 - (475 - 686))",
+    "expectedOutput": 570
   },
   {
-    "input": "898",
-    "expectedOutput": 898
+    "input": "((822 - (331 - 309)) - (161 - (760 - 726)))",
+    "expectedOutput": 673
   },
   {
-    "input": "((333 + (871 - 985)) - (694 + (186 - 938)))",
-    "expectedOutput": 277
+    "input": "465",
+    "expectedOutput": 465
   },
   {
-    "input": "((123 + 530) - (674 - 738))",
-    "expectedOutput": 717
+    "input": "((907 - (396 - 727)) + (692 + (977 + 875)))",
+    "expectedOutput": 3782
   },
   {
-    "input": "(355 + 919)",
-    "expectedOutput": 1274
+    "input": "821",
+    "expectedOutput": 821
   },
   {
-    "input": "((409 + 960) + (9 + 327))",
-    "expectedOutput": 1705
+    "input": "((215 + (931 - 887)) - (344 + (397 + 800)))",
+    "expectedOutput": -1282
   },
   {
-    "input": "(870 - 610)",
-    "expectedOutput": 260
+    "input": "370",
+    "expectedOutput": 370
   },
   {
-    "input": "(974 + 180)",
-    "expectedOutput": 1154
+    "input": "((992 + 888) - (208 - 13))",
+    "expectedOutput": 1685
   },
   {
-    "input": "(355 + 886)",
-    "expectedOutput": 1241
+    "input": "767",
+    "expectedOutput": 767
   },
   {
-    "input": "((535 + 93) + (351 + (637 + 709)))",
-    "expectedOutput": 2325
+    "input": "(8 - 890)",
+    "expectedOutput": -882
   },
   {
-    "input": "((977 + 481) + (920 + 161))",
-    "expectedOutput": 2539
+    "input": "(428 - 125)",
+    "expectedOutput": 303
   },
   {
-    "input": "((297 - 140) - (482 + 626))",
-    "expectedOutput": -951
+    "input": "(787 - (796 - 629))",
+    "expectedOutput": 620
   },
   {
-    "input": "((398 + 579) + (457 - 194))",
-    "expectedOutput": 1240
+    "input": "314",
+    "expectedOutput": 314
   },
   {
-    "input": "((579 - 961) - (740 + (509 - 548)))",
-    "expectedOutput": -1083
-  },
-  {
-    "input": "138",
-    "expectedOutput": 138
-  },
-  {
-    "input": "((696 + 271) - (624 - (322 - 909)))",
-    "expectedOutput": -244
-  },
-  {
-    "input": "503",
-    "expectedOutput": 503
-  },
-  {
-    "input": "((732 + 909) - (331 + 791))",
-    "expectedOutput": 519
-  },
-  {
-    "input": "((706 - 292) + (320 - (491 + 248)))",
+    "input": "((23 - 870) - (65 - 907))",
     "expectedOutput": -5
   },
   {
-    "input": "((810 - (780 - 374)) - (662 + (106 - 256)))",
-    "expectedOutput": -108
+    "input": "(94 + 773)",
+    "expectedOutput": 867
   },
   {
-    "input": "(83 + 376)",
-    "expectedOutput": 459
+    "input": "977",
+    "expectedOutput": 977
   },
   {
-    "input": "((716 - 1) + (187 + (234 + 323)))",
-    "expectedOutput": 1459
+    "input": "((654 + (564 - 10)) + (552 - (740 - 512)))",
+    "expectedOutput": 1532
   },
   {
-    "input": "((394 - 797) - (507 + 204))",
-    "expectedOutput": -1114
+    "input": "(565 + 196)",
+    "expectedOutput": 761
   },
   {
-    "input": "(932 + (321 - 691))",
-    "expectedOutput": 562
+    "input": "((627 - (575 + 430)) - (178 - (344 - 547)))",
+    "expectedOutput": -759
   },
   {
-    "input": "((181 - (318 + 818)) + (242 - (761 + 483)))",
-    "expectedOutput": -1957
+    "input": "((517 + 221) + (386 - (853 + 350)))",
+    "expectedOutput": -79
   },
   {
-    "input": "(854 + (237 + 980))",
-    "expectedOutput": 2071
+    "input": "168",
+    "expectedOutput": 168
   },
   {
-    "input": "495",
-    "expectedOutput": 495
+    "input": "(171 - (16 + 500))",
+    "expectedOutput": -345
   },
   {
-    "input": "(639 - 655)",
-    "expectedOutput": -16
+    "input": "((504 + 730) - (279 + 414))",
+    "expectedOutput": 541
   },
   {
-    "input": "((921 - (724 - 87)) + (360 + (196 + 77)))",
+    "input": "((865 - 309) + (623 - (550 + 599)))",
+    "expectedOutput": 30
+  },
+  {
+    "input": "((805 + 786) + (675 - 243))",
+    "expectedOutput": 2023
+  },
+  {
+    "input": "624",
+    "expectedOutput": 624
+  },
+  {
+    "input": "(75 - 433)",
+    "expectedOutput": -358
+  },
+  {
+    "input": "54",
+    "expectedOutput": 54
+  },
+  {
+    "input": "(603 - 273)",
+    "expectedOutput": 330
+  },
+  {
+    "input": "((962 - 739) + (586 - 661))",
+    "expectedOutput": 148
+  },
+  {
+    "input": "((97 - (816 - 378)) - (918 - (567 - 249)))",
+    "expectedOutput": -941
+  },
+  {
+    "input": "((901 - 467) - (622 - (141 + 462)))",
+    "expectedOutput": 415
+  },
+  {
+    "input": "826",
+    "expectedOutput": 826
+  },
+  {
+    "input": "(540 - (997 + 922))",
+    "expectedOutput": -1379
+  },
+  {
+    "input": "(242 + (222 + 745))",
+    "expectedOutput": 1209
+  },
+  {
+    "input": "199",
+    "expectedOutput": 199
+  },
+  {
+    "input": "((999 - 534) + (569 + 207))",
+    "expectedOutput": 1241
+  },
+  {
+    "input": "((928 + 953) + (946 - (741 - 749)))",
+    "expectedOutput": 2835
+  },
+  {
+    "input": "((665 - 404) + (913 + 821))",
+    "expectedOutput": 1995
+  },
+  {
+    "input": "((938 + (148 + 725)) - (681 - (888 + 163)))",
+    "expectedOutput": 2181
+  },
+  {
+    "input": "((810 - (6 - 887)) + (145 - (882 - 500)))",
+    "expectedOutput": 1454
+  },
+  {
+    "input": "((845 + (959 - 463)) + (497 - (76 - 947)))",
+    "expectedOutput": 2709
+  },
+  {
+    "input": "((860 + 299) + (148 + 92))",
+    "expectedOutput": 1399
+  },
+  {
+    "input": "(548 + (282 + 89))",
+    "expectedOutput": 919
+  },
+  {
+    "input": "((720 + (857 - 541)) + (526 + (352 + 970)))",
+    "expectedOutput": 2884
+  },
+  {
+    "input": "((740 - 8) + (814 + 19))",
+    "expectedOutput": 1565
+  },
+  {
+    "input": "179",
+    "expectedOutput": 179
+  },
+  {
+    "input": "(248 + 820)",
+    "expectedOutput": 1068
+  },
+  {
+    "input": "(663 - 16)",
+    "expectedOutput": 647
+  },
+  {
+    "input": "663",
+    "expectedOutput": 663
+  },
+  {
+    "input": "(885 - (248 + 758))",
+    "expectedOutput": -121
+  },
+  {
+    "input": "((109 - 128) + (532 - (961 + 775)))",
+    "expectedOutput": -1223
+  },
+  {
+    "input": "((781 - 573) + (383 + 551))",
+    "expectedOutput": 1142
+  },
+  {
+    "input": "((613 - 172) + (69 + (863 - 146)))",
+    "expectedOutput": 1227
+  },
+  {
+    "input": "521",
+    "expectedOutput": 521
+  },
+  {
+    "input": "((440 + 923) - (792 + (478 - 773)))",
+    "expectedOutput": 866
+  },
+  {
+    "input": "((105 + 773) + (881 + 541))",
+    "expectedOutput": 2300
+  },
+  {
+    "input": "((517 + 641) - (883 - 736))",
+    "expectedOutput": 1011
+  },
+  {
+    "input": "((306 - 861) + (886 - 30))",
+    "expectedOutput": 301
+  },
+  {
+    "input": "((477 + (922 + 741)) + (390 - (636 - 855)))",
+    "expectedOutput": 2749
+  },
+  {
+    "input": "((879 - (974 + 66)) + (710 - (74 - 444)))",
+    "expectedOutput": 919
+  },
+  {
+    "input": "((172 - 782) - (330 + 521))",
+    "expectedOutput": -1461
+  },
+  {
+    "input": "(827 - 637)",
+    "expectedOutput": 190
+  },
+  {
+    "input": "((257 + (662 + 825)) - (462 - (37 - 585)))",
+    "expectedOutput": 734
+  },
+  {
+    "input": "((408 + (413 + 846)) - (744 + (852 - 586)))",
+    "expectedOutput": 657
+  },
+  {
+    "input": "((573 + 595) - (532 - (688 + 569)))",
+    "expectedOutput": 1893
+  },
+  {
+    "input": "((546 + (263 + 883)) + (95 - (522 - 938)))",
+    "expectedOutput": 2203
+  },
+  {
+    "input": "(953 + 864)",
+    "expectedOutput": 1817
+  },
+  {
+    "input": "((765 - 922) + (200 + 939))",
+    "expectedOutput": 982
+  },
+  {
+    "input": "(153 + 495)",
+    "expectedOutput": 648
+  },
+  {
+    "input": "(849 + 54)",
+    "expectedOutput": 903
+  },
+  {
+    "input": "((79 - 271) - (330 + (444 + 790)))",
+    "expectedOutput": -1756
+  },
+  {
+    "input": "980",
+    "expectedOutput": 980
+  },
+  {
+    "input": "838",
+    "expectedOutput": 838
+  },
+  {
+    "input": "(67 + (285 - 822))",
+    "expectedOutput": -470
+  },
+  {
+    "input": "(245 - 472)",
+    "expectedOutput": -227
+  },
+  {
+    "input": "((191 - (252 - 836)) + (13 + (371 - 444)))",
+    "expectedOutput": 715
+  },
+  {
+    "input": "(305 + 109)",
+    "expectedOutput": 414
+  },
+  {
+    "input": "(188 - 708)",
+    "expectedOutput": -520
+  },
+  {
+    "input": "360",
+    "expectedOutput": 360
+  },
+  {
+    "input": "(923 + 497)",
+    "expectedOutput": 1420
+  },
+  {
+    "input": "((380 + 787) - (100 - (597 + 416)))",
+    "expectedOutput": 2080
+  },
+  {
+    "input": "755",
+    "expectedOutput": 755
+  },
+  {
+    "input": "((865 - 254) - (974 + 676))",
+    "expectedOutput": -1039
+  },
+  {
+    "input": "((379 + 114) - (734 + (500 + 788)))",
+    "expectedOutput": -1529
+  },
+  {
+    "input": "((315 - (707 + 865)) + (990 + (224 + 288)))",
+    "expectedOutput": 245
+  },
+  {
+    "input": "((854 + 969) + (983 + (903 - 939)))",
+    "expectedOutput": 2770
+  },
+  {
+    "input": "681",
+    "expectedOutput": 681
+  },
+  {
+    "input": "859",
+    "expectedOutput": 859
+  },
+  {
+    "input": "((445 - 151) + (186 + (849 + 114)))",
+    "expectedOutput": 1443
+  },
+  {
+    "input": "(812 + (242 - 689))",
+    "expectedOutput": 365
+  },
+  {
+    "input": "((366 - (692 - 898)) + (717 + (360 + 396)))",
+    "expectedOutput": 2045
+  },
+  {
+    "input": "((98 + 147) + (356 - (904 - 167)))",
+    "expectedOutput": -136
+  },
+  {
+    "input": "((194 + 411) - (240 - (371 - 167)))",
+    "expectedOutput": 569
+  },
+  {
+    "input": "(189 - 151)",
+    "expectedOutput": 38
+  },
+  {
+    "input": "(205 - (508 + 524))",
+    "expectedOutput": -827
+  },
+  {
+    "input": "(616 - (437 - 539))",
+    "expectedOutput": 718
+  },
+  {
+    "input": "(620 + 731)",
+    "expectedOutput": 1351
+  },
+  {
+    "input": "784",
+    "expectedOutput": 784
+  },
+  {
+    "input": "(192 - (536 - 759))",
+    "expectedOutput": 415
+  },
+  {
+    "input": "(213 + 931)",
+    "expectedOutput": 1144
+  },
+  {
+    "input": "((921 + (741 + 274)) + (622 - (249 - 600)))",
+    "expectedOutput": 2909
+  },
+  {
+    "input": "((388 - 326) + (258 - 636))",
+    "expectedOutput": -316
+  },
+  {
+    "input": "(84 + (235 - 228))",
+    "expectedOutput": 91
+  },
+  {
+    "input": "(362 + 118)",
+    "expectedOutput": 480
+  },
+  {
+    "input": "((795 + 22) + (22 - 634))",
+    "expectedOutput": 205
+  },
+  {
+    "input": "((951 - (577 - 81)) + (58 + (316 - 199)))",
+    "expectedOutput": 630
+  },
+  {
+    "input": "(885 + (738 - 728))",
+    "expectedOutput": 895
+  },
+  {
+    "input": "((179 + (449 + 908)) - (915 + (734 + 719)))",
+    "expectedOutput": -832
+  },
+  {
+    "input": "262",
+    "expectedOutput": 262
+  },
+  {
+    "input": "((572 - 362) - (230 - 937))",
     "expectedOutput": 917
   },
   {
-    "input": "270",
-    "expectedOutput": 270
+    "input": "481",
+    "expectedOutput": 481
   },
   {
-    "input": "((963 - (406 + 322)) - (158 - (651 + 273)))",
-    "expectedOutput": 1001
+    "input": "((461 - (220 + 949)) - (395 + (889 - 457)))",
+    "expectedOutput": -1535
   },
   {
-    "input": "((398 + 327) - (98 - 927))",
-    "expectedOutput": 1554
+    "input": "671",
+    "expectedOutput": 671
+  },
+  {
+    "input": "((708 - 831) + (323 + (609 - 942)))",
+    "expectedOutput": -133
+  },
+  {
+    "input": "(940 - 992)",
+    "expectedOutput": -52
+  },
+  {
+    "input": "(27 - 610)",
+    "expectedOutput": -583
+  },
+  {
+    "input": "306",
+    "expectedOutput": 306
+  },
+  {
+    "input": "(210 - (317 - 940))",
+    "expectedOutput": 833
+  },
+  {
+    "input": "((907 + (925 + 315)) + (871 - (727 + 668)))",
+    "expectedOutput": 1623
+  },
+  {
+    "input": "(167 - (467 - 750))",
+    "expectedOutput": 450
   },
   {
     "input": "250",
     "expectedOutput": 250
   },
   {
-    "input": "352",
-    "expectedOutput": 352
+    "input": "((433 + (232 - 557)) + (843 + (424 + 658)))",
+    "expectedOutput": 2033
   },
   {
-    "input": "((799 + (749 + 72)) + (29 + (565 - 144)))",
-    "expectedOutput": 2070
+    "input": "((341 - (533 - 244)) - (647 + (33 - 906)))",
+    "expectedOutput": 278
   },
   {
-    "input": "((232 + (179 - 734)) + (352 - (689 + 130)))",
-    "expectedOutput": -790
+    "input": "531",
+    "expectedOutput": 531
   },
   {
-    "input": "(548 - 414)",
-    "expectedOutput": 134
+    "input": "(417 + 693)",
+    "expectedOutput": 1110
   },
   {
-    "input": "(167 - 396)",
-    "expectedOutput": -229
+    "input": "(783 + 623)",
+    "expectedOutput": 1406
   },
   {
-    "input": "976",
-    "expectedOutput": 976
+    "input": "(696 - 121)",
+    "expectedOutput": 575
   },
   {
-    "input": "((305 + 435) - (602 - (278 + 853)))",
-    "expectedOutput": 1269
+    "input": "(974 - 91)",
+    "expectedOutput": 883
   },
   {
-    "input": "((640 + (25 - 272)) + (811 - (592 - 206)))",
-    "expectedOutput": 818
+    "input": "((640 + (193 + 69)) - (802 - (882 - 156)))",
+    "expectedOutput": 826
   },
   {
-    "input": "((830 - (750 - 440)) - (453 - (393 - 21)))",
-    "expectedOutput": 439
+    "input": "((706 - 967) - (366 - 368))",
+    "expectedOutput": -259
   },
   {
-    "input": "((465 + 131) + (594 + 24))",
-    "expectedOutput": 1214
+    "input": "((749 - 224) + (453 - 284))",
+    "expectedOutput": 694
   },
   {
-    "input": "(455 - (759 - 702))",
-    "expectedOutput": 398
+    "input": "528",
+    "expectedOutput": 528
   },
   {
-    "input": "((380 - 632) - (892 - 581))",
-    "expectedOutput": -563
+    "input": "(749 - 476)",
+    "expectedOutput": 273
   },
   {
-    "input": "(779 + (667 + 60))",
-    "expectedOutput": 1506
+    "input": "(428 + (693 - 159))",
+    "expectedOutput": 962
   },
   {
-    "input": "((291 + 750) - (939 - (933 - 799)))",
-    "expectedOutput": 236
+    "input": "((981 - 933) + (740 + 199))",
+    "expectedOutput": 987
   },
   {
-    "input": "956",
-    "expectedOutput": 956
+    "input": "((506 - 976) - (950 - (575 - 327)))",
+    "expectedOutput": -1172
   },
   {
-    "input": "(103 + 424)",
-    "expectedOutput": 527
+    "input": "((56 + 525) + (75 + (870 + 281)))",
+    "expectedOutput": 1807
   },
   {
-    "input": "((524 - (911 + 39)) - (856 - (534 - 389)))",
-    "expectedOutput": -1137
+    "input": "(84 - (706 - 263))",
+    "expectedOutput": -359
   },
   {
-    "input": "((271 - (663 + 325)) + (951 + (976 + 487)))",
-    "expectedOutput": 1697
+    "input": "((220 - 35) - (691 - 38))",
+    "expectedOutput": -468
   },
   {
-    "input": "((935 - (703 - 557)) - (643 - (430 + 114)))",
-    "expectedOutput": 690
+    "input": "((793 - 985) - (580 - (800 + 145)))",
+    "expectedOutput": 173
   },
   {
-    "input": "(409 - (651 - 204))",
-    "expectedOutput": -38
+    "input": "((420 - (38 - 235)) + (683 + (789 + 544)))",
+    "expectedOutput": 2633
   },
   {
-    "input": "((297 + 11) + (893 - (32 + 433)))",
-    "expectedOutput": 736
+    "input": "(577 + (710 - 540))",
+    "expectedOutput": 747
   },
   {
-    "input": "((858 + 564) + (911 + 115))",
-    "expectedOutput": 2448
+    "input": "257",
+    "expectedOutput": 257
   },
   {
-    "input": "(702 + (220 + 941))",
-    "expectedOutput": 1863
+    "input": "((709 + 887) - (569 - 871))",
+    "expectedOutput": 1898
   },
   {
-    "input": "193",
-    "expectedOutput": 193
+    "input": "392",
+    "expectedOutput": 392
   },
   {
-    "input": "(958 + (889 + 748))",
-    "expectedOutput": 2595
+    "input": "(156 - (985 - 725))",
+    "expectedOutput": -104
   },
   {
-    "input": "((652 + 199) + (634 + (350 + 250)))",
-    "expectedOutput": 2085
+    "input": "(373 + 892)",
+    "expectedOutput": 1265
   },
   {
-    "input": "(543 - (500 - 444))",
-    "expectedOutput": 487
+    "input": "123",
+    "expectedOutput": 123
   },
   {
-    "input": "((328 - (40 + 262)) - (566 + (380 + 7)))",
-    "expectedOutput": -927
+    "input": "((969 - 127) - (459 - 412))",
+    "expectedOutput": 795
   },
   {
-    "input": "82",
-    "expectedOutput": 82
+    "input": "447",
+    "expectedOutput": 447
   },
   {
-    "input": "77",
-    "expectedOutput": 77
+    "input": "(490 + (621 + 515))",
+    "expectedOutput": 1626
   },
   {
-    "input": "((891 + 410) + (994 - 441))",
-    "expectedOutput": 1854
+    "input": "((294 + 79) + (155 + 578))",
+    "expectedOutput": 1106
   },
   {
-    "input": "((438 + 139) + (481 - (756 + 506)))",
-    "expectedOutput": -204
+    "input": "((353 - 708) - (22 - 830))",
+    "expectedOutput": 453
   },
   {
-    "input": "((929 + (998 - 465)) - (317 - (813 - 694)))",
-    "expectedOutput": 1264
+    "input": "((26 - 418) - (315 - (728 + 421)))",
+    "expectedOutput": 442
   },
   {
-    "input": "(584 + (870 - 26))",
-    "expectedOutput": 1428
+    "input": "((768 - 812) + (138 + (583 + 296)))",
+    "expectedOutput": 973
   },
   {
-    "input": "((256 + 384) + (380 + 479))",
-    "expectedOutput": 1499
+    "input": "((642 - (876 - 511)) + (18 - (256 - 472)))",
+    "expectedOutput": 511
   },
   {
-    "input": "((306 - 490) + (473 + 151))",
-    "expectedOutput": 440
+    "input": "((509 + (532 + 509)) + (533 + (174 - 99)))",
+    "expectedOutput": 2158
   },
   {
-    "input": "((162 + (568 + 375)) + (537 + (780 + 995)))",
-    "expectedOutput": 3417
+    "input": "(117 + 352)",
+    "expectedOutput": 469
   },
   {
-    "input": "(582 + 547)",
-    "expectedOutput": 1129
-  },
-  {
-    "input": "966",
-    "expectedOutput": 966
-  },
-  {
-    "input": "128",
-    "expectedOutput": 128
-  },
-  {
-    "input": "((568 - 526) - (103 - (118 - 551)))",
-    "expectedOutput": -494
-  },
-  {
-    "input": "((403 - 251) - (3 + 881))",
-    "expectedOutput": -732
-  },
-  {
-    "input": "((600 - (457 - 562)) - (907 + (202 + 224)))",
-    "expectedOutput": -628
-  },
-  {
-    "input": "((638 + 869) + (744 + (26 - 113)))",
-    "expectedOutput": 2164
-  },
-  {
-    "input": "(504 - (788 + 317))",
-    "expectedOutput": -601
-  },
-  {
-    "input": "(16 - (440 + 364))",
-    "expectedOutput": -788
-  },
-  {
-    "input": "(21 - (317 + 458))",
-    "expectedOutput": -754
-  },
-  {
-    "input": "(322 + (527 + 784))",
-    "expectedOutput": 1633
-  },
-  {
-    "input": "((630 + (838 - 585)) - (852 - (276 - 424)))",
-    "expectedOutput": -117
-  },
-  {
-    "input": "((285 - 411) + (846 - (248 + 129)))",
-    "expectedOutput": 343
-  },
-  {
-    "input": "(79 + (976 - 14))",
-    "expectedOutput": 1041
-  },
-  {
-    "input": "801",
+    "input": "(286 - (328 - 843))",
     "expectedOutput": 801
   },
   {
-    "input": "((244 - 703) + (769 - (604 + 98)))",
-    "expectedOutput": -392
+    "input": "((899 - (832 + 40)) + (264 + (250 + 360)))",
+    "expectedOutput": 901
   },
   {
-    "input": "(563 + (352 - 248))",
-    "expectedOutput": 667
+    "input": "((497 + (663 - 673)) + (640 - (100 - 729)))",
+    "expectedOutput": 1756
   },
   {
-    "input": "((454 - (540 + 633)) + (970 + (788 - 883)))",
-    "expectedOutput": 156
+    "input": "(652 + (141 + 295))",
+    "expectedOutput": 1088
   },
   {
-    "input": "((213 + (39 - 47)) + (646 - (7 + 33)))",
-    "expectedOutput": 811
+    "input": "((156 - 946) + (205 - 943))",
+    "expectedOutput": -1528
   },
   {
-    "input": "25",
-    "expectedOutput": 25
+    "input": "((73 - 582) + (446 - 208))",
+    "expectedOutput": -271
   },
   {
-    "input": "(49 - (506 + 801))",
-    "expectedOutput": -1258
+    "input": "((938 - 288) - (914 + (967 + 51)))",
+    "expectedOutput": -1282
   },
   {
-    "input": "493",
-    "expectedOutput": 493
+    "input": "((239 + 368) - (563 + (398 + 966)))",
+    "expectedOutput": -1320
   },
   {
-    "input": "169",
-    "expectedOutput": 169
+    "input": "((252 + 739) + (962 + 569))",
+    "expectedOutput": 2522
   },
   {
-    "input": "(572 - 198)",
-    "expectedOutput": 374
+    "input": "((922 - 187) - (66 - 920))",
+    "expectedOutput": 1589
   },
   {
-    "input": "((559 + 417) - (590 - (146 + 322)))",
-    "expectedOutput": 854
+    "input": "((779 - (965 - 645)) + (992 - (86 + 464)))",
+    "expectedOutput": 901
+  },
+  {
+    "input": "(964 + 671)",
+    "expectedOutput": 1635
+  },
+  {
+    "input": "((381 - 431) - (964 + (369 - 992)))",
+    "expectedOutput": -391
+  },
+  {
+    "input": "((972 - 654) - (434 + (614 - 395)))",
+    "expectedOutput": -335
+  },
+  {
+    "input": "737",
+    "expectedOutput": 737
+  },
+  {
+    "input": "((836 + 210) + (853 - (305 - 551)))",
+    "expectedOutput": 2145
+  },
+  {
+    "input": "(372 + 969)",
+    "expectedOutput": 1341
+  },
+  {
+    "input": "(235 - 963)",
+    "expectedOutput": -728
+  },
+  {
+    "input": "((75 + 755) + (643 - 645))",
+    "expectedOutput": 828
+  },
+  {
+    "input": "((421 + 147) + (301 - (371 + 805)))",
+    "expectedOutput": -307
+  },
+  {
+    "input": "(141 + (568 - 701))",
+    "expectedOutput": 8
+  },
+  {
+    "input": "((925 + 834) + (277 - (307 - 485)))",
+    "expectedOutput": 2214
+  },
+  {
+    "input": "931",
+    "expectedOutput": 931
+  },
+  {
+    "input": "(239 + (197 - 260))",
+    "expectedOutput": 176
+  },
+  {
+    "input": "(522 + (730 + 738))",
+    "expectedOutput": 1990
+  },
+  {
+    "input": "(765 + 206)",
+    "expectedOutput": 971
+  },
+  {
+    "input": "((359 + 550) - (10 - (398 + 389)))",
+    "expectedOutput": 1686
+  },
+  {
+    "input": "521",
+    "expectedOutput": 521
+  },
+  {
+    "input": "(904 - 308)",
+    "expectedOutput": 596
+  },
+  {
+    "input": "487",
+    "expectedOutput": 487
+  },
+  {
+    "input": "((524 + 278) + (352 + (560 + 462)))",
+    "expectedOutput": 2176
+  },
+  {
+    "input": "((587 - (865 + 305)) + (94 + (693 - 88)))",
+    "expectedOutput": 116
+  },
+  {
+    "input": "661",
+    "expectedOutput": 661
+  },
+  {
+    "input": "((923 + 733) + (703 - (420 + 980)))",
+    "expectedOutput": 959
+  },
+  {
+    "input": "((401 - 875) - (25 + 417))",
+    "expectedOutput": -916
+  },
+  {
+    "input": "((266 + 344) + (884 - (655 + 187)))",
+    "expectedOutput": 652
+  },
+  {
+    "input": "912",
+    "expectedOutput": 912
+  },
+  {
+    "input": "(947 + 654)",
+    "expectedOutput": 1601
+  },
+  {
+    "input": "(546 - (316 + 742))",
+    "expectedOutput": -512
+  },
+  {
+    "input": "(759 + 88)",
+    "expectedOutput": 847
+  },
+  {
+    "input": "((218 - 880) + (163 - 554))",
+    "expectedOutput": -1053
+  },
+  {
+    "input": "(830 + 227)",
+    "expectedOutput": 1057
+  },
+  {
+    "input": "((180 - 298) - (353 - (228 + 331)))",
+    "expectedOutput": 88
+  },
+  {
+    "input": "(714 + (497 + 440))",
+    "expectedOutput": 1651
+  },
+  {
+    "input": "(912 - (816 - 802))",
+    "expectedOutput": 898
+  },
+  {
+    "input": "(881 + (997 + 437))",
+    "expectedOutput": 2315
+  },
+  {
+    "input": "((290 - 591) - (846 + (440 + 973)))",
+    "expectedOutput": -2560
+  },
+  {
+    "input": "(326 - 622)",
+    "expectedOutput": -296
+  },
+  {
+    "input": "((250 - 162) + (916 - (272 - 37)))",
+    "expectedOutput": 769
+  },
+  {
+    "input": "(83 - (655 - 497))",
+    "expectedOutput": -75
+  },
+  {
+    "input": "((647 + 888) + (310 + 763))",
+    "expectedOutput": 2608
+  },
+  {
+    "input": "((152 - 779) - (615 - 597))",
+    "expectedOutput": -645
+  },
+  {
+    "input": "((229 - 342) - (796 + (177 + 393)))",
+    "expectedOutput": -1479
+  },
+  {
+    "input": "(104 - 770)",
+    "expectedOutput": -666
+  },
+  {
+    "input": "((398 + 939) - (649 - 603))",
+    "expectedOutput": 1291
+  },
+  {
+    "input": "((745 - (163 + 609)) + (781 + (285 - 611)))",
+    "expectedOutput": 428
+  },
+  {
+    "input": "(354 - (866 + 926))",
+    "expectedOutput": -1438
+  },
+  {
+    "input": "((395 + 269) - (193 + 306))",
+    "expectedOutput": 165
+  },
+  {
+    "input": "((5 + (520 + 305)) - (574 + (324 + 206)))",
+    "expectedOutput": -274
+  },
+  {
+    "input": "((348 + (781 - 371)) - (110 + (55 + 594)))",
+    "expectedOutput": -1
+  },
+  {
+    "input": "150",
+    "expectedOutput": 150
+  },
+  {
+    "input": "528",
+    "expectedOutput": 528
+  },
+  {
+    "input": "(770 + 731)",
+    "expectedOutput": 1501
+  },
+  {
+    "input": "333",
+    "expectedOutput": 333
+  },
+  {
+    "input": "((164 + (175 - 740)) + (654 + (96 + 478)))",
+    "expectedOutput": 827
+  },
+  {
+    "input": "((695 + 386) + (886 - 909))",
+    "expectedOutput": 1058
+  },
+  {
+    "input": "((320 - (367 + 809)) - (48 - (229 - 567)))",
+    "expectedOutput": -1242
+  },
+  {
+    "input": "(31 + (368 + 540))",
+    "expectedOutput": 939
+  },
+  {
+    "input": "(123 + 783)",
+    "expectedOutput": 906
+  },
+  {
+    "input": "((467 - (741 + 195)) + (15 - (234 - 217)))",
+    "expectedOutput": -471
+  },
+  {
+    "input": "(959 - 436)",
+    "expectedOutput": 523
+  },
+  {
+    "input": "148",
+    "expectedOutput": 148
+  },
+  {
+    "input": "(510 - (100 - 288))",
+    "expectedOutput": 698
+  },
+  {
+    "input": "((336 + (31 + 259)) + (40 + (426 - 997)))",
+    "expectedOutput": 95
+  },
+  {
+    "input": "((206 + 627) - (785 + 54))",
+    "expectedOutput": -6
+  },
+  {
+    "input": "((785 + (345 - 10)) + (220 - (866 + 556)))",
+    "expectedOutput": -82
+  },
+  {
+    "input": "((29 + (125 - 711)) - (591 - (391 - 499)))",
+    "expectedOutput": -1256
+  },
+  {
+    "input": "(910 + 188)",
+    "expectedOutput": 1098
+  },
+  {
+    "input": "((669 + 701) + (935 - (677 - 758)))",
+    "expectedOutput": 2386
+  },
+  {
+    "input": "((932 - 395) + (898 + 413))",
+    "expectedOutput": 1848
+  },
+  {
+    "input": "((471 - 533) + (567 - (622 + 473)))",
+    "expectedOutput": -590
+  },
+  {
+    "input": "(469 + (766 - 429))",
+    "expectedOutput": 806
+  },
+  {
+    "input": "(735 - 561)",
+    "expectedOutput": 174
+  },
+  {
+    "input": "((598 + 64) - (846 - 328))",
+    "expectedOutput": 144
+  },
+  {
+    "input": "(727 + 946)",
+    "expectedOutput": 1673
+  },
+  {
+    "input": "606",
+    "expectedOutput": 606
+  },
+  {
+    "input": "((36 - 914) - (681 + (170 + 530)))",
+    "expectedOutput": -2259
+  },
+  {
+    "input": "(623 + (138 + 993))",
+    "expectedOutput": 1754
+  },
+  {
+    "input": "(842 + 359)",
+    "expectedOutput": 1201
+  },
+  {
+    "input": "((269 + 683) - (440 - (148 + 249)))",
+    "expectedOutput": 909
+  },
+  {
+    "input": "(694 - (889 + 951))",
+    "expectedOutput": -1146
+  },
+  {
+    "input": "((704 - 935) - (614 - (506 + 704)))",
+    "expectedOutput": 365
+  },
+  {
+    "input": "(953 - 433)",
+    "expectedOutput": 520
+  },
+  {
+    "input": "732",
+    "expectedOutput": 732
+  },
+  {
+    "input": "(200 - (774 - 870))",
+    "expectedOutput": 296
+  },
+  {
+    "input": "952",
+    "expectedOutput": 952
+  },
+  {
+    "input": "(160 - (783 - 21))",
+    "expectedOutput": -602
+  },
+  {
+    "input": "((864 + 816) + (381 - (718 - 451)))",
+    "expectedOutput": 1794
+  },
+  {
+    "input": "((753 + 473) + (272 + (735 - 351)))",
+    "expectedOutput": 1882
+  },
+  {
+    "input": "((752 + 458) - (76 + 627))",
+    "expectedOutput": 507
+  },
+  {
+    "input": "((416 - (367 + 501)) + (755 - (317 + 379)))",
+    "expectedOutput": -393
+  },
+  {
+    "input": "(939 + (338 + 110))",
+    "expectedOutput": 1387
   },
   {
     "input": "104",
     "expectedOutput": 104
   },
   {
-    "input": "((530 - 991) - (421 + 220))",
-    "expectedOutput": -1102
+    "input": "((74 + 121) + (548 - 588))",
+    "expectedOutput": 155
   },
   {
-    "input": "(16 + 300)",
-    "expectedOutput": 316
+    "input": "((230 - 366) + (293 + (235 - 159)))",
+    "expectedOutput": 233
+  },
+  {
+    "input": "((193 - 989) - (919 + 111))",
+    "expectedOutput": -1826
+  },
+  {
+    "input": "((463 + 159) + (360 - 401))",
+    "expectedOutput": 581
+  },
+  {
+    "input": "(29 - 673)",
+    "expectedOutput": -644
+  },
+  {
+    "input": "(875 + 272)",
+    "expectedOutput": 1147
+  },
+  {
+    "input": "((650 - 182) - (683 - 549))",
+    "expectedOutput": 334
+  },
+  {
+    "input": "(33 + 835)",
+    "expectedOutput": 868
+  },
+  {
+    "input": "(919 - (637 - 438))",
+    "expectedOutput": 720
+  },
+  {
+    "input": "364",
+    "expectedOutput": 364
+  },
+  {
+    "input": "((478 - (163 + 595)) - (921 + (910 + 111)))",
+    "expectedOutput": -2222
+  },
+  {
+    "input": "((398 - (821 - 979)) + (134 - (194 + 245)))",
+    "expectedOutput": 251
+  },
+  {
+    "input": "287",
+    "expectedOutput": 287
+  },
+  {
+    "input": "((913 + (118 + 229)) - (201 - (227 - 259)))",
+    "expectedOutput": 1027
+  },
+  {
+    "input": "(449 - 875)",
+    "expectedOutput": -426
+  },
+  {
+    "input": "((658 + 834) - (701 + 687))",
+    "expectedOutput": 104
+  },
+  {
+    "input": "298",
+    "expectedOutput": 298
+  },
+  {
+    "input": "43",
+    "expectedOutput": 43
+  },
+  {
+    "input": "((233 + 545) + (795 + 472))",
+    "expectedOutput": 2045
+  },
+  {
+    "input": "((3 - (842 + 272)) + (401 - (360 + 913)))",
+    "expectedOutput": -1983
+  },
+  {
+    "input": "((689 - (658 - 665)) - (412 + (676 + 905)))",
+    "expectedOutput": -1297
+  },
+  {
+    "input": "(689 + 567)",
+    "expectedOutput": 1256
+  },
+  {
+    "input": "((78 + 859) + (773 + 123))",
+    "expectedOutput": 1833
+  },
+  {
+    "input": "((290 - 235) + (444 - 922))",
+    "expectedOutput": -423
+  },
+  {
+    "input": "((492 - 748) + (83 + (793 - 72)))",
+    "expectedOutput": 548
+  },
+  {
+    "input": "((310 + 813) - (957 + 484))",
+    "expectedOutput": -318
+  },
+  {
+    "input": "((784 - 237) - (819 + (792 + 836)))",
+    "expectedOutput": -1900
+  },
+  {
+    "input": "568",
+    "expectedOutput": 568
+  },
+  {
+    "input": "(821 + 973)",
+    "expectedOutput": 1794
+  },
+  {
+    "input": "(599 + (901 + 36))",
+    "expectedOutput": 1536
+  },
+  {
+    "input": "((341 - 685) + (168 - (78 + 310)))",
+    "expectedOutput": -564
+  },
+  {
+    "input": "747",
+    "expectedOutput": 747
+  },
+  {
+    "input": "(247 - 574)",
+    "expectedOutput": -327
+  },
+  {
+    "input": "((878 - 411) + (905 + (825 + 257)))",
+    "expectedOutput": 2454
+  },
+  {
+    "input": "((235 - 514) - (233 - (697 - 288)))",
+    "expectedOutput": -103
+  },
+  {
+    "input": "((204 - 167) + (880 + 906))",
+    "expectedOutput": 1823
+  },
+  {
+    "input": "(680 + (787 + 602))",
+    "expectedOutput": 2069
+  },
+  {
+    "input": "(562 + (439 + 674))",
+    "expectedOutput": 1675
+  },
+  {
+    "input": "((301 - (807 - 184)) + (626 + (704 + 7)))",
+    "expectedOutput": 1015
+  },
+  {
+    "input": "((265 + 540) + (722 - 799))",
+    "expectedOutput": 728
+  },
+  {
+    "input": "((629 + 9) + (179 - 145))",
+    "expectedOutput": 672
+  },
+  {
+    "input": "(218 + (488 + 790))",
+    "expectedOutput": 1496
+  },
+  {
+    "input": "(923 - (388 - 209))",
+    "expectedOutput": 744
+  },
+  {
+    "input": "(364 + 674)",
+    "expectedOutput": 1038
+  },
+  {
+    "input": "(240 + 729)",
+    "expectedOutput": 969
+  },
+  {
+    "input": "((534 + 933) + (839 - (922 + 532)))",
+    "expectedOutput": 852
+  },
+  {
+    "input": "(557 - 307)",
+    "expectedOutput": 250
+  },
+  {
+    "input": "(374 + (803 + 541))",
+    "expectedOutput": 1718
+  },
+  {
+    "input": "(416 + (928 + 869))",
+    "expectedOutput": 2213
+  },
+  {
+    "input": "((345 + 512) + (654 - 522))",
+    "expectedOutput": 989
+  },
+  {
+    "input": "((273 + (918 - 75)) - (327 + (593 + 513)))",
+    "expectedOutput": -317
+  },
+  {
+    "input": "((786 + (452 - 369)) - (694 - (18 + 769)))",
+    "expectedOutput": 962
+  },
+  {
+    "input": "(141 - 534)",
+    "expectedOutput": -393
+  },
+  {
+    "input": "145",
+    "expectedOutput": 145
+  },
+  {
+    "input": "(747 + (429 + 204))",
+    "expectedOutput": 1380
+  },
+  {
+    "input": "(680 - (117 + 797))",
+    "expectedOutput": -234
+  },
+  {
+    "input": "195",
+    "expectedOutput": 195
+  },
+  {
+    "input": "(155 + (917 - 113))",
+    "expectedOutput": 959
+  },
+  {
+    "input": "793",
+    "expectedOutput": 793
+  },
+  {
+    "input": "((977 + (118 + 103)) + (372 - (783 + 462)))",
+    "expectedOutput": 325
+  },
+  {
+    "input": "((205 - 409) + (116 + (488 + 401)))",
+    "expectedOutput": 801
+  },
+  {
+    "input": "904",
+    "expectedOutput": 904
+  },
+  {
+    "input": "((95 + (875 - 278)) + (276 - (250 + 241)))",
+    "expectedOutput": 477
+  },
+  {
+    "input": "((272 - (903 - 119)) + (162 + (510 - 160)))",
+    "expectedOutput": 0
+  },
+  {
+    "input": "((114 - 46) + (959 - (39 - 712)))",
+    "expectedOutput": 1700
+  },
+  {
+    "input": "((650 - (610 + 6)) + (906 - (340 - 799)))",
+    "expectedOutput": 1399
+  },
+  {
+    "input": "((747 - 817) + (63 + (164 + 439)))",
+    "expectedOutput": 596
+  },
+  {
+    "input": "((839 - 523) - (975 - (151 + 600)))",
+    "expectedOutput": 92
+  },
+  {
+    "input": "((662 + 336) - (886 - 350))",
+    "expectedOutput": 462
+  },
+  {
+    "input": "((569 + 164) - (73 - 89))",
+    "expectedOutput": 749
+  },
+  {
+    "input": "(223 - (461 + 731))",
+    "expectedOutput": -969
+  },
+  {
+    "input": "((433 + 203) + (875 - 905))",
+    "expectedOutput": 606
+  },
+  {
+    "input": "((458 + 752) + (655 - 113))",
+    "expectedOutput": 1752
+  },
+  {
+    "input": "(385 + 227)",
+    "expectedOutput": 612
+  },
+  {
+    "input": "((18 - 341) - (751 + 170))",
+    "expectedOutput": -1244
+  },
+  {
+    "input": "(588 + 514)",
+    "expectedOutput": 1102
+  },
+  {
+    "input": "(571 + (567 + 784))",
+    "expectedOutput": 1922
+  },
+  {
+    "input": "450",
+    "expectedOutput": 450
+  },
+  {
+    "input": "((878 - (429 + 555)) - (363 + (571 + 835)))",
+    "expectedOutput": -1875
+  },
+  {
+    "input": "759",
+    "expectedOutput": 759
+  },
+  {
+    "input": "(379 + (142 + 882))",
+    "expectedOutput": 1403
+  },
+  {
+    "input": "(10 + (111 - 482))",
+    "expectedOutput": -361
+  },
+  {
+    "input": "((371 - (806 + 960)) + (886 - (644 - 378)))",
+    "expectedOutput": -775
+  },
+  {
+    "input": "(824 - 167)",
+    "expectedOutput": 657
+  },
+  {
+    "input": "((692 - 960) - (248 - (304 - 104)))",
+    "expectedOutput": -316
+  },
+  {
+    "input": "506",
+    "expectedOutput": 506
   },
   {
     "input": "255",
     "expectedOutput": 255
   },
   {
-    "input": "((33 - (508 - 821)) + (815 + (816 - 993)))",
-    "expectedOutput": 984
+    "input": "((748 + (6 + 89)) - (304 - (329 - 748)))",
+    "expectedOutput": 120
   },
   {
-    "input": "((9 + 658) + (843 + 675))",
-    "expectedOutput": 2185
+    "input": "(643 - (896 + 612))",
+    "expectedOutput": -865
   },
   {
-    "input": "(756 - (477 - 653))",
-    "expectedOutput": 932
+    "input": "197",
+    "expectedOutput": 197
   },
   {
-    "input": "(247 - (108 - 449))",
-    "expectedOutput": 588
+    "input": "(975 - 701)",
+    "expectedOutput": 274
   },
   {
-    "input": "(217 + (13 - 29))",
-    "expectedOutput": 201
+    "input": "968",
+    "expectedOutput": 968
   },
   {
-    "input": "((302 - (803 + 94)) - (913 - (111 + 395)))",
-    "expectedOutput": -1002
+    "input": "((253 + 800) + (423 + (573 - 303)))",
+    "expectedOutput": 1746
   },
   {
-    "input": "((842 + (603 - 75)) + (510 - (995 - 882)))",
-    "expectedOutput": 1767
+    "input": "((128 + 5) + (965 + 641))",
+    "expectedOutput": 1739
   },
   {
-    "input": "((848 - 259) + (430 - 959))",
-    "expectedOutput": 60
+    "input": "((301 + (593 - 748)) - (261 - (912 - 47)))",
+    "expectedOutput": 750
   },
   {
-    "input": "((80 + (952 - 234)) - (1000 - (864 + 475)))",
-    "expectedOutput": 1137
+    "input": "((694 + 750) + (374 - (569 - 639)))",
+    "expectedOutput": 1888
   },
   {
-    "input": "(451 - (327 - 999))",
-    "expectedOutput": 1123
+    "input": "((263 + 711) - (251 + (133 - 319)))",
+    "expectedOutput": 909
   },
   {
-    "input": "((763 + 791) + (610 - 756))",
-    "expectedOutput": 1408
+    "input": "((971 + (445 + 803)) + (246 + (641 - 651)))",
+    "expectedOutput": 2455
   },
   {
-    "input": "((61 + 421) - (572 - (423 + 880)))",
-    "expectedOutput": 1213
+    "input": "((83 + (611 - 92)) + (745 - (376 - 668)))",
+    "expectedOutput": 1639
   },
   {
-    "input": "((696 + 519) + (431 + (213 - 540)))",
-    "expectedOutput": 1319
+    "input": "((55 - 764) + (461 + 575))",
+    "expectedOutput": 327
   },
   {
-    "input": "((888 + 467) - (820 + (128 + 23)))",
-    "expectedOutput": 384
+    "input": "(154 + (201 + 731))",
+    "expectedOutput": 1086
   },
   {
-    "input": "989",
-    "expectedOutput": 989
+    "input": "(279 + 199)",
+    "expectedOutput": 478
   },
   {
-    "input": "(309 + 753)",
-    "expectedOutput": 1062
+    "input": "((592 - (700 + 760)) - (45 + (145 - 277)))",
+    "expectedOutput": -781
   },
   {
-    "input": "(128 + (454 - 23))",
+    "input": "((992 - 40) + (972 + 802))",
+    "expectedOutput": 2726
+  },
+  {
+    "input": "776",
+    "expectedOutput": 776
+  },
+  {
+    "input": "558",
+    "expectedOutput": 558
+  },
+  {
+    "input": "((169 - 241) + (379 + 914))",
+    "expectedOutput": 1221
+  },
+  {
+    "input": "694",
+    "expectedOutput": 694
+  },
+  {
+    "input": "(893 - (905 + 574))",
+    "expectedOutput": -586
+  },
+  {
+    "input": "((94 + 402) - (717 - 807))",
+    "expectedOutput": 586
+  },
+  {
+    "input": "((750 + 199) + (201 - (712 + 56)))",
+    "expectedOutput": 382
+  },
+  {
+    "input": "((281 - 500) - (489 - (648 - 289)))",
+    "expectedOutput": -349
+  },
+  {
+    "input": "((756 - (52 - 628)) - (479 - (25 + 747)))",
+    "expectedOutput": 1625
+  },
+  {
+    "input": "511",
+    "expectedOutput": 511
+  },
+  {
+    "input": "((118 - 770) + (140 - 347))",
+    "expectedOutput": -859
+  },
+  {
+    "input": "(948 + (675 + 353))",
+    "expectedOutput": 1976
+  },
+  {
+    "input": "((89 + 270) + (223 + (232 + 746)))",
+    "expectedOutput": 1560
+  },
+  {
+    "input": "((722 - 415) + (263 - 28))",
+    "expectedOutput": 542
+  },
+  {
+    "input": "((133 - (221 - 833)) - (48 - (469 - 555)))",
+    "expectedOutput": 611
+  },
+  {
+    "input": "((753 - 107) - (198 + (995 + 322)))",
+    "expectedOutput": -869
+  },
+  {
+    "input": "377",
+    "expectedOutput": 377
+  },
+  {
+    "input": "((80 + 331) + (326 - (851 + 298)))",
+    "expectedOutput": -412
+  },
+  {
+    "input": "((733 + 154) - (292 + 818))",
+    "expectedOutput": -223
+  },
+  {
+    "input": "((214 + (436 - 309)) + (646 - (257 + 969)))",
+    "expectedOutput": -239
+  },
+  {
+    "input": "(180 - (87 - 216))",
+    "expectedOutput": 309
+  },
+  {
+    "input": "220",
+    "expectedOutput": 220
+  },
+  {
+    "input": "70",
+    "expectedOutput": 70
+  },
+  {
+    "input": "((398 + (147 - 850)) + (643 + (841 - 688)))",
+    "expectedOutput": 491
+  },
+  {
+    "input": "((424 + 425) - (495 - 48))",
+    "expectedOutput": 402
+  },
+  {
+    "input": "(925 - (257 + 667))",
+    "expectedOutput": 1
+  },
+  {
+    "input": "(208 + 208)",
+    "expectedOutput": 416
+  },
+  {
+    "input": "(855 + 883)",
+    "expectedOutput": 1738
+  },
+  {
+    "input": "(386 + 86)",
+    "expectedOutput": 472
+  },
+  {
+    "input": "(736 + 676)",
+    "expectedOutput": 1412
+  },
+  {
+    "input": "((887 - 101) - (805 + 425))",
+    "expectedOutput": -444
+  },
+  {
+    "input": "((754 - 454) + (966 + (639 + 267)))",
+    "expectedOutput": 2172
+  },
+  {
+    "input": "(627 - (412 - 496))",
+    "expectedOutput": 711
+  },
+  {
+    "input": "((621 + 753) - (120 - (243 + 209)))",
+    "expectedOutput": 1706
+  },
+  {
+    "input": "308",
+    "expectedOutput": 308
+  },
+  {
+    "input": "((481 + 658) - (627 + (807 - 794)))",
+    "expectedOutput": 499
+  },
+  {
+    "input": "((84 - (235 - 238)) - (24 - (7 + 197)))",
+    "expectedOutput": 267
+  },
+  {
+    "input": "((92 - (185 + 357)) + (793 + (348 + 279)))",
+    "expectedOutput": 970
+  },
+  {
+    "input": "((677 + 934) + (426 + 41))",
+    "expectedOutput": 2078
+  },
+  {
+    "input": "((347 - (511 - 190)) + (840 - (798 - 496)))",
+    "expectedOutput": 564
+  },
+  {
+    "input": "190",
+    "expectedOutput": 190
+  },
+  {
+    "input": "((260 - 559) - (571 + (523 - 25)))",
+    "expectedOutput": -1368
+  },
+  {
+    "input": "((359 + 202) + (972 - (279 - 719)))",
+    "expectedOutput": 1973
+  },
+  {
+    "input": "((919 - 300) - (992 + (812 + 714)))",
+    "expectedOutput": -1899
+  },
+  {
+    "input": "((502 - (724 - 427)) - (537 - (782 - 406)))",
+    "expectedOutput": 44
+  },
+  {
+    "input": "(707 - 620)",
+    "expectedOutput": 87
+  },
+  {
+    "input": "(871 + (830 - 523))",
+    "expectedOutput": 1178
+  },
+  {
+    "input": "((434 + 301) - (667 - 384))",
+    "expectedOutput": 452
+  },
+  {
+    "input": "((771 + 84) + (902 + 784))",
+    "expectedOutput": 2541
+  },
+  {
+    "input": "853",
+    "expectedOutput": 853
+  },
+  {
+    "input": "(617 - 132)",
+    "expectedOutput": 485
+  },
+  {
+    "input": "356",
+    "expectedOutput": 356
+  },
+  {
+    "input": "(379 + (710 - 596))",
+    "expectedOutput": 493
+  },
+  {
+    "input": "((314 + (536 - 13)) - (75 - (554 - 49)))",
+    "expectedOutput": 1267
+  },
+  {
+    "input": "((220 + (399 + 481)) - (961 + (92 - 665)))",
+    "expectedOutput": 712
+  },
+  {
+    "input": "(392 - 712)",
+    "expectedOutput": -320
+  },
+  {
+    "input": "(729 - (606 + 761))",
+    "expectedOutput": -638
+  },
+  {
+    "input": "((68 - 650) + (81 + (752 - 274)))",
+    "expectedOutput": -23
+  },
+  {
+    "input": "((656 + (827 + 968)) - (307 - (477 - 973)))",
+    "expectedOutput": 1648
+  },
+  {
+    "input": "((997 + 400) - (547 + (652 - 371)))",
+    "expectedOutput": 569
+  },
+  {
+    "input": "(974 + 816)",
+    "expectedOutput": 1790
+  },
+  {
+    "input": "((236 - 866) - (937 + (332 + 39)))",
+    "expectedOutput": -1938
+  },
+  {
+    "input": "(824 - 151)",
+    "expectedOutput": 673
+  },
+  {
+    "input": "147",
+    "expectedOutput": 147
+  },
+  {
+    "input": "(623 - (744 + 411))",
+    "expectedOutput": -532
+  },
+  {
+    "input": "((962 + 493) - (573 + (335 + 933)))",
+    "expectedOutput": -386
+  },
+  {
+    "input": "((597 + 495) + (566 - 960))",
+    "expectedOutput": 698
+  },
+  {
+    "input": "(903 + 834)",
+    "expectedOutput": 1737
+  },
+  {
+    "input": "(328 - (798 + 307))",
+    "expectedOutput": -777
+  },
+  {
+    "input": "(611 - 497)",
+    "expectedOutput": 114
+  },
+  {
+    "input": "(11 - (536 + 855))",
+    "expectedOutput": -1380
+  },
+  {
+    "input": "(543 - (607 - 8))",
+    "expectedOutput": -56
+  },
+  {
+    "input": "(833 + 192)",
+    "expectedOutput": 1025
+  },
+  {
+    "input": "((339 - 122) - (947 + 402))",
+    "expectedOutput": -1132
+  },
+  {
+    "input": "(938 + 462)",
+    "expectedOutput": 1400
+  },
+  {
+    "input": "(555 - (476 + 591))",
+    "expectedOutput": -512
+  },
+  {
+    "input": "((329 + 60) - (524 + 994))",
+    "expectedOutput": -1129
+  },
+  {
+    "input": "((911 - 310) - (278 - 696))",
+    "expectedOutput": 1019
+  },
+  {
+    "input": "((259 + (686 - 29)) + (862 + (124 + 400)))",
+    "expectedOutput": 2302
+  },
+  {
+    "input": "(605 + 719)",
+    "expectedOutput": 1324
+  },
+  {
+    "input": "(571 + 622)",
+    "expectedOutput": 1193
+  },
+  {
+    "input": "(610 - 888)",
+    "expectedOutput": -278
+  },
+  {
+    "input": "((349 + (228 - 756)) - (987 + (824 + 698)))",
+    "expectedOutput": -2688
+  },
+  {
+    "input": "144",
+    "expectedOutput": 144
+  },
+  {
+    "input": "508",
+    "expectedOutput": 508
+  },
+  {
+    "input": "(643 + 943)",
+    "expectedOutput": 1586
+  },
+  {
+    "input": "((363 + 433) - (784 - 498))",
+    "expectedOutput": 510
+  },
+  {
+    "input": "((509 - 676) - (514 + (425 + 460)))",
+    "expectedOutput": -1566
+  },
+  {
+    "input": "((598 + (429 - 909)) + (722 - (10 + 618)))",
+    "expectedOutput": 212
+  },
+  {
+    "input": "((90 - 78) + (983 + 228))",
+    "expectedOutput": 1223
+  },
+  {
+    "input": "((450 - (536 + 867)) - (443 - (455 - 83)))",
+    "expectedOutput": -1024
+  },
+  {
+    "input": "((170 - (91 + 569)) + (937 - (998 - 898)))",
+    "expectedOutput": 347
+  },
+  {
+    "input": "((560 + 882) + (331 - (495 - 513)))",
+    "expectedOutput": 1791
+  },
+  {
+    "input": "(844 - 564)",
+    "expectedOutput": 280
+  },
+  {
+    "input": "(335 + (567 + 591))",
+    "expectedOutput": 1493
+  },
+  {
+    "input": "678",
+    "expectedOutput": 678
+  },
+  {
+    "input": "((803 - 237) + (864 - (479 - 625)))",
+    "expectedOutput": 1576
+  },
+  {
+    "input": "((703 - (22 + 47)) - (120 - (369 + 569)))",
+    "expectedOutput": 1452
+  },
+  {
+    "input": "(611 + 556)",
+    "expectedOutput": 1167
+  },
+  {
+    "input": "((70 + (660 - 141)) - (237 + (416 + 828)))",
+    "expectedOutput": -892
+  },
+  {
+    "input": "((65 + 275) + (311 - 894))",
+    "expectedOutput": -243
+  },
+  {
+    "input": "((850 - (687 + 990)) - (674 + (171 + 810)))",
+    "expectedOutput": -2482
+  },
+  {
+    "input": "((158 - 119) - (266 + 369))",
+    "expectedOutput": -596
+  },
+  {
+    "input": "((296 + 433) - (879 + 121))",
+    "expectedOutput": -271
+  },
+  {
+    "input": "((572 + (439 - 403)) + (855 + (515 + 443)))",
+    "expectedOutput": 2421
+  },
+  {
+    "input": "865",
+    "expectedOutput": 865
+  },
+  {
+    "input": "(823 - (771 + 975))",
+    "expectedOutput": -923
+  },
+  {
+    "input": "((340 - (97 + 715)) - (728 - (638 + 48)))",
+    "expectedOutput": -514
+  },
+  {
+    "input": "(858 - 10)",
+    "expectedOutput": 848
+  },
+  {
+    "input": "(506 - 104)",
+    "expectedOutput": 402
+  },
+  {
+    "input": "(483 + (335 - 492))",
+    "expectedOutput": 326
+  },
+  {
+    "input": "((572 + 352) + (831 + 862))",
+    "expectedOutput": 2617
+  },
+  {
+    "input": "((762 - (749 - 684)) + (213 + (852 - 422)))",
+    "expectedOutput": 1340
+  },
+  {
+    "input": "((891 - (850 - 961)) - (738 - (370 + 840)))",
+    "expectedOutput": 1474
+  },
+  {
+    "input": "(338 - (95 + 425))",
+    "expectedOutput": -182
+  },
+  {
+    "input": "699",
+    "expectedOutput": 699
+  },
+  {
+    "input": "((770 + 805) - (803 + 839))",
+    "expectedOutput": -67
+  },
+  {
+    "input": "((198 - (58 - 590)) + (380 - (998 - 413)))",
+    "expectedOutput": 525
+  },
+  {
+    "input": "((620 - (348 - 802)) + (581 - (401 - 805)))",
+    "expectedOutput": 2059
+  },
+  {
+    "input": "703",
+    "expectedOutput": 703
+  },
+  {
+    "input": "(707 - (8 - 859))",
+    "expectedOutput": 1558
+  },
+  {
+    "input": "((239 - 444) + (453 - (119 - 314)))",
+    "expectedOutput": 443
+  },
+  {
+    "input": "553",
+    "expectedOutput": 553
+  },
+  {
+    "input": "((663 - 29) + (927 + 343))",
+    "expectedOutput": 1904
+  },
+  {
+    "input": "(56 + (839 - 548))",
+    "expectedOutput": 347
+  },
+  {
+    "input": "653",
+    "expectedOutput": 653
+  },
+  {
+    "input": "((397 - 283) - (81 - (68 - 775)))",
+    "expectedOutput": -674
+  },
+  {
+    "input": "((896 - 361) + (422 - (429 - 43)))",
+    "expectedOutput": 571
+  },
+  {
+    "input": "(372 - (254 - 693))",
+    "expectedOutput": 811
+  },
+  {
+    "input": "300",
+    "expectedOutput": 300
+  },
+  {
+    "input": "((408 + (933 - 347)) - (835 + (224 - 875)))",
+    "expectedOutput": 810
+  },
+  {
+    "input": "438",
+    "expectedOutput": 438
+  },
+  {
+    "input": "((922 + (300 + 212)) - (302 + (440 + 382)))",
+    "expectedOutput": 310
+  },
+  {
+    "input": "((33 + (632 + 627)) + (699 + (408 + 841)))",
+    "expectedOutput": 3240
+  },
+  {
+    "input": "((680 + (835 + 234)) + (63 + (389 + 558)))",
+    "expectedOutput": 2759
+  },
+  {
+    "input": "((556 - 171) + (373 + 62))",
+    "expectedOutput": 820
+  },
+  {
+    "input": "(756 - (317 + 370))",
+    "expectedOutput": 69
+  },
+  {
+    "input": "((161 - (67 + 344)) + (147 - (975 + 983)))",
+    "expectedOutput": -2061
+  },
+  {
+    "input": "(459 + (805 + 884))",
+    "expectedOutput": 2148
+  },
+  {
+    "input": "(760 - 159)",
+    "expectedOutput": 601
+  },
+  {
+    "input": "((197 - 374) - (688 - (282 + 804)))",
+    "expectedOutput": 221
+  },
+  {
+    "input": "260",
+    "expectedOutput": 260
+  },
+  {
+    "input": "(18 + (966 - 425))",
     "expectedOutput": 559
   },
   {
-    "input": "(182 + (63 - 981))",
-    "expectedOutput": -736
+    "input": "((524 + (869 - 403)) - (651 - (702 + 441)))",
+    "expectedOutput": 1482
   },
   {
-    "input": "((9 + 991) - (564 - 58))",
-    "expectedOutput": 494
+    "input": "((313 - 577) + (905 + 427))",
+    "expectedOutput": 1068
   },
   {
-    "input": "((481 + 376) + (833 - (208 + 48)))",
-    "expectedOutput": 1434
+    "input": "((46 + 864) + (329 - 94))",
+    "expectedOutput": 1145
   },
   {
-    "input": "((487 + 570) + (532 + (31 - 960)))",
+    "input": "((993 - 645) + (11 + 34))",
+    "expectedOutput": 393
+  },
+  {
+    "input": "343",
+    "expectedOutput": 343
+  },
+  {
+    "input": "(791 - (33 + 526))",
+    "expectedOutput": 232
+  },
+  {
+    "input": "((664 + (695 + 935)) - (64 + (298 - 375)))",
+    "expectedOutput": 2307
+  },
+  {
+    "input": "(775 - (541 - 278))",
+    "expectedOutput": 512
+  },
+  {
+    "input": "384",
+    "expectedOutput": 384
+  },
+  {
+    "input": "(565 - 134)",
+    "expectedOutput": 431
+  },
+  {
+    "input": "(44 - 125)",
+    "expectedOutput": -81
+  },
+  {
+    "input": "((535 - 631) - (32 + (40 - 692)))",
+    "expectedOutput": 524
+  },
+  {
+    "input": "((196 - (212 + 563)) + (12 - (543 + 849)))",
+    "expectedOutput": -1959
+  },
+  {
+    "input": "((710 - (447 + 697)) + (491 - (64 + 41)))",
+    "expectedOutput": -48
+  },
+  {
+    "input": "(252 - (174 - 282))",
+    "expectedOutput": 360
+  },
+  {
+    "input": "((379 + 640) + (863 + 216))",
+    "expectedOutput": 2098
+  },
+  {
+    "input": "((63 + 686) - (188 + 173))",
+    "expectedOutput": 388
+  },
+  {
+    "input": "((604 - 796) - (732 - 566))",
+    "expectedOutput": -358
+  },
+  {
+    "input": "((951 + 34) + (333 - (797 + 312)))",
+    "expectedOutput": 209
+  },
+  {
+    "input": "(170 + (16 + 932))",
+    "expectedOutput": 1118
+  },
+  {
+    "input": "((576 + 799) - (961 - (264 + 200)))",
+    "expectedOutput": 878
+  },
+  {
+    "input": "((680 + 665) + (679 + 459))",
+    "expectedOutput": 2483
+  },
+  {
+    "input": "(966 + 895)",
+    "expectedOutput": 1861
+  },
+  {
+    "input": "((464 - 380) + (184 - (227 - 737)))",
+    "expectedOutput": 778
+  },
+  {
+    "input": "((218 + 471) + (465 - 365))",
+    "expectedOutput": 789
+  },
+  {
+    "input": "(918 - 378)",
+    "expectedOutput": 540
+  },
+  {
+    "input": "((787 - 327) + (984 - 106))",
+    "expectedOutput": 1338
+  },
+  {
+    "input": "((321 - 310) + (612 + (507 - 481)))",
+    "expectedOutput": 649
+  },
+  {
+    "input": "(812 + (293 + 761))",
+    "expectedOutput": 1866
+  },
+  {
+    "input": "(228 + (65 + 17))",
+    "expectedOutput": 310
+  },
+  {
+    "input": "((488 - (988 - 843)) - (733 + (681 - 238)))",
+    "expectedOutput": -833
+  },
+  {
+    "input": "(37 - (900 + 385))",
+    "expectedOutput": -1248
+  },
+  {
+    "input": "((136 + 14) + (62 - (953 - 825)))",
+    "expectedOutput": 84
+  },
+  {
+    "input": "((657 + (996 + 386)) + (946 - (500 - 212)))",
+    "expectedOutput": 2697
+  },
+  {
+    "input": "582",
+    "expectedOutput": 582
+  },
+  {
+    "input": "557",
+    "expectedOutput": 557
+  },
+  {
+    "input": "13",
+    "expectedOutput": 13
+  },
+  {
+    "input": "(500 + 766)",
+    "expectedOutput": 1266
+  },
+  {
+    "input": "472",
+    "expectedOutput": 472
+  },
+  {
+    "input": "((58 - 397) - (536 + (97 + 655)))",
+    "expectedOutput": -1627
+  },
+  {
+    "input": "((568 - 923) + (105 + 259))",
+    "expectedOutput": 9
+  },
+  {
+    "input": "(712 - 663)",
+    "expectedOutput": 49
+  },
+  {
+    "input": "((896 + (302 - 467)) + (412 - (690 - 990)))",
+    "expectedOutput": 1443
+  },
+  {
+    "input": "276",
+    "expectedOutput": 276
+  },
+  {
+    "input": "((573 - (325 + 540)) + (795 - (361 + 395)))",
+    "expectedOutput": -253
+  },
+  {
+    "input": "((944 - 323) - (240 - (399 + 826)))",
+    "expectedOutput": 1606
+  },
+  {
+    "input": "((308 + 966) + (352 + 357))",
+    "expectedOutput": 1983
+  },
+  {
+    "input": "((825 + (668 + 672)) - (594 - (886 - 812)))",
+    "expectedOutput": 1645
+  },
+  {
+    "input": "((835 + (194 - 384)) + (773 + (247 + 229)))",
+    "expectedOutput": 1894
+  },
+  {
+    "input": "(357 + (453 + 318))",
+    "expectedOutput": 1128
+  },
+  {
+    "input": "((926 + (361 + 669)) - (204 + (735 - 816)))",
+    "expectedOutput": 1833
+  },
+  {
+    "input": "(156 + 481)",
+    "expectedOutput": 637
+  },
+  {
+    "input": "((726 - 283) + (873 + (150 - 433)))",
+    "expectedOutput": 1033
+  },
+  {
+    "input": "(319 + 687)",
+    "expectedOutput": 1006
+  },
+  {
+    "input": "((221 - (817 + 921)) + (741 + (587 - 380)))",
+    "expectedOutput": -569
+  },
+  {
+    "input": "((51 + 821) + (869 + (808 + 296)))",
+    "expectedOutput": 2845
+  },
+  {
+    "input": "((418 + 950) + (675 - (257 + 408)))",
+    "expectedOutput": 1378
+  },
+  {
+    "input": "(367 + (896 - 520))",
+    "expectedOutput": 743
+  },
+  {
+    "input": "((706 - 690) - (57 + (252 + 378)))",
+    "expectedOutput": -671
+  },
+  {
+    "input": "835",
+    "expectedOutput": 835
+  },
+  {
+    "input": "(793 - (912 - 54))",
+    "expectedOutput": -65
+  },
+  {
+    "input": "((168 + 686) + (373 + 244))",
+    "expectedOutput": 1471
+  },
+  {
+    "input": "((394 + 817) - (434 + (216 + 211)))",
+    "expectedOutput": 350
+  },
+  {
+    "input": "660",
     "expectedOutput": 660
   },
   {
-    "input": "(275 + (232 + 241))",
+    "input": "((705 + (972 - 976)) - (355 - (276 + 110)))",
+    "expectedOutput": 732
+  },
+  {
+    "input": "((492 - 910) - (233 + (478 - 85)))",
+    "expectedOutput": -1044
+  },
+  {
+    "input": "((874 - (874 + 381)) + (4 - (565 - 733)))",
+    "expectedOutput": -209
+  },
+  {
+    "input": "((6 + (695 + 115)) + (733 - (358 + 740)))",
+    "expectedOutput": 451
+  },
+  {
+    "input": "((766 + 780) + (729 - (515 + 451)))",
+    "expectedOutput": 1309
+  },
+  {
+    "input": "(952 + 308)",
+    "expectedOutput": 1260
+  },
+  {
+    "input": "((826 - 296) + (432 - 48))",
+    "expectedOutput": 914
+  },
+  {
+    "input": "((595 - 789) - (97 + 664))",
+    "expectedOutput": -955
+  },
+  {
+    "input": "((130 - 500) - (73 + 534))",
+    "expectedOutput": -977
+  },
+  {
+    "input": "((228 + 637) - (554 + 836))",
+    "expectedOutput": -525
+  },
+  {
+    "input": "780",
+    "expectedOutput": 780
+  },
+  {
+    "input": "(167 - 911)",
+    "expectedOutput": -744
+  },
+  {
+    "input": "533",
+    "expectedOutput": 533
+  },
+  {
+    "input": "678",
+    "expectedOutput": 678
+  },
+  {
+    "input": "118",
+    "expectedOutput": 118
+  },
+  {
+    "input": "((273 + (168 + 122)) + (249 - (935 + 845)))",
+    "expectedOutput": -968
+  },
+  {
+    "input": "(675 + 812)",
+    "expectedOutput": 1487
+  },
+  {
+    "input": "((329 - 429) + (383 + (439 - 491)))",
+    "expectedOutput": 231
+  },
+  {
+    "input": "((301 + 997) + (237 + 548))",
+    "expectedOutput": 2083
+  },
+  {
+    "input": "(91 + 776)",
+    "expectedOutput": 867
+  },
+  {
+    "input": "206",
+    "expectedOutput": 206
+  },
+  {
+    "input": "(952 + 106)",
+    "expectedOutput": 1058
+  },
+  {
+    "input": "(827 + (992 - 900))",
+    "expectedOutput": 919
+  },
+  {
+    "input": "((292 + 292) + (943 + (894 - 701)))",
+    "expectedOutput": 1720
+  },
+  {
+    "input": "((863 - 398) - (360 - (199 + 32)))",
+    "expectedOutput": 336
+  },
+  {
+    "input": "((350 - (647 - 347)) + (305 + (537 + 773)))",
+    "expectedOutput": 1665
+  },
+  {
+    "input": "181",
+    "expectedOutput": 181
+  },
+  {
+    "input": "985",
+    "expectedOutput": 985
+  },
+  {
+    "input": "(907 + (213 - 65))",
+    "expectedOutput": 1055
+  },
+  {
+    "input": "(333 - 744)",
+    "expectedOutput": -411
+  },
+  {
+    "input": "((470 - 152) + (330 + (990 - 847)))",
+    "expectedOutput": 791
+  },
+  {
+    "input": "(821 - 72)",
+    "expectedOutput": 749
+  },
+  {
+    "input": "((524 + 388) - (298 - (538 - 45)))",
+    "expectedOutput": 1107
+  },
+  {
+    "input": "(902 - (903 + 791))",
+    "expectedOutput": -792
+  },
+  {
+    "input": "(408 - (37 + 2))",
+    "expectedOutput": 369
+  },
+  {
+    "input": "(320 - 236)",
+    "expectedOutput": 84
+  },
+  {
+    "input": "((845 - 687) + (494 - (924 - 508)))",
+    "expectedOutput": 236
+  },
+  {
+    "input": "((854 - 746) - (876 + (272 + 925)))",
+    "expectedOutput": -1965
+  },
+  {
+    "input": "((559 + 465) + (84 - (427 - 7)))",
+    "expectedOutput": 688
+  },
+  {
+    "input": "((403 + 378) - (843 - 383))",
+    "expectedOutput": 321
+  },
+  {
+    "input": "((601 + 251) + (835 - (23 + 876)))",
+    "expectedOutput": 788
+  },
+  {
+    "input": "(440 - 793)",
+    "expectedOutput": -353
+  },
+  {
+    "input": "((38 + 447) - (870 + (529 + 315)))",
+    "expectedOutput": -1229
+  },
+  {
+    "input": "((996 + (49 - 402)) + (79 - (229 + 932)))",
+    "expectedOutput": -439
+  },
+  {
+    "input": "((873 - (858 - 999)) + (692 - (687 - 147)))",
+    "expectedOutput": 1166
+  },
+  {
+    "input": "(515 + 908)",
+    "expectedOutput": 1423
+  },
+  {
+    "input": "((197 - 637) + (144 + 912))",
+    "expectedOutput": 616
+  },
+  {
+    "input": "(69 + (940 + 796))",
+    "expectedOutput": 1805
+  },
+  {
+    "input": "((411 + 283) - (674 + 1))",
+    "expectedOutput": 19
+  },
+  {
+    "input": "((407 + (923 - 688)) + (167 - (333 + 245)))",
+    "expectedOutput": 231
+  },
+  {
+    "input": "((793 + (230 - 325)) - (625 + (280 + 455)))",
+    "expectedOutput": -662
+  },
+  {
+    "input": "((110 + (55 + 534)) - (979 + (555 + 116)))",
+    "expectedOutput": -951
+  },
+  {
+    "input": "(322 - 597)",
+    "expectedOutput": -275
+  },
+  {
+    "input": "(725 - 887)",
+    "expectedOutput": -162
+  },
+  {
+    "input": "456",
+    "expectedOutput": 456
+  },
+  {
+    "input": "(76 - 254)",
+    "expectedOutput": -178
+  },
+  {
+    "input": "(151 + (97 + 647))",
+    "expectedOutput": 895
+  },
+  {
+    "input": "(925 - 246)",
+    "expectedOutput": 679
+  },
+  {
+    "input": "(59 - 3)",
+    "expectedOutput": 56
+  },
+  {
+    "input": "199",
+    "expectedOutput": 199
+  },
+  {
+    "input": "((37 + (193 + 378)) + (120 - (395 - 563)))",
+    "expectedOutput": 896
+  },
+  {
+    "input": "((139 - 386) - (819 + 313))",
+    "expectedOutput": -1379
+  },
+  {
+    "input": "((846 + (279 + 75)) - (786 + (129 - 841)))",
+    "expectedOutput": 1126
+  },
+  {
+    "input": "((603 - (331 + 812)) - (350 + (721 + 377)))",
+    "expectedOutput": -1988
+  },
+  {
+    "input": "(772 - (878 - 627))",
+    "expectedOutput": 521
+  },
+  {
+    "input": "((358 - 565) - (505 - (638 + 608)))",
+    "expectedOutput": 534
+  },
+  {
+    "input": "(89 - 745)",
+    "expectedOutput": -656
+  },
+  {
+    "input": "((967 - 868) - (233 + (643 + 333)))",
+    "expectedOutput": -1110
+  },
+  {
+    "input": "(222 + 578)",
+    "expectedOutput": 800
+  },
+  {
+    "input": "((735 - (850 + 472)) - (893 - (339 - 617)))",
+    "expectedOutput": -1758
+  },
+  {
+    "input": "((147 - 690) - (81 + 159))",
+    "expectedOutput": -783
+  },
+  {
+    "input": "((437 + 849) - (749 + 724))",
+    "expectedOutput": -187
+  },
+  {
+    "input": "705",
+    "expectedOutput": 705
+  },
+  {
+    "input": "((159 + 653) - (372 + 510))",
+    "expectedOutput": -70
+  },
+  {
+    "input": "((42 + (653 + 700)) - (48 - (915 - 347)))",
+    "expectedOutput": 1915
+  },
+  {
+    "input": "(442 - (162 + 323))",
+    "expectedOutput": -43
+  },
+  {
+    "input": "((167 - (438 - 149)) + (680 - (890 + 825)))",
+    "expectedOutput": -1157
+  },
+  {
+    "input": "((378 - 228) + (96 + 78))",
+    "expectedOutput": 324
+  },
+  {
+    "input": "(17 - (190 + 385))",
+    "expectedOutput": -558
+  },
+  {
+    "input": "(516 - (427 + 984))",
+    "expectedOutput": -895
+  },
+  {
+    "input": "(730 - (297 - 231))",
+    "expectedOutput": 664
+  },
+  {
+    "input": "((266 + 821) + (571 + 11))",
+    "expectedOutput": 1669
+  },
+  {
+    "input": "((492 + (775 + 405)) - (624 - (309 + 436)))",
+    "expectedOutput": 1793
+  },
+  {
+    "input": "(24 - 469)",
+    "expectedOutput": -445
+  },
+  {
+    "input": "(365 - 480)",
+    "expectedOutput": -115
+  },
+  {
+    "input": "((544 + (18 + 745)) + (324 + (325 + 585)))",
+    "expectedOutput": 2541
+  },
+  {
+    "input": "(611 - (808 - 84))",
+    "expectedOutput": -113
+  },
+  {
+    "input": "(783 - (394 - 207))",
+    "expectedOutput": 596
+  },
+  {
+    "input": "((361 + (376 - 105)) - (160 - (9 - 170)))",
+    "expectedOutput": 311
+  },
+  {
+    "input": "((189 + 225) + (140 + (722 + 624)))",
+    "expectedOutput": 1900
+  },
+  {
+    "input": "(850 - (154 + 778))",
+    "expectedOutput": -82
+  },
+  {
+    "input": "((927 + 1000) - (742 - (509 - 748)))",
+    "expectedOutput": 946
+  },
+  {
+    "input": "(219 + 91)",
+    "expectedOutput": 310
+  },
+  {
+    "input": "((729 - (747 + 317)) - (194 - (60 + 324)))",
+    "expectedOutput": -145
+  },
+  {
+    "input": "350",
+    "expectedOutput": 350
+  },
+  {
+    "input": "(539 - (57 - 220))",
+    "expectedOutput": 702
+  },
+  {
+    "input": "((623 - 408) - (357 + (501 + 556)))",
+    "expectedOutput": -1199
+  },
+  {
+    "input": "610",
+    "expectedOutput": 610
+  },
+  {
+    "input": "(182 - 80)",
+    "expectedOutput": 102
+  },
+  {
+    "input": "((221 + 747) - (31 + 589))",
+    "expectedOutput": 348
+  },
+  {
+    "input": "((318 + 964) + (800 + (277 + 458)))",
+    "expectedOutput": 2817
+  },
+  {
+    "input": "(93 + 215)",
+    "expectedOutput": 308
+  },
+  {
+    "input": "((538 + 905) + (739 - 511))",
+    "expectedOutput": 1671
+  },
+  {
+    "input": "((194 - 412) + (310 + 177))",
+    "expectedOutput": 269
+  },
+  {
+    "input": "((707 + (417 - 62)) - (892 - (42 - 930)))",
+    "expectedOutput": -718
+  },
+  {
+    "input": "((33 + 847) + (99 + 116))",
+    "expectedOutput": 1095
+  },
+  {
+    "input": "(105 + 776)",
+    "expectedOutput": 881
+  },
+  {
+    "input": "(652 + 349)",
+    "expectedOutput": 1001
+  },
+  {
+    "input": "(706 - (127 + 85))",
+    "expectedOutput": 494
+  },
+  {
+    "input": "((337 + 547) + (158 + (763 + 925)))",
+    "expectedOutput": 2730
+  },
+  {
+    "input": "(249 + (336 + 778))",
+    "expectedOutput": 1363
+  },
+  {
+    "input": "((660 - 925) - (491 - (462 + 408)))",
+    "expectedOutput": 114
+  },
+  {
+    "input": "257",
+    "expectedOutput": 257
+  },
+  {
+    "input": "((822 + 487) + (106 + 958))",
+    "expectedOutput": 2373
+  },
+  {
+    "input": "738",
+    "expectedOutput": 738
+  },
+  {
+    "input": "(422 + 700)",
+    "expectedOutput": 1122
+  },
+  {
+    "input": "686",
+    "expectedOutput": 686
+  },
+  {
+    "input": "(655 + (283 + 329))",
+    "expectedOutput": 1267
+  },
+  {
+    "input": "(495 + (620 - 431))",
+    "expectedOutput": 684
+  },
+  {
+    "input": "((917 - 500) - (455 + (337 - 562)))",
+    "expectedOutput": 187
+  },
+  {
+    "input": "(276 + (502 + 878))",
+    "expectedOutput": 1656
+  },
+  {
+    "input": "439",
+    "expectedOutput": 439
+  },
+  {
+    "input": "((100 - (968 + 686)) - (779 + (405 - 150)))",
+    "expectedOutput": -2588
+  },
+  {
+    "input": "((740 - 82) - (450 + (965 - 701)))",
+    "expectedOutput": -56
+  },
+  {
+    "input": "(368 - (976 - 902))",
+    "expectedOutput": 294
+  },
+  {
+    "input": "((350 + 411) + (694 + 487))",
+    "expectedOutput": 1942
+  },
+  {
+    "input": "((798 - (151 - 153)) - (444 + (771 + 236)))",
+    "expectedOutput": -651
+  },
+  {
+    "input": "(412 - (390 - 653))",
+    "expectedOutput": 675
+  },
+  {
+    "input": "(615 + 290)",
+    "expectedOutput": 905
+  },
+  {
+    "input": "((93 + 133) + (81 - 570))",
+    "expectedOutput": -263
+  },
+  {
+    "input": "((773 - 424) - (326 - (156 + 219)))",
+    "expectedOutput": 398
+  },
+  {
+    "input": "((659 + (514 - 556)) - (99 - (126 - 316)))",
+    "expectedOutput": 328
+  },
+  {
+    "input": "349",
+    "expectedOutput": 349
+  },
+  {
+    "input": "((348 + (313 + 50)) - (477 - (667 + 654)))",
+    "expectedOutput": 1555
+  },
+  {
+    "input": "((562 + 664) - (545 - 282))",
+    "expectedOutput": 963
+  },
+  {
+    "input": "402",
+    "expectedOutput": 402
+  },
+  {
+    "input": "(679 - (599 + 533))",
+    "expectedOutput": -453
+  },
+  {
+    "input": "(864 + (727 + 787))",
+    "expectedOutput": 2378
+  },
+  {
+    "input": "((872 + (661 + 578)) - (653 + (58 - 937)))",
+    "expectedOutput": 2337
+  },
+  {
+    "input": "((864 + (993 - 9)) + (205 + (730 + 419)))",
+    "expectedOutput": 3202
+  },
+  {
+    "input": "((244 + 357) - (764 + 958))",
+    "expectedOutput": -1121
+  },
+  {
+    "input": "((233 + (992 - 355)) + (632 - (997 - 421)))",
+    "expectedOutput": 926
+  },
+  {
+    "input": "((775 - 704) + (38 - (396 + 635)))",
+    "expectedOutput": -922
+  },
+  {
+    "input": "748",
     "expectedOutput": 748
   },
   {
-    "input": "((650 + (74 - 24)) + (515 + (196 + 932)))",
-    "expectedOutput": 2343
+    "input": "(71 + 88)",
+    "expectedOutput": 159
   },
   {
-    "input": "(420 + (592 + 428))",
-    "expectedOutput": 1440
+    "input": "((404 + 843) - (373 + (397 - 454)))",
+    "expectedOutput": 931
   },
   {
-    "input": "246",
-    "expectedOutput": 246
+    "input": "(804 + (502 + 73))",
+    "expectedOutput": 1379
   },
   {
-    "input": "((817 - 453) + (940 - (557 - 522)))",
-    "expectedOutput": 1269
+    "input": "954",
+    "expectedOutput": 954
   },
   {
-    "input": "(201 + (745 + 709))",
-    "expectedOutput": 1655
+    "input": "((588 - (184 + 429)) - (808 + (346 - 886)))",
+    "expectedOutput": -293
   },
   {
-    "input": "(300 - (461 + 773))",
-    "expectedOutput": -934
+    "input": "(740 - (423 + 117))",
+    "expectedOutput": 200
   },
   {
-    "input": "((424 + 332) - (703 + 876))",
-    "expectedOutput": -823
+    "input": "(387 - (969 - 941))",
+    "expectedOutput": 359
   },
   {
-    "input": "196",
-    "expectedOutput": 196
+    "input": "(357 + (86 + 187))",
+    "expectedOutput": 630
   },
   {
-    "input": "((396 + (964 - 811)) - (921 + (440 + 484)))",
-    "expectedOutput": -1296
+    "input": "273",
+    "expectedOutput": 273
   },
   {
-    "input": "(462 - 807)",
-    "expectedOutput": -345
+    "input": "980",
+    "expectedOutput": 980
   },
   {
-    "input": "((950 + 671) - (324 + 183))",
-    "expectedOutput": 1114
+    "input": "657",
+    "expectedOutput": 657
   },
   {
-    "input": "((224 - 890) + (648 + 977))",
-    "expectedOutput": 959
+    "input": "829",
+    "expectedOutput": 829
   },
   {
-    "input": "(33 + (409 + 568))",
-    "expectedOutput": 1010
+    "input": "(353 - (253 - 858))",
+    "expectedOutput": 958
   },
   {
-    "input": "(657 - (327 - 741))",
-    "expectedOutput": 1071
+    "input": "((482 - 380) + (305 + (672 - 637)))",
+    "expectedOutput": 442
   },
   {
-    "input": "((84 - 553) + (496 - (870 - 121)))",
-    "expectedOutput": -722
+    "input": "(469 - 81)",
+    "expectedOutput": 388
   },
   {
-    "input": "((564 + 791) + (691 + (436 - 312)))",
-    "expectedOutput": 2170
+    "input": "((592 - 847) - (598 + (191 + 440)))",
+    "expectedOutput": -1484
   },
   {
-    "input": "((592 - (432 + 684)) + (950 - (800 + 442)))",
-    "expectedOutput": -816
+    "input": "((247 + (50 - 115)) - (358 + (211 - 287)))",
+    "expectedOutput": -100
   },
   {
-    "input": "(903 + (868 - 128))",
-    "expectedOutput": 1643
+    "input": "(272 - (563 + 396))",
+    "expectedOutput": -687
+  },
+  {
+    "input": "((259 + 370) + (476 + 439))",
+    "expectedOutput": 1544
+  },
+  {
+    "input": "((880 + 203) - (414 + 79))",
+    "expectedOutput": 590
+  },
+  {
+    "input": "(737 - 162)",
+    "expectedOutput": 575
+  },
+  {
+    "input": "65",
+    "expectedOutput": 65
+  },
+  {
+    "input": "((919 + 189) - (93 - (851 + 309)))",
+    "expectedOutput": 2175
+  },
+  {
+    "input": "(413 + (875 + 697))",
+    "expectedOutput": 1985
+  },
+  {
+    "input": "((413 + 35) - (26 + (983 - 809)))",
+    "expectedOutput": 248
+  },
+  {
+    "input": "((375 - 917) + (822 - 907))",
+    "expectedOutput": -627
+  },
+  {
+    "input": "((331 + (216 + 715)) + (773 - (857 - 349)))",
+    "expectedOutput": 1527
+  },
+  {
+    "input": "760",
+    "expectedOutput": 760
+  },
+  {
+    "input": "((818 - 609) + (354 + 738))",
+    "expectedOutput": 1301
+  },
+  {
+    "input": "((280 + 246) + (298 + 347))",
+    "expectedOutput": 1171
+  },
+  {
+    "input": "((451 + 222) + (964 - 288))",
+    "expectedOutput": 1349
+  },
+  {
+    "input": "(537 + 230)",
+    "expectedOutput": 767
+  },
+  {
+    "input": "((917 - (853 - 600)) - (446 - (382 - 227)))",
+    "expectedOutput": 373
+  },
+  {
+    "input": "709",
+    "expectedOutput": 709
+  },
+  {
+    "input": "((555 + 617) - (569 - 318))",
+    "expectedOutput": 921
+  },
+  {
+    "input": "(187 + (631 - 351))",
+    "expectedOutput": 467
+  },
+  {
+    "input": "(135 + (347 + 307))",
+    "expectedOutput": 789
+  },
+  {
+    "input": "(935 + 172)",
+    "expectedOutput": 1107
+  },
+  {
+    "input": "((656 - 811) - (208 + 676))",
+    "expectedOutput": -1039
+  },
+  {
+    "input": "(37 - 289)",
+    "expectedOutput": -252
+  },
+  {
+    "input": "867",
+    "expectedOutput": 867
+  },
+  {
+    "input": "((951 - 645) + (444 - (841 + 686)))",
+    "expectedOutput": -777
+  },
+  {
+    "input": "(918 - (866 + 888))",
+    "expectedOutput": -836
+  },
+  {
+    "input": "((595 - 879) + (594 + (105 + 541)))",
+    "expectedOutput": 956
+  },
+  {
+    "input": "(97 + (984 + 988))",
+    "expectedOutput": 2069
+  },
+  {
+    "input": "((779 + 881) + (140 - (198 + 353)))",
+    "expectedOutput": 1249
+  },
+  {
+    "input": "(441 - (336 - 399))",
+    "expectedOutput": 504
+  },
+  {
+    "input": "986",
+    "expectedOutput": 986
+  },
+  {
+    "input": "(983 + 866)",
+    "expectedOutput": 1849
+  },
+  {
+    "input": "((430 + 204) - (526 - 987))",
+    "expectedOutput": 1095
+  },
+  {
+    "input": "(245 - 942)",
+    "expectedOutput": -697
+  },
+  {
+    "input": "(304 + (339 + 936))",
+    "expectedOutput": 1579
+  },
+  {
+    "input": "(416 + 166)",
+    "expectedOutput": 582
+  },
+  {
+    "input": "((602 - 355) + (982 + (415 - 401)))",
+    "expectedOutput": 1243
+  },
+  {
+    "input": "299",
+    "expectedOutput": 299
+  },
+  {
+    "input": "((336 - (545 - 366)) - (277 - (68 - 635)))",
+    "expectedOutput": -687
+  },
+  {
+    "input": "(908 - (98 - 830))",
+    "expectedOutput": 1640
+  },
+  {
+    "input": "((63 - (757 + 895)) + (143 + (793 + 798)))",
+    "expectedOutput": 145
+  },
+  {
+    "input": "641",
+    "expectedOutput": 641
+  },
+  {
+    "input": "((307 - (737 - 649)) + (508 + (287 + 161)))",
+    "expectedOutput": 1175
+  },
+  {
+    "input": "(449 - 92)",
+    "expectedOutput": 357
+  },
+  {
+    "input": "((140 + (779 - 216)) - (328 - (99 + 394)))",
+    "expectedOutput": 868
+  },
+  {
+    "input": "((965 + 63) - (733 - (240 + 460)))",
+    "expectedOutput": 995
+  },
+  {
+    "input": "((321 + 848) + (687 - 910))",
+    "expectedOutput": 946
+  },
+  {
+    "input": "209",
+    "expectedOutput": 209
+  },
+  {
+    "input": "((497 + (284 + 430)) + (818 - (449 + 57)))",
+    "expectedOutput": 1523
+  },
+  {
+    "input": "((42 + (239 + 309)) + (879 + (993 + 58)))",
+    "expectedOutput": 2520
+  },
+  {
+    "input": "((230 + 564) - (348 + (623 + 211)))",
+    "expectedOutput": -388
+  },
+  {
+    "input": "((223 + 580) + (723 + 354))",
+    "expectedOutput": 1880
+  },
+  {
+    "input": "((707 - 416) + (685 - (797 - 371)))",
+    "expectedOutput": 550
+  },
+  {
+    "input": "(92 - (428 + 224))",
+    "expectedOutput": -560
+  },
+  {
+    "input": "127",
+    "expectedOutput": 127
+  },
+  {
+    "input": "((803 - 522) - (880 - (676 - 443)))",
+    "expectedOutput": -366
+  },
+  {
+    "input": "(827 + (345 + 3))",
+    "expectedOutput": 1175
+  },
+  {
+    "input": "743",
+    "expectedOutput": 743
+  },
+  {
+    "input": "220",
+    "expectedOutput": 220
+  },
+  {
+    "input": "((720 - 564) - (633 - (614 - 613)))",
+    "expectedOutput": -476
+  },
+  {
+    "input": "(570 - (404 + 192))",
+    "expectedOutput": -26
+  },
+  {
+    "input": "((863 + 157) + (783 - 233))",
+    "expectedOutput": 1570
+  },
+  {
+    "input": "((791 - 536) + (559 - 321))",
+    "expectedOutput": 493
+  },
+  {
+    "input": "(813 + 569)",
+    "expectedOutput": 1382
+  },
+  {
+    "input": "(278 + (707 - 506))",
+    "expectedOutput": 479
+  },
+  {
+    "input": "((477 + (445 + 650)) - (293 + (238 + 780)))",
+    "expectedOutput": 261
+  },
+  {
+    "input": "(862 + (632 + 955))",
+    "expectedOutput": 2449
+  },
+  {
+    "input": "(186 - (844 + 696))",
+    "expectedOutput": -1354
+  },
+  {
+    "input": "((530 - (202 - 978)) + (352 + (586 + 881)))",
+    "expectedOutput": 3125
+  },
+  {
+    "input": "(12 + 64)",
+    "expectedOutput": 76
+  },
+  {
+    "input": "((287 - 159) + (661 - 864))",
+    "expectedOutput": -75
+  },
+  {
+    "input": "(901 - 96)",
+    "expectedOutput": 805
+  },
+  {
+    "input": "((15 - 259) + (272 - (467 + 444)))",
+    "expectedOutput": -883
+  },
+  {
+    "input": "667",
+    "expectedOutput": 667
+  },
+  {
+    "input": "(641 - 542)",
+    "expectedOutput": 99
+  },
+  {
+    "input": "810",
+    "expectedOutput": 810
+  },
+  {
+    "input": "((806 + 639) - (940 + 826))",
+    "expectedOutput": -321
+  },
+  {
+    "input": "452",
+    "expectedOutput": 452
+  },
+  {
+    "input": "((656 + (3 + 95)) - (177 - (168 + 375)))",
+    "expectedOutput": 1120
+  },
+  {
+    "input": "((449 + 408) - (729 - 524))",
+    "expectedOutput": 652
+  },
+  {
+    "input": "((40 + 635) + (353 + (795 + 317)))",
+    "expectedOutput": 2140
+  },
+  {
+    "input": "((383 + 612) + (908 - (849 + 423)))",
+    "expectedOutput": 631
+  },
+  {
+    "input": "((214 - 952) - (818 - 660))",
+    "expectedOutput": -896
+  },
+  {
+    "input": "(637 + (124 + 573))",
+    "expectedOutput": 1334
+  },
+  {
+    "input": "(351 + 904)",
+    "expectedOutput": 1255
+  },
+  {
+    "input": "((842 + 770) - (555 - 454))",
+    "expectedOutput": 1511
+  },
+  {
+    "input": "123",
+    "expectedOutput": 123
+  },
+  {
+    "input": "269",
+    "expectedOutput": 269
+  },
+  {
+    "input": "489",
+    "expectedOutput": 489
+  },
+  {
+    "input": "((981 + 356) + (234 - 251))",
+    "expectedOutput": 1320
+  },
+  {
+    "input": "(760 + (486 - 111))",
+    "expectedOutput": 1135
+  },
+  {
+    "input": "((640 + (869 + 986)) - (459 - (745 - 452)))",
+    "expectedOutput": 2329
+  },
+  {
+    "input": "(809 - (97 - 468))",
+    "expectedOutput": 1180
+  },
+  {
+    "input": "(729 + 209)",
+    "expectedOutput": 938
+  },
+  {
+    "input": "752",
+    "expectedOutput": 752
+  },
+  {
+    "input": "((719 + (301 + 477)) + (834 + (874 - 634)))",
+    "expectedOutput": 2571
+  },
+  {
+    "input": "(561 - 904)",
+    "expectedOutput": -343
+  },
+  {
+    "input": "((821 - 392) + (484 - (767 - 228)))",
+    "expectedOutput": 374
+  },
+  {
+    "input": "(324 - 799)",
+    "expectedOutput": -475
+  },
+  {
+    "input": "((30 - (187 + 435)) + (218 + (905 - 248)))",
+    "expectedOutput": 283
+  },
+  {
+    "input": "((608 + 760) - (506 - (179 - 480)))",
+    "expectedOutput": 561
+  },
+  {
+    "input": "(910 + (823 - 845))",
+    "expectedOutput": 888
+  },
+  {
+    "input": "12",
+    "expectedOutput": 12
+  },
+  {
+    "input": "534",
+    "expectedOutput": 534
+  },
+  {
+    "input": "899",
+    "expectedOutput": 899
+  },
+  {
+    "input": "((123 + 481) + (133 + (923 + 567)))",
+    "expectedOutput": 2227
+  },
+  {
+    "input": "(229 + (103 + 956))",
+    "expectedOutput": 1288
+  },
+  {
+    "input": "(691 - 181)",
+    "expectedOutput": 510
+  },
+  {
+    "input": "(357 + (715 + 313))",
+    "expectedOutput": 1385
+  },
+  {
+    "input": "((992 + (18 + 101)) + (957 - (578 - 794)))",
+    "expectedOutput": 2284
+  },
+  {
+    "input": "359",
+    "expectedOutput": 359
+  },
+  {
+    "input": "((959 + 513) - (332 + (90 - 588)))",
+    "expectedOutput": 1638
+  },
+  {
+    "input": "(577 - (17 + 494))",
+    "expectedOutput": 66
+  },
+  {
+    "input": "(501 - 653)",
+    "expectedOutput": -152
+  },
+  {
+    "input": "(303 - 545)",
+    "expectedOutput": -242
+  },
+  {
+    "input": "(820 - 972)",
+    "expectedOutput": -152
+  },
+  {
+    "input": "((318 + (702 - 461)) + (599 + (659 - 59)))",
+    "expectedOutput": 1758
+  },
+  {
+    "input": "((654 + (855 - 479)) - (623 + (956 - 271)))",
+    "expectedOutput": -278
+  },
+  {
+    "input": "630",
+    "expectedOutput": 630
+  },
+  {
+    "input": "((452 + 227) - (586 + 116))",
+    "expectedOutput": -23
+  },
+  {
+    "input": "(406 + 612)",
+    "expectedOutput": 1018
+  },
+  {
+    "input": "((591 + 461) - (983 + (773 - 211)))",
+    "expectedOutput": -493
+  },
+  {
+    "input": "149",
+    "expectedOutput": 149
+  },
+  {
+    "input": "((117 - 666) + (204 + (204 + 400)))",
+    "expectedOutput": 259
+  },
+  {
+    "input": "((692 + (387 - 533)) + (251 + (586 - 419)))",
+    "expectedOutput": 964
+  },
+  {
+    "input": "(357 - 407)",
+    "expectedOutput": -50
+  },
+  {
+    "input": "917",
+    "expectedOutput": 917
+  },
+  {
+    "input": "384",
+    "expectedOutput": 384
+  },
+  {
+    "input": "408",
+    "expectedOutput": 408
+  },
+  {
+    "input": "((988 + (226 + 705)) + (144 + (459 + 982)))",
+    "expectedOutput": 3504
+  },
+  {
+    "input": "(682 + (290 + 801))",
+    "expectedOutput": 1773
+  },
+  {
+    "input": "((228 - (659 - 660)) - (292 - (712 + 518)))",
+    "expectedOutput": 1167
+  },
+  {
+    "input": "((594 - (249 - 559)) - (903 + (721 - 307)))",
+    "expectedOutput": -413
+  },
+  {
+    "input": "((272 + (28 + 560)) + (163 + (954 + 481)))",
+    "expectedOutput": 2458
+  },
+  {
+    "input": "((598 + 610) + (781 + 780))",
+    "expectedOutput": 2769
+  },
+  {
+    "input": "340",
+    "expectedOutput": 340
+  },
+  {
+    "input": "((898 + 755) - (3 - 153))",
+    "expectedOutput": 1803
+  },
+  {
+    "input": "(23 + 103)",
+    "expectedOutput": 126
+  },
+  {
+    "input": "(972 - (490 + 505))",
+    "expectedOutput": -23
+  },
+  {
+    "input": "((909 + 897) - (312 + (259 - 247)))",
+    "expectedOutput": 1482
+  },
+  {
+    "input": "((126 + 988) + (501 + 845))",
+    "expectedOutput": 2460
+  },
+  {
+    "input": "((685 + 374) + (559 + (400 - 206)))",
+    "expectedOutput": 1812
+  },
+  {
+    "input": "((56 + 778) + (586 - (840 - 539)))",
+    "expectedOutput": 1119
+  },
+  {
+    "input": "((205 - (287 - 874)) + (383 + (368 - 975)))",
+    "expectedOutput": 568
+  },
+  {
+    "input": "((680 + 281) + (198 - (14 + 44)))",
+    "expectedOutput": 1101
+  },
+  {
+    "input": "((863 - 522) + (585 - (833 + 581)))",
+    "expectedOutput": -488
+  },
+  {
+    "input": "670",
+    "expectedOutput": 670
+  },
+  {
+    "input": "((982 - 732) - (648 - 596))",
+    "expectedOutput": 198
+  },
+  {
+    "input": "((558 + 996) + (969 + (52 + 460)))",
+    "expectedOutput": 3035
+  },
+  {
+    "input": "((274 + 718) - (210 + (905 + 314)))",
+    "expectedOutput": -437
+  },
+  {
+    "input": "(253 - (114 - 147))",
+    "expectedOutput": 286
+  },
+  {
+    "input": "738",
+    "expectedOutput": 738
+  },
+  {
+    "input": "(279 - (575 - 358))",
+    "expectedOutput": 62
+  },
+  {
+    "input": "((657 + (924 + 941)) + (520 - (226 - 466)))",
+    "expectedOutput": 3282
+  },
+  {
+    "input": "((381 - 157) + (899 - (704 + 464)))",
+    "expectedOutput": -45
+  },
+  {
+    "input": "((377 - 751) - (115 + (833 - 885)))",
+    "expectedOutput": -437
+  },
+  {
+    "input": "((890 - 923) - (95 + 880))",
+    "expectedOutput": -1008
+  },
+  {
+    "input": "((232 + 818) - (701 + (433 - 540)))",
+    "expectedOutput": 456
+  },
+  {
+    "input": "((923 - (330 - 42)) + (176 + (557 - 424)))",
+    "expectedOutput": 944
+  },
+  {
+    "input": "536",
+    "expectedOutput": 536
+  },
+  {
+    "input": "(89 - 732)",
+    "expectedOutput": -643
+  },
+  {
+    "input": "((716 - (93 + 549)) - (301 - (808 + 967)))",
+    "expectedOutput": 1548
+  },
+  {
+    "input": "(683 - 642)",
+    "expectedOutput": 41
+  },
+  {
+    "input": "(240 + (833 - 762))",
+    "expectedOutput": 311
+  },
+  {
+    "input": "((278 + 820) - (477 + (804 - 990)))",
+    "expectedOutput": 807
+  },
+  {
+    "input": "(945 + 511)",
+    "expectedOutput": 1456
+  },
+  {
+    "input": "((619 + 374) - (54 - 795))",
+    "expectedOutput": 1734
+  },
+  {
+    "input": "981",
+    "expectedOutput": 981
+  },
+  {
+    "input": "476",
+    "expectedOutput": 476
+  },
+  {
+    "input": "((168 - (142 - 897)) + (561 + (400 - 185)))",
+    "expectedOutput": 1699
+  },
+  {
+    "input": "(543 - 288)",
+    "expectedOutput": 255
+  },
+  {
+    "input": "((234 + (638 + 697)) + (896 + (713 + 260)))",
+    "expectedOutput": 3438
+  },
+  {
+    "input": "(599 + 148)",
+    "expectedOutput": 747
+  },
+  {
+    "input": "((748 - 359) - (415 - (691 - 345)))",
+    "expectedOutput": 320
+  },
+  {
+    "input": "((832 + 408) + (661 - (330 - 176)))",
+    "expectedOutput": 1747
+  },
+  {
+    "input": "((347 + 996) - (160 - 309))",
+    "expectedOutput": 1492
+  },
+  {
+    "input": "(73 - 37)",
+    "expectedOutput": 36
+  },
+  {
+    "input": "((226 + 260) + (979 + 984))",
+    "expectedOutput": 2449
+  },
+  {
+    "input": "((314 - 647) - (680 + 595))",
+    "expectedOutput": -1608
+  },
+  {
+    "input": "338",
+    "expectedOutput": 338
+  },
+  {
+    "input": "((109 - 610) - (445 + (401 + 107)))",
+    "expectedOutput": -1454
+  },
+  {
+    "input": "((546 - 208) - (4 - (771 - 463)))",
+    "expectedOutput": 642
+  },
+  {
+    "input": "((611 - (727 - 516)) + (206 - (509 - 293)))",
+    "expectedOutput": 390
+  },
+  {
+    "input": "(334 - (429 + 314))",
+    "expectedOutput": -409
+  },
+  {
+    "input": "((702 - (616 + 534)) - (687 + (385 - 166)))",
+    "expectedOutput": -1354
+  },
+  {
+    "input": "(599 - 204)",
+    "expectedOutput": 395
+  },
+  {
+    "input": "689",
+    "expectedOutput": 689
+  },
+  {
+    "input": "((147 + (289 + 94)) - (528 - (609 - 70)))",
+    "expectedOutput": 541
+  },
+  {
+    "input": "((671 + 444) - (715 + 195))",
+    "expectedOutput": 205
+  },
+  {
+    "input": "(421 - (869 - 238))",
+    "expectedOutput": -210
+  },
+  {
+    "input": "(735 + 567)",
+    "expectedOutput": 1302
+  },
+  {
+    "input": "((358 - 356) - (490 - (671 - 390)))",
+    "expectedOutput": -207
+  },
+  {
+    "input": "((418 + (898 + 351)) - (443 + (716 - 245)))",
+    "expectedOutput": 753
+  },
+  {
+    "input": "((776 - 733) - (459 + 540))",
+    "expectedOutput": -956
+  },
+  {
+    "input": "((686 + 511) + (536 + (659 + 338)))",
+    "expectedOutput": 2730
+  },
+  {
+    "input": "((359 - (581 + 833)) - (137 - (849 + 379)))",
+    "expectedOutput": 36
+  },
+  {
+    "input": "((113 + 99) - (935 - 335))",
+    "expectedOutput": -388
+  },
+  {
+    "input": "((990 + (906 - 939)) + (838 + (417 - 999)))",
+    "expectedOutput": 1213
   }
 ]

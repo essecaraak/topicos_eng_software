@@ -10,11 +10,12 @@ const { calculate, count } = require('../prob3'); // Importe suas funções aqui
 const testCases = JSON.parse(fs.readFileSync(path.resolve('testProb3.json'), 'utf-8'));
 
 describe('Testando as funções calculate e count', () => {
+
     testCases.forEach((testCase, index) => {
         const { input, expectedOutput } = testCase;
 
         test(`Teste ${index + 1}: calculate(${input}) deve retornar ${expectedOutput}`, () => {
-            expect(calculate(input)).toBe(expectedOutput);
+            expect(calculate(input)).toBe(expectedOutput)
         });
 
         // test(`Teste ${index + 1}: checkPalindrome(${input}) deve retornar ${expectedOutput}`, () => {
