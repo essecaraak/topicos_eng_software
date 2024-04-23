@@ -1,15 +1,13 @@
 function calculate(s) {
-    if(s==""){
+    
+    if(s=="" ||s==null){
         return false
     }
-    if(ischar(s)==false){
+    if(!ischar(s)){
         return false
     }
-    if(typeof s!="string"){
-        return false
-        
-    }
-    if(s.size>=300000 ||s.size<1 || s.size==undefined){
+   
+    if(s.length>=300000 ||s.length<1 || s.length==undefined ){
         return false
     }
     s = "(" + s + ")"
@@ -32,7 +30,10 @@ function calculate(s) {
         }
         stack.push(s[i]);
     }
-    return parseInt(stack[0])
+    if(parseInt(stack[0])<2147483648){
+        return parseInt(stack[0])
+    }else return false
+    
     
 };
 
@@ -53,9 +54,19 @@ function isNum(str) {
     return /[0-9]+/.test(str);
 }
 function ischar(str) {
-    return /^[0-9()+-\s]+$/.test(str);
+    text=["1","2","3","4","5","6","7","8","9","0","(",")"," ","+","-"]
+
+    for (let i = 0; i < str.length; i++) {
+        if (!text.includes(str[i])) {
+            
+            return false;
+        } 
+    }
+    return true;
+
+    
 }
 
-console.log(calculate(["1 + 2"]))
+
 
 module.exports = { calculate, count };
