@@ -4,7 +4,8 @@ const { default: expect } = require("expect");
 
 const fs = require('fs');
 const path = require('path');
-const { calculate, count } = require('../prob3'); // Importe suas funções aqui
+const prob3 = require('../prob3'); // Importe suas funções aqui
+prob3.count = jest.fn();
 
 // Lendo o arquivo JSON com os casos de teste
 const testCases = JSON.parse(fs.readFileSync(path.resolve('testProb3.json'), 'utf-8'));
@@ -15,7 +16,7 @@ describe('Testando as funções calculate e count', () => {
         const { input, expectedOutput } = testCase;
 
         test(`Teste ${index + 1}: calculate(${input}) deve retornar ${expectedOutput}`, () => {
-            expect(calculate(input)).toBe(expectedOutput)
+            expect(prob3.calculate(input)).toBe(expectedOutput)
         });
 
         // test(`Teste ${index + 1}: checkPalindrome(${input}) deve retornar ${expectedOutput}`, () => {
